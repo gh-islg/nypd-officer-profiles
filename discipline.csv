@@ -104,9 +104,12 @@ taxid,date,disposition,command,case_no,description,penalty,type,recommendation
 934373,2/21/2017,GUILTY,045-045 PRECINCT,2016-16217,"WHILE OFF-DUTY, IMPROPERLY CARRIED AN UNAUTHORIZED FIREARM.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), VACATION DAYS (19 day(s) )",charge,
 965647,5/9/2022,,,2021-24179,01.Made an inaccurate entry in Department records.,"C - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,C-CD
 965647,5/9/2022,,,2021-24179,02.Violated Paid Detail guidelines.,"C - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,C-CD
-968213,8/1/2022,,,2021-24284,01.Failed to make required entries in Department Logs.,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,B-CD
-968213,8/1/2022,,,2021-24284,02.Failed to notify supervisor.,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,B-CD
-968213,8/1/2022,,,2021-24284,03.Failure to render medical aid,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,B-CD
+968213,8/1/2022,,,2021-24284,01.Failed to make required entries in Department Logs.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",allegation,B-CD
+968213,8/1/2022,,,2021-24284,01.Failed to make required entries in Department Logs.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",allegation,B-CD
+968213,8/1/2022,,,2021-24284,02.Failed to notify supervisor.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",allegation,B-CD
+968213,8/1/2022,,,2021-24284,02.Failed to notify supervisor.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",allegation,B-CD
+968213,8/1/2022,,,2021-24284,03.Failure to render medical aid,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",allegation,B-CD
+968213,8/1/2022,,,2021-24284,03.Failure to render medical aid,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",allegation,B-CD
 948457,5/3/2023,,,2023-28153,01.Made computer inquiries unrelated to official Department business.,"C - COMMAND DISCIPLINE, VACATION DAYS (10 day(s) )",allegation,C-CD
 949973,6/8/2015,PLEADED GUILTY,070-070 PRECINCT,2015-13527,"WHILE ON-DUTY, ENGAGED IN PROHIBITED CONDUCT RESULTING IN INJURY.",VACATION DAYS (25 day(s) ),charge,
 949973,5/14/2022,,,2022-25099,01.Wrongfully threatened to arrest an individual known to the Department.,,allegation,B-CD
@@ -174,7 +177,8 @@ Failed to prepare required reports.",VACATION DAYS (10 day(s) ),charge,
 970377,12/7/2021,,,2021-24183,04.Made false statements during an official Department interview.,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,NO DISCIPLINARY ACTION
 970377,12/7/2021,,,2021-24183,05.Wrongfully used a chokehold.,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,NO DISCIPLINARY ACTION
 963842,11/17/2022,,,2022-27432,01.Wrongful threat of force.,,allegation,B-CD
-966932,10/17/2022,,,2022-26964,01.Wrongfully discourteous to an individual known to the Department.,A - COMMAND DISCIPLINE,allegation,A-CD
+966932,10/17/2022,,,2022-26964,01.Wrongfully discourteous to an individual known to the Department.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
+966932,10/17/2022,,,2022-26964,01.Wrongfully discourteous to an individual known to the Department.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
 954471,9/22/2021,PLEADED GUILTY,139-SOD STRAT RESP GRP 3 BKLYN,2021-23827,Made computer inquiries unrelated to official Department business.,VACATION DAYS (20 day(s) ),charge,
 954471,9/22/2021,PLEADED GUILTY,139-SOD STRAT RESP GRP 3 BKLYN,2021-23827,Made computer inquiries unrelated to official Department business.,VACATION DAYS (20 day(s) ),charge,
 952390,12/14/2020,GUILTY,806-HOUSING PSA 6,2020-22811,Failed to safeguard a prisoner resulting is loss,"PRE-TRIAL SUSPENSION DAYS (11 day(s) ), VACATION DAYS (12 day(s) )",charge,
@@ -260,6 +264,7 @@ Vehicle Movement/Utilization, Radio Log, Vehicle Assignment, DV Activity Log).",
 949991,6/14/2022,,,2022-25129,01.Wrongfully discourteous to an individual known to the Department.,A - COMMAND DISCIPLINE,allegation,A-CD
 932247,5/13/2020,GUILTY,579-MANHATTAN COURT SECTION,2019-21358,Made improper contact/communications,VACATION DAYS (45 day(s) ),charge,
 932247,5/13/2020,GUILTY,579-MANHATTAN COURT SECTION,2019-21358,Wrongfully touched another Member of the Service,VACATION DAYS (45 day(s) ),charge,
+968930,6/16/2023,,,2023-28582,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
 964876,5/24/2023,,,2022-27287,01.Failed to make proper notifications.,"B - COMMAND DISCIPLINE, VACATION DAYS (2 day(s) )",allegation,B-CD
 964876,5/24/2023,,,2022-27287,02.Failed to make required entries in Department Logs.,"B - COMMAND DISCIPLINE, VACATION DAYS (2 day(s) )",allegation,B-CD
 958234,4/26/2022,,,2022-24625,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
@@ -325,8 +330,6 @@ Vehicle Movement/Utilization, Radio Log, Vehicle Assignment, DV Activity Log).",
 941345,8/25/2016,GUILTY,048-048 PRECINCT,2016-15912,"WHILE ON-DUTY, ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT, IN THAT HE AUTHORIZED THE STRIP-SEARCH OF A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",VACATION DAYS (12 day(s) ),charge,
 939872,3/19/2019,GUILTY,049-049 PRECINCT,2018-19963,"WHILE OFF-DUTY DID WRONGFULLY PLACED HIS HAND ON, AND APPLY PRESSURE TO, THE NECK OF ANOTHER PERSON.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (32 day(s) )",charge,
 924884,3/6/2023,,,2022-27507,01.Wrongful entry of a premises.,,allegation,NO DISCIPLINARY ACTION
-924884,3/6/2023,,,2022-27507,01.Wrongful entry of a premises.,,allegation,NO DISCIPLINARY ACTION
-924884,3/6/2023,,,2022-27507,02.Wrongful search of a premises.,,allegation,NO DISCIPLINARY ACTION
 924884,3/6/2023,,,2022-27507,02.Wrongful search of a premises.,,allegation,NO DISCIPLINARY ACTION
 961616,1/9/2023,,,2022-27314,01.Violated patrol rules - failed to provide business card,A - COMMAND DISCIPLINE,allegation,A-CD
 892728,6/27/2019,GUILTY,552-RECRUIT TRAINING SECTION,2019-20450,Fraternization.,VACATION DAYS (20 day(s) ),charge,
@@ -338,13 +341,9 @@ Vehicle Movement/Utilization, Radio Log, Vehicle Assignment, DV Activity Log).",
 952412,4/29/2020,GUILTY,870-TRANSIT BUREAU DISTRICT 33,2018-19601,Failed to safeguard a firearm (resulting in loss/theft or not).,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, SUSPENDED W/O PAY (20 day(s) ), VACATION DAYS (10 day(s) )",charge,
 952412,4/29/2020,GUILTY,870-TRANSIT BUREAU DISTRICT 33,2018-19601,Unfit for duty while armed.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, SUSPENDED W/O PAY (20 day(s) ), VACATION DAYS (10 day(s) )",charge,
 952412,4/29/2020,GUILTY,870-TRANSIT BUREAU DISTRICT 33,2018-19601,"Failed to safeguard Department property (not equipment, i.e.: ID card, shield, radio, parking plaque, Activity Log, cellphone, uniform apparel, vehicle, office, desk).","COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, SUSPENDED W/O PAY (20 day(s) ), VACATION DAYS (10 day(s) )",charge,
-959455,7/19/2022,,,2022-24598,01.Failed to timely activate their body worn camera.,"TRAINING, TRAINING",allegation,TRAINING
-959455,7/19/2022,,,2022-24598,01.Failed to timely activate their body worn camera.,"TRAINING, TRAINING",allegation,TRAINING
-959455,2/23/2023,,,2022-24890,01.Wrongfully frisked an individual known to the Department.,,allegation,B-CD
+959455,7/19/2022,,,2022-24598,01.Failed to timely activate their body worn camera.,TRAINING,allegation,TRAINING
 959455,2/23/2023,,,2022-24890,01.Wrongfully frisked an individual known to the Department.,,allegation,B-CD
 959455,2/23/2023,,,2022-24890,02.Wrongfully searched an individual known to the Department.,,allegation,B-CD
-959455,2/23/2023,,,2022-24890,02.Wrongfully searched an individual known to the Department.,,allegation,B-CD
-959455,2/23/2023,,,2022-24892,01.Violated patrol rules.,,allegation,OTHER
 959455,2/23/2023,,,2022-24892,01.Violated patrol rules.,,allegation,OTHER
 967752,6/7/2023,,,2023-27969,01.Wrongful search of a premises.,,allegation,NO DISCIPLINARY ACTION
 967423,12/1/2022,,,2022-26232,01.Failed to obtain medical treatment.,,allegation,CHARGES AND SPECIFICATIONS
@@ -548,7 +547,6 @@ Off post","DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (25 day(s) )",charg
 952439,3/28/2022,,,2021-24112,01.Failed to activate their body worn camera,,allegation,OTHER
 952439,3/28/2022,,,2021-24112,02.Failed to make required entries in Department Logs.,,allegation,OTHER
 966455,3/17/2023,,,2023-28013,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
-966455,3/17/2023,,,2023-28013,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
 953656,5/16/2023,,,2022-27579,01.Violated patrol rules.,,allegation,A-CD
 953656,5/16/2023,,,2022-27579,02.Wrongful search of a premises.,,allegation,NO DISCIPLINARY ACTION
 962238,3/21/2021,GUILTY,62-062 PRECINCT,2020-22583,Made misleading or inaccurate statements during an official Department interview.,VACATION DAYS (5 day(s) ),charge,
@@ -641,11 +639,9 @@ Failed to make required entries in Department Logs.",VACATION DAYS (25 day(s) ),
 953671,2/6/2020,PLEADED GUILTY,040-040 PRECINCT,2019-21164,Failed to take police action/render police services.,"SUSPENDED W/O PAY (5 day(s) ), VACATION DAYS (30 day(s) )",charge,
 953671,2/6/2020,PLEADED GUILTY,040-040 PRECINCT,2019-21164,Failed to activate their body-worn camera.,"SUSPENDED W/O PAY (5 day(s) ), VACATION DAYS (30 day(s) )",charge,
 954534,5/13/2022,,,2022-25082,01.Violated patrol rules.,,allegation,B-CD
-954534,5/13/2022,,,2022-25082,01.Violated patrol rules.,,allegation,B-CD
-954534,5/13/2022,,,2022-25083,01.Failed to timely activate their body worn camera.,,allegation,OTHER
 954534,5/13/2022,,,2022-25083,01.Failed to timely activate their body worn camera.,,allegation,OTHER
 960216,3/17/2021,GUILTY,066-066 PRECINCT,2018-19560,"while off-duty, sent inappropriate and harassing text messages to a person known to the Department.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (40 day(s) )",charge,
-960217,7/22/2022,,,2022-26174,01.Wrongfully discourteous.,,allegation,A-CD
+960217,7/16/2022,,,2022-26174,01.Wrongfully discourteous.,,allegation,A-CD
 968270,5/16/2023,,,2023-28389,01.Wrongful entry of a premises.,,allegation,A-CD
 968270,5/16/2023,,,2023-28389,02.Wrongful search of a premises.,,allegation,A-CD
 960218,7/7/2022,,,2020-22950,01.Improper entry into a premise,TRAINING,allegation,TRAINING
@@ -666,6 +662,7 @@ Failed to make required entries in Department Logs.",VACATION DAYS (25 day(s) ),
 927910,4/5/2022,,,2017-17205,02.Said Police Officer failed to perform patrol duties.,"B - COMMAND DISCIPLINE, VACATION DAYS (10 day(s) )",allegation,CHARGES AND SPECIFICATIONS
 950063,5/9/2022,,,2022-24899,01.Violated patrol rules.,,allegation,B-CD
 950064,1/11/2017,GUILTY,014-MIDTOWN PRECINCT SOUTH,2016-16833,WHILE ON-DUTY WRONGFULLY FAILED TO SAFEGUARD A HOSPITALIZED PRISONER RESULTING IN THE ESCAPE OF SAID PRISONER.,"PRE-TRIAL SUSPENSION DAYS (10 day(s) ), VACATION DAYS (10 day(s) )",charge,
+960224,6/6/2023,,,2020-22015,01.Improper frisk.,TRAINING,allegation,A-CD
 946774,2/1/2023,,,2022-26083,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 945501,2/18/2023,,,2022-25077,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 945501,2/18/2023,,,2022-25077,02.Wrongfully deactivated their body worn camera.,,allegation,OTHER
@@ -724,13 +721,11 @@ Failed to make required entries in Department Logs.",VACATION DAYS (25 day(s) ),
 958308,1/10/2023,,,2022-26328,02.Failed to make required entries in Department Logs.,,allegation,OTHER
 958308,1/10/2023,,,2022-26328,03.Failed to prepare required reports.,,allegation,OTHER
 960244,2/23/2023,,,2022-25110,01.Failed to activate their body worn camera.,,allegation,OTHER
-960244,2/23/2023,,,2022-25110,01.Failed to activate their body worn camera.,,allegation,OTHER
 960244,2/24/2023,,,2022-26652,01.Failed to make required entries in Department Logs.,,allegation,OTHER
-960244,2/24/2023,,,2022-26652,01.Failed to make required entries in Department Logs.,,allegation,OTHER
-960244,2/24/2023,,,2022-26652,02.Failed to timely activate their body worn camera.,,allegation,OTHER
 960244,2/24/2023,,,2022-26652,02.Failed to timely activate their body worn camera.,,allegation,OTHER
 950075,12/18/2014,GUILTY,075-075 PRECINCT,2014-11348,OFFICER USED FORCE WITHOUT POLICE NECESSITY.,VACATION DAYS (10 day(s) ),charge,
-960245,1/17/2023,,,2022-27292,01.Failed to notify.,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,B-CD
+960245,1/17/2023,,,2022-27292,01.Failed to notify.,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) ), B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,B-CD
+960245,1/17/2023,,,2022-27292,01.Failed to notify.,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) ), B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,B-CD
 941421,1/10/2019,GUILTY,382-SPECIALIZED TRAINING SECTION,2019-19984,WAS OUT OF RESIDENCE WHILE ON SICK REPORT WITHOUT THE PERMISSION OF THE MEDICAL DIVISION SICK DESK SUPERVISOR OR DISTRICT SURGEON.,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,
 941421,1/10/2019,GUILTY,382-SPECIALIZED TRAINING SECTION,2019-19984,MADE FALSE STATEMENTS DURING AN OFFICIAL DEPARTMENT INTERVIEW.,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,
 944364,3/28/2023,,,2022-26954,01.Wrongfully stopped an individual known to the Department.,"A - COMMAND DISCIPLINE, TRAINING",allegation,"A-CD,                                                                                                                                                                                                             TRAINING"
@@ -815,8 +810,7 @@ Wrongfully unholstered/displayed a Taser.",,allegation,B-CD
 944559,5/4/2022,,,2021-23929,02.failed to safeguard evidence,"C - COMMAND DISCIPLINE, VACATION DAYS (10 day(s) )",allegation,CHARGES AND SPECIFICATIONS
 957394,1/16/2023,,,2020-22260,01.Improper frisk.,TRAINING,allegation,TRAINING
 957394,1/16/2023,,,2020-22260,02.Improperly threatened to arrest a person known to the department.,TRAINING,allegation,TRAINING
-954556,6/23/2022,,,2022-25170,01.Wrongfully discourteous to an individual known to the Department.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
-954556,6/23/2022,,,2022-25170,01.Wrongfully discourteous to an individual known to the Department.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
+954556,6/23/2022,,,2022-25170,01.Wrongfully discourteous to an individual known to the Department.,A - COMMAND DISCIPLINE,allegation,A-CD
 960263,5/2/2023,,,2023-27962,01.Violated patrol rules - failed to provide a business card,A - COMMAND DISCIPLINE,allegation,A-CD
 946793,7/11/2022,,,2022-26226,01.Wrongfully frisked an individual known to the Department.,,allegation,B-CD
 946793,7/11/2022,,,2022-26226,02.Wrongfully stopped an individual known to the Department.,,allegation,B-CD
@@ -888,20 +882,34 @@ Wrongfully deactivated their body-worn camera.",,allegation,OTHER
 963410,12/2/2022,,,2022-25662,01.Wrongfully used physical force.,,allegation,CHARGES AND SPECIFICATIONS
 963410,1/16/2023,,,2022-25511,01.Failed to activate their body worn camera.,,allegation,OTHER
 963410,2/23/2023,,,2022-24893,01.Violated patrol rules.,,allegation,OTHER
-966969,1/13/2022,,,2021-24398,01.Failed to activate body-worn camera while on duty.,"C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) )",allegation,B-CD
-966969,1/13/2022,,,2021-24398,02.Failed to maintain activity log while on duty.,"C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) )",allegation,B-CD
-966969,1/13/2022,,,2021-24398,03.Failed to notify the radio dispatcher about a vehicle pursuit.,"C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) )",allegation,B-CD
-966969,1/13/2022,,,2021-24398,04.Improper vehicle pursuit while on duty.,"C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) )",allegation,B-CD
-966969,7/22/2022,GUILTY,023-023 PRECINCT,2021-23834,Failed to activate body-worn camera while on duty.,VACATION DAYS (5 day(s) ),charge,
-966969,7/22/2022,GUILTY,023-023 PRECINCT,2021-23834,Failed to make notifications while on duty.,VACATION DAYS (5 day(s) ),charge,
+966969,1/13/2022,,,2021-24398,01.Failed to activate body-worn camera while on duty.,"C - COMMAND DISCIPLINE, C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) ), VACATION DAYS (18 day(s) )",allegation,B-CD
+966969,1/13/2022,,,2021-24398,01.Failed to activate body-worn camera while on duty.,"C - COMMAND DISCIPLINE, C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) ), VACATION DAYS (18 day(s) )",allegation,B-CD
+966969,1/13/2022,,,2021-24398,02.Failed to maintain activity log while on duty.,"C - COMMAND DISCIPLINE, C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) ), VACATION DAYS (18 day(s) )",allegation,B-CD
+966969,1/13/2022,,,2021-24398,02.Failed to maintain activity log while on duty.,"C - COMMAND DISCIPLINE, C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) ), VACATION DAYS (18 day(s) )",allegation,B-CD
+966969,1/13/2022,,,2021-24398,03.Failed to notify the radio dispatcher about a vehicle pursuit.,"C - COMMAND DISCIPLINE, C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) ), VACATION DAYS (18 day(s) )",allegation,B-CD
+966969,1/13/2022,,,2021-24398,03.Failed to notify the radio dispatcher about a vehicle pursuit.,"C - COMMAND DISCIPLINE, C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) ), VACATION DAYS (18 day(s) )",allegation,B-CD
+966969,1/13/2022,,,2021-24398,04.Improper vehicle pursuit while on duty.,"C - COMMAND DISCIPLINE, C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) ), VACATION DAYS (18 day(s) )",allegation,B-CD
+966969,1/13/2022,,,2021-24398,04.Improper vehicle pursuit while on duty.,"C - COMMAND DISCIPLINE, C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) ), VACATION DAYS (18 day(s) )",allegation,B-CD
+966969,7/22/2022,GUILTY,023-023 PRECINCT,2021-23834,Failed to activate body-worn camera while on duty.,"VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",charge,
+966969,7/22/2022,GUILTY,023-023 PRECINCT,2021-23834,Failed to activate body-worn camera while on duty.,"VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",charge,
+966969,7/22/2022,GUILTY,023-023 PRECINCT,2021-23834,Failed to make notifications while on duty.,"VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",charge,
+966969,7/22/2022,GUILTY,023-023 PRECINCT,2021-23834,Failed to make notifications while on duty.,"VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",charge,
 966969,8/9/2022,,,2022-25920,01.Failed to activate their body worn camera.,,allegation,OTHER
-966969,8/10/2022,,,2022-25919,01.Wrongfully frisked an individual.,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,A-CD
-966969,8/10/2022,,,2022-25919,02.Wrongfully stopped an individual.,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,A-CD
+966969,8/9/2022,,,2022-25920,01.Failed to activate their body worn camera.,,allegation,OTHER
+966969,8/10/2022,,,2022-25919,01.Wrongfully frisked an individual.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES",allegation,A-CD
+966969,8/10/2022,,,2022-25919,01.Wrongfully frisked an individual.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES",allegation,A-CD
+966969,8/10/2022,,,2022-25919,02.Wrongfully stopped an individual.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES",allegation,A-CD
+966969,8/10/2022,,,2022-25919,02.Wrongfully stopped an individual.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES",allegation,A-CD
+966969,8/29/2022,,,2022-26826,01.Made false statements during a Civilian Complaint Review Board interview.,,allegation,CHARGES AND SPECIFICATIONS
 966969,8/29/2022,,,2022-26826,01.Made false statements during a Civilian Complaint Review Board interview.,,allegation,CHARGES AND SPECIFICATIONS
 966969,8/29/2022,,,2022-26826,02.Wrongfully searched an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
+966969,8/29/2022,,,2022-26826,02.Wrongfully searched an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
+966969,8/29/2022,,,2022-26826,03.Wrongfully stopped an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
 966969,8/29/2022,,,2022-26826,03.Wrongfully stopped an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
 966969,8/29/2022,,,2022-26826,04.Wrongfully used physical force.,,allegation,CHARGES AND SPECIFICATIONS
-966969,1/23/2023,,,2022-27397,01.Wrongfully frisked an individual known to the Department.,A - COMMAND DISCIPLINE,allegation,A-CD
+966969,8/29/2022,,,2022-26826,04.Wrongfully used physical force.,,allegation,CHARGES AND SPECIFICATIONS
+966969,1/23/2023,,,2022-27397,01.Wrongfully frisked an individual known to the Department.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
+966969,1/23/2023,,,2022-27397,01.Wrongfully frisked an individual known to the Department.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
 948690,12/18/2014,GUILTY,046-046 PRECINCT,2014-12637,"WHILE ON-DUTY, WRONGFULLY CONSUMED AN INTOXICANT AT A RESTAURANT KNOWN TO THE DEPARTMENT WHILE ON MEAL.",VACATION DAYS (15 day(s) ),charge,
 948690,11/16/2015,GUILTY,183-PBBX SPECIALIZED UNITS,2015-14630,"WHILE OFF-DUTY, FAILED AND NEGLECTED TO PROPERLY SAFEGUARD HIS OFF-DUTY FIREARM.",VACATION DAYS (20 day(s) ),charge,
 948690,8/12/2022,,,2022-26396,01.Failed to activate their body worn camera.,,allegation,OTHER
@@ -988,27 +996,17 @@ Wrongfully deactivated their body-worn camera.",,allegation,OTHER
 943025,1/27/2023,,,2022-27710,01.Wrongfully frisked an individual and individual known to the Department.,,allegation,B-CD
 943025,1/27/2023,,,2022-27710,02.Wrongfully frisked an individual known to the Department.,,allegation,B-CD
 943025,3/27/2023,,,2023-28014,01.Wrongfully arrested an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
-957404,4/11/2023,,,2021-24294,01.Failed to prepare required reports.,"TRAINING, TRAINING",allegation,TRAINING
-957404,4/11/2023,,,2021-24294,01.Failed to prepare required reports.,"TRAINING, TRAINING",allegation,TRAINING
-957404,4/11/2023,,,2021-24294,02.Failed to timely activate body-worm camera.,"TRAINING, TRAINING",allegation,TRAINING
-957404,4/11/2023,,,2021-24294,02.Failed to timely activate body-worm camera.,"TRAINING, TRAINING",allegation,TRAINING
-957404,5/23/2023,,,2021-24293,01.Wrongfully damaged property.,,allegation,CHARGES AND SPECIFICATIONS
+957404,4/11/2023,,,2021-24294,01.Failed to prepare required reports.,TRAINING,allegation,TRAINING
+957404,4/11/2023,,,2021-24294,02.Failed to timely activate body-worm camera.,TRAINING,allegation,TRAINING
 957404,5/23/2023,,,2021-24293,01.Wrongfully damaged property.,,allegation,CHARGES AND SPECIFICATIONS
 957404,5/23/2023,,,2021-24293,02.Wrongfully searched an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
-957404,5/23/2023,,,2021-24293,02.Wrongfully searched an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
-957404,5/23/2023,,,2021-24293,03.Wrongfully used physical force.,,allegation,CHARGES AND SPECIFICATIONS
 957404,5/23/2023,,,2021-24293,03.Wrongfully used physical force.,,allegation,CHARGES AND SPECIFICATIONS
 966482,11/3/2022,,,2022-26863,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 966482,3/28/2023,,,2022-26562,01.Failed to make required entries in Department Logs.,TRAINING,allegation,TRAINING
 966482,3/28/2023,,,2022-26562,02.Violated patrol rules - failed to provide a business card,TRAINING,allegation,TRAINING
 963885,1/15/2022,,,2021-24205,01.Wrongful entry of a premises.,,allegation,B-CD
-963885,1/15/2022,,,2021-24205,01.Wrongful entry of a premises.,,allegation,B-CD
-963885,1/15/2022,,,2021-24205,01.Wrongfully threatened to arrest an individual known to the Department.,,allegation,B-CD
 963885,1/15/2022,,,2021-24205,01.Wrongfully threatened to arrest an individual known to the Department.,,allegation,B-CD
 963885,1/15/2022,,,2021-24205,02.Wrongful search of a premises.,,allegation,B-CD
-963885,1/15/2022,,,2021-24205,02.Wrongful search of a premises.,,allegation,B-CD
-963885,1/15/2022,,,2021-24206,"01.Failed to timely activate body-worn camera.
-Wrongfully deactivated body-worn camera.",,allegation,OTHER
 963885,1/15/2022,,,2021-24206,"01.Failed to timely activate body-worn camera.
 Wrongfully deactivated body-worn camera.",,allegation,OTHER
 955770,4/13/2018,GUILTY,028-028 PRECINCT,2018-18752,"while on-duty, failed to inform other officers at the scene of an incident of the circumstances of him placing a person in custody.",VACATION DAYS (5 day(s) ),charge,
@@ -1115,12 +1113,9 @@ Wrongfully deactivated body-worn camera.",,allegation,OTHER
 918799,8/24/2022,,,2022-26430,01.Wrongful search of a premises.,,allegation,NO DISCIPLINARY ACTION
 964412,5/8/2023,,,2023-28261,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
 952522,11/14/2022,,,2022-26778,01.Wrongfully accessed confidential Department information.,"C - COMMAND DISCIPLINE, VACATION DAYS (10 day(s) )",allegation,CHARGES AND SPECIFICATIONS
-929806,11/8/2017,PLEADED GUILTY,822-HOUSING BOROUGH MANHATTAN,2017-18133,WHILE OFF-DUTY SENT INAPPROPRIATE TEXT MESSAGES TO AN INDIVIDUAL KNOWN TO THE DEPARTMENT AND ATTEMPTED TO ENGAGE IN AN INAPPROPRIATE RELATIONSHIP.,"DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (15 day(s) ), VACATION DAYS (15 day(s) )",charge,
-929806,11/8/2017,PLEADED GUILTY,822-HOUSING BOROUGH MANHATTAN,2017-18133,WHILE OFF-DUTY SENT INAPPROPRIATE TEXT MESSAGES TO AN INDIVIDUAL KNOWN TO THE DEPARTMENT AND ATTEMPTED TO ENGAGE IN AN INAPPROPRIATE RELATIONSHIP.,"DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (15 day(s) ), VACATION DAYS (15 day(s) )",charge,
-929806,11/8/2017,PLEADED GUILTY,822-HOUSING BOROUGH MANHATTAN,2017-18133,WHILE OFF-DUTY FAILED TO TAKE POLICE ACTION AFTER LEARNING OF ALLEGED CRIMINAL ACTIVITY BEING COMMITTED BY AN INDIVIDUAL KNOWN TO THE DEPARTMENT.,"DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (15 day(s) ), VACATION DAYS (15 day(s) )",charge,
-929806,11/8/2017,PLEADED GUILTY,822-HOUSING BOROUGH MANHATTAN,2017-18133,WHILE OFF-DUTY FAILED TO TAKE POLICE ACTION AFTER LEARNING OF ALLEGED CRIMINAL ACTIVITY BEING COMMITTED BY AN INDIVIDUAL KNOWN TO THE DEPARTMENT.,"DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (15 day(s) ), VACATION DAYS (15 day(s) )",charge,
-929806,11/8/2017,PLEADED GUILTY,822-HOUSING BOROUGH MANHATTAN,2017-18133,FAILED AND NEGLECTED TO PROPERLY SAFEGUARD HIS OFF-DUTY FIREARM.,"DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (15 day(s) ), VACATION DAYS (15 day(s) )",charge,
-929806,11/8/2017,PLEADED GUILTY,822-HOUSING BOROUGH MANHATTAN,2017-18133,FAILED AND NEGLECTED TO PROPERLY SAFEGUARD HIS OFF-DUTY FIREARM.,"DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (15 day(s) ), VACATION DAYS (15 day(s) )",charge,
+929806,11/8/2017,PLEADED GUILTY,822-HOUSING BOROUGH MANHATTAN,2017-18133,WHILE OFF-DUTY SENT INAPPROPRIATE TEXT MESSAGES TO AN INDIVIDUAL KNOWN TO THE DEPARTMENT AND ATTEMPTED TO ENGAGE IN AN INAPPROPRIATE RELATIONSHIP.,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (15 day(s) )",charge,
+929806,11/8/2017,PLEADED GUILTY,822-HOUSING BOROUGH MANHATTAN,2017-18133,WHILE OFF-DUTY FAILED TO TAKE POLICE ACTION AFTER LEARNING OF ALLEGED CRIMINAL ACTIVITY BEING COMMITTED BY AN INDIVIDUAL KNOWN TO THE DEPARTMENT.,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (15 day(s) )",charge,
+929806,11/8/2017,PLEADED GUILTY,822-HOUSING BOROUGH MANHATTAN,2017-18133,FAILED AND NEGLECTED TO PROPERLY SAFEGUARD HIS OFF-DUTY FIREARM.,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (15 day(s) )",charge,
 934557,9/21/2017,GUILTY,072-072 PRECINCT,2017-17780,Out of the state while on sick leave.,VACATION DAYS (10 day(s) ),charge,
 934557,9/21/2017,GUILTY,072-072 PRECINCT,2017-17780,Out of residence while on sick leave.,VACATION DAYS (10 day(s) ),charge,
 934557,3/9/2021,GUILTY,072-072 PRECINCT,2020-22862,"While off-duty, failed to safeguard a firearm.","PRE-TRIAL SUSPENSION DAYS (20 day(s) ), RESTORATION OF SUSPENSION DAYS (10 day(s) )",charge,
@@ -1355,7 +1350,8 @@ Supervisor, ACS, Commanding Officer if PPO, Operations Unit, CCRB, etc.).","C - 
 968060,4/28/2022,,,2021-23826,01.Wrongfully discourteous to an individual known to the Department.,A - COMMAND DISCIPLINE,allegation,A-CD
 966494,5/24/2023,,,2022-27288,01.Failed to make proper notifications.,"B - COMMAND DISCIPLINE, VACATION DAYS (2 day(s) )",allegation,B-CD
 966494,5/24/2023,,,2022-27288,02.Failed to make required entries in Department Logs.,"B - COMMAND DISCIPLINE, VACATION DAYS (2 day(s) )",allegation,B-CD
-921201,11/6/2021,,,2021-24021,01.Made computer inquiries unrelated to Department business.,INSTRUCTIONS,allegation,B-CD
+921201,11/6/2021,,,2021-24021,01.Made computer inquiries unrelated to Department business.,"INSTRUCTIONS, INSTRUCTIONS",allegation,B-CD
+921201,11/6/2021,,,2021-24021,01.Made computer inquiries unrelated to Department business.,"INSTRUCTIONS, INSTRUCTIONS",allegation,B-CD
 938182,3/25/2023,,,2022-27600,01.Wrongful threat of force.,,allegation,NO DISCIPLINARY ACTION
 941512,12/4/2017,GUILTY,123-123 PRECINCT,2017-17233,"WHILE ON-DUTY, WRONGFULLY CONDUCTED PERSONAL BUSINESS ON DEPARTMENT TIME WITHOUT PERMISSION",VACATION DAYS (19 day(s) ),charge,
 941512,12/4/2017,GUILTY,123-123 PRECINCT,2017-17233,"WHILE ON-DUTY, FAILED TO SAFEGUARD A FIREARM BY LEAVING IT INSIDE A SIDE POCKET OF A DUFFLE BAG",VACATION DAYS (19 day(s) ),charge,
@@ -1390,7 +1386,7 @@ Wrongful threat of force.","DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPEN
 933679,6/27/2019,GUILTY,264-DET SQD. BX-041,2019-20394,"Off Post.
 Misuse of time.","DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
 933679,6/27/2019,GUILTY,264-DET SQD. BX-041,2019-20394,Consumed alcohol while on duty.,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
-960342,5/23/2023,,,2023-27974,01.Wrongfully used physical force.,,allegation,NO DISCIPLINARY ACTION
+960342,3/6/2023,,,2023-27974,01.Wrongfully used physical force.,,allegation,NO DISCIPLINARY ACTION
 958382,10/12/2018,PLEADED GUILTY,48-048 PRECINCT,2018-19583,Failed to take police action.,VACATION DAYS (15 day(s) ),charge,
 958382,10/12/2018,PLEADED GUILTY,48-048 PRECINCT,2018-19583,Failed to make proper notifications.,VACATION DAYS (15 day(s) ),charge,
 958382,10/12/2018,PLEADED GUILTY,48-048 PRECINCT,2018-19583,Failed to prepare required reports.,VACATION DAYS (15 day(s) ),charge,
@@ -1409,6 +1405,8 @@ Misuse of time.","DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(
 938197,12/10/2010,PLEADED GUILTY,730-NARCO BORO BRONX,2010-2668,FILED INACCURATE AND INCORRECT DEPARTMENTAL PAPER-WORK.,"VACATION DAYS (10 day(s) ), VACATION DAYS (10 day(s) )",charge,
 938197,12/10/2010,PLEADED GUILTY,730-NARCO BORO BRONX,2010-2668,MADE INCOMPLETE AND INACCURATE ENTRIES IN MEMOBOOK.,"VACATION DAYS (10 day(s) ), VACATION DAYS (10 day(s) )",charge,
 938197,12/10/2010,PLEADED GUILTY,730-NARCO BORO BRONX,2010-2668,MADE INCOMPLETE AND INACCURATE ENTRIES IN MEMOBOOK.,"VACATION DAYS (10 day(s) ), VACATION DAYS (10 day(s) )",charge,
+958386,2/24/2022,PLEADED GUILTY,809-HOUSING PSA 9,2022-24805,"Failed to utilize a firearm safety station. 
+Failed to follow proper firearm handling procedures resulting in a discharge.",PRE-TRIAL SUSPENSION DAYS (15 day(s) ),charge,
 915435,5/3/2022,PLEADED GUILTY,802-HOUSING PSA 2 ==>SATHOPS-B/N,2021-24251,Criminal association.,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (50 day(s) )",charge,
 915435,5/3/2022,PLEADED GUILTY,802-HOUSING PSA 2 ==>SATHOPS-B/N,2021-24251,Failed to obey a lawful order/direction.,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (50 day(s) )",charge,
 954619,4/25/2023,,,2023-28251,01.Wrongfully discourteous to an individual known to the Department.,,allegation,B-CD
@@ -1467,10 +1465,8 @@ Wrongfully unholstered/displayed a Taser.",,allegation,CHARGES AND SPECIFICATION
 962286,3/20/2023,,,2022-27699,02.Made computer inquiries unrelated to official Department business.,B - COMMAND DISCIPLINE,allegation,B-CD
 951605,8/3/2017,GUILTY,043-043 PRECINCT,2017-16993,"WRONGFULLY MADE DISCOURTEOUS, DISPARAGING, OR OTHERWISE INAPPROPRIATE REMARKS REGARDING ANOTHER MEMBER OF THE SERVICE",VACATION DAYS (15 day(s) ),charge,
 951605,8/3/2017,GUILTY,043-043 PRECINCT,2017-16993,WRONGFULLY UTILIZED AS HIS PERSONAL PICTURE ATTACHED TO HIS FACEBOOK SOCIAL MEDIA ACCOUNT A PHOTOGRAPH OF HIMSELF WEARING HIS OFFICIAL DEPARTMENT UNIFORM,VACATION DAYS (15 day(s) ),charge,
-925061,7/1/2022,,,2019-21251,01.Improper Issuance Of A Summons,"TRAINING, TRAINING",allegation,TRAINING
-925061,7/1/2022,,,2019-21251,01.Improper Issuance Of A Summons,"TRAINING, TRAINING",allegation,TRAINING
-925061,7/1/2022,,,2019-21251,02.Improper Threat Of Arrest - Abuse Of Authority,"TRAINING, TRAINING",allegation,TRAINING
-925061,7/1/2022,,,2019-21251,02.Improper Threat Of Arrest - Abuse Of Authority,"TRAINING, TRAINING",allegation,TRAINING
+925061,7/1/2022,,,2019-21251,01.Improper Issuance Of A Summons,TRAINING,allegation,TRAINING
+925061,7/1/2022,,,2019-21251,02.Improper Threat Of Arrest - Abuse Of Authority,TRAINING,allegation,TRAINING
 941538,2/24/2016,GUILTY,25-025 PRECINCT,2015-14488,"WHILE ON-DUTY, PLACED A PERSON KNOWN TO THE DEPARTMENT INTO A CHOKEHOLD.",VACATION DAYS (20 day(s) ),charge,
 931592,5/21/2010,GUILTY,804-HOUSING PSA 4,2010-1107,ENGAGED IN A PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT.,PRE-TRIAL SUSPENSION DAYS (10 day(s) ),charge,
 944374,5/20/2022,,,2022-25253,01.Failure to notify.,INSTRUCTIONS,allegation,INSTRUCTIONS
@@ -1503,15 +1499,10 @@ Wrongfully unholstered/displayed a Taser.",,allegation,CHARGES AND SPECIFICATION
 933689,4/4/2019,GUILTY,071-071 PRECINCT,2018-19259,FAILED TO FOLLOW DEPARTMENT PROCEDURES REGARDING HOSPITALIZED PRISONERS.,"PRE-TRIAL SUSPENSION DAYS (10 day(s) ), RESTORATION OF SUSPENSION DAYS (9 day(s) ), VACATION DAYS (5 day(s) )",charge,
 933689,5/3/2023,,,2022-25446,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 933689,5/3/2023,,,2022-25446,02.Violated patrol rules.,,allegation,OTHER
-957452,5/25/2022,,,2022-25181,01.Failed to make required entries in Department Logs.,"TRAINING, TRAINING",allegation,TRAINING
-957452,5/25/2022,,,2022-25181,01.Failed to make required entries in Department Logs.,"TRAINING, TRAINING",allegation,TRAINING
-957452,6/23/2022,,,2022-25180,01.Wrongfully discourteous to an individual known to the Department.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE, VACATION DAYS (2 day(s) ), VACATION DAYS (2 day(s) )",allegation,A-CD
-957452,6/23/2022,,,2022-25180,01.Wrongfully discourteous to an individual known to the Department.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE, VACATION DAYS (2 day(s) ), VACATION DAYS (2 day(s) )",allegation,A-CD
-957452,1/20/2023,,,2022-27109,01.Wrongful threat of force.,,allegation,CHARGES AND SPECIFICATIONS
+957452,5/25/2022,,,2022-25181,01.Failed to make required entries in Department Logs.,TRAINING,allegation,TRAINING
+957452,6/23/2022,,,2022-25180,01.Wrongfully discourteous to an individual known to the Department.,"A - COMMAND DISCIPLINE, VACATION DAYS (2 day(s) )",allegation,A-CD
 957452,1/20/2023,,,2022-27109,01.Wrongful threat of force.,,allegation,CHARGES AND SPECIFICATIONS
 957452,1/20/2023,,,2022-27109,01.Wrongfully discourteous to an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
-957452,1/20/2023,,,2022-27109,01.Wrongfully discourteous to an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
-957452,1/20/2023,,,2022-27109,02.Wrongfully used physical force.,,allegation,CHARGES AND SPECIFICATIONS
 957452,1/20/2023,,,2022-27109,02.Wrongfully used physical force.,,allegation,CHARGES AND SPECIFICATIONS
 936340,1/24/2023,,,2022-27362,01.Violated patrol rules - failed to provide business card,A - COMMAND DISCIPLINE,allegation,A-CD
 955812,11/21/2022,,,2022-26182,01.Wrongfully threatened to remove an individual to the hospital.,,allegation,CHARGES AND SPECIFICATIONS
@@ -1557,6 +1548,8 @@ Wrongfully unholstered/displayed a Taser.",,allegation,CHARGES AND SPECIFICATION
 955814,1/9/2019,GUILTY,079-079 PRECINCT,2018-19959,WHILE OFF-DUTY WRONGFULLY USED AN UNAUTHORIZED CLIP-ON HOLSTER.,VACATION DAYS (20 day(s) ),charge,
 932461,2/13/2023,,,2022-27337,01.Failed to prepare required reports.,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,B-CD
 933692,2/11/2019,GUILTY,114-114 PRECINCT,2018-19822,Involved in a physical altercation.,"COUNSELING, VACATION DAYS (20 day(s) )",charge,
+958404,6/13/2023,,,2023-27880,01.Wrongful entry of a premises.,"A - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,NO DISCIPLINARY ACTION
+958404,6/13/2023,,,2023-27880,02.Wrongfully threatened to remove an individual to the hospital.,"A - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,A-CD
 941552,4/29/2022,,,2022-24806,01.Failed to timely activate their body worn camera.,,allegation,OTHER
 941555,4/10/2023,,,2023-27945,01.Failed to prepare required reports.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (6 day(s) ), VACATION DAYS (6 day(s) )",allegation,B-CD
 941555,4/10/2023,,,2023-27945,01.Failed to prepare required reports.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (6 day(s) ), VACATION DAYS (6 day(s) )",allegation,B-CD
@@ -1572,8 +1565,11 @@ Wrongfully unholstered/displayed a Taser.",,allegation,CHARGES AND SPECIFICATION
 936351,12/19/2017,GUILTY,591-INFORMATION TECHNOLOGY BUREAU,2017-17067,"WAS ABSENT FROM ASSIGNMENT WITHOUT PERMISSION OR POLICE NECESSITY, AND WRONGFULLY FAILED TO SUBMIT LEAVE OF ABSENCE REPORTS FOR SAID ABSENCES, RESULTING IN BEING PAID FOR APPROXIMATELY FIVE (5) HOURS AND FOURTEEN (14) MINUTES HE DID NOT WORK.","DEDUCTION OF PENSIONABLE TIME, DISMISSAL PROBATION (12 month(s) ), FORFEITURE OF TIME/LEAVE BALANCES, RESTITUTION ($904), VACATION DAYS (30 day(s) )",charge,
 936351,12/19/2017,GUILTY,591-INFORMATION TECHNOLOGY BUREAU,2017-17067,"WRONGFULLY MADE OR CAUSED TO BE MADE INACCURATE ENTRIES IN DEPARTMENT RECORDS IN THAT HE IMPROPERLY SUBMITTED OVERTIME SLIPS WHICH STATED THAT HE WORKED TIME PERIODS THAT HE HAD NOT WORKED, RESULTING IN BEING PAID FOR TWELVE (12) HOURS AND THIRTY (30) MINUTES.","DEDUCTION OF PENSIONABLE TIME, DISMISSAL PROBATION (12 month(s) ), FORFEITURE OF TIME/LEAVE BALANCES, RESTITUTION ($904), VACATION DAYS (30 day(s) )",charge,
 964985,1/3/2023,,,2021-24138,01.Violated patrol rules.,,allegation,NO DISCIPLINARY ACTION
+964985,1/3/2023,,,2021-24138,01.Violated patrol rules.,,allegation,NO DISCIPLINARY ACTION
+964985,1/3/2023,,,2021-24138,02.Violated uniform rules.,,allegation,NO DISCIPLINARY ACTION
 964985,1/3/2023,,,2021-24138,02.Violated uniform rules.,,allegation,NO DISCIPLINARY ACTION
 947904,9/18/2014,GUILTY,072-072 PRECINCT,2014-12429,OFFICER IMPROPERLY KICKED AN INDIVIDUAL KNOWN TO THE DEPARTMENT WHILE HE WAS BEING SUBDUED BY OTHER MEMBERS OF SERVICE,"DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (30 day(s) )",charge,
+965991,6/16/2023,,,2023-28208,01.Wrongful threat of force.,,allegation,B-CD
 933693,5/18/2015,GUILTY,121-121 PRECINCT,2015-13209,USED OFFENSIVE LANGUAGE AGAINST AN INDIVIDUAL KNOWN TO THE DEPARTMENT.,VACATION DAYS (7 day(s) ),charge,
 933693,5/18/2015,GUILTY,121-121 PRECINCT,2015-13209,"ISSUED A SUMMONS FOR  DISORDERLY CONDUCT, WITHOUT SUFFICIENT LEGAL AUTHORITY.",VACATION DAYS (7 day(s) ),charge,
 933693,7/31/2019,GUILTY,121-121 PRECINCT,2019-20841,Wrongfully discourteous to an individual known to the Department.,VACATION DAYS (10 day(s) ),charge,
@@ -1696,10 +1692,14 @@ Wrongfully unholstered/displayed a Taser.",,allegation,CHARGES AND SPECIFICATION
 924845,1/9/2023,,,2022-27517,04.Wrongfully searched an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
 924845,1/9/2023,,,2022-27517,05.Wrongfully stopped a vehicle.,,allegation,CHARGES AND SPECIFICATIONS
 924845,3/29/2023,,,2022-27533,01.Violated patrol rules - failed to provide business card,TRAINING,allegation,TRAINING
-929928,4/12/2010,GUILTY,084-084 PRECINCT,2010-179,FAILED TO CONDUCT A PROPER INVESTIGATION AND FAILED TO NOTIFY THE SPECIAL VICTIMS UNIT.,VACATION DAYS (30 day(s) ),charge,
-929928,4/12/2010,GUILTY,084-084 PRECINCT,2010-179,FAILED TO IMMEDIATELY NOTIFY THE PATROL SUPERVISOR OF AN UNUSUAL CRIME AND / OR OCCURRENCE .,VACATION DAYS (30 day(s) ),charge,
-929928,4/12/2010,GUILTY,084-084 PRECINCT,2010-179,FAILED TO MAKE PROPER MEMO BOOK ENTRIES.,VACATION DAYS (30 day(s) ),charge,
-929928,4/12/2010,GUILTY,084-084 PRECINCT,2010-179,FAILED TO PREPARE A UF 61 AFTER RESPONDING TO THE SCENE OF A POTENTIAL SEX CRIME.,VACATION DAYS (30 day(s) ),charge,
+929928,4/12/2010,GUILTY,084-084 PRECINCT,2010-179,FAILED TO CONDUCT A PROPER INVESTIGATION AND FAILED TO NOTIFY THE SPECIAL VICTIMS UNIT.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+929928,4/12/2010,GUILTY,084-084 PRECINCT,2010-179,FAILED TO CONDUCT A PROPER INVESTIGATION AND FAILED TO NOTIFY THE SPECIAL VICTIMS UNIT.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+929928,4/12/2010,GUILTY,084-084 PRECINCT,2010-179,FAILED TO IMMEDIATELY NOTIFY THE PATROL SUPERVISOR OF AN UNUSUAL CRIME AND / OR OCCURRENCE .,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+929928,4/12/2010,GUILTY,084-084 PRECINCT,2010-179,FAILED TO IMMEDIATELY NOTIFY THE PATROL SUPERVISOR OF AN UNUSUAL CRIME AND / OR OCCURRENCE .,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+929928,4/12/2010,GUILTY,084-084 PRECINCT,2010-179,FAILED TO MAKE PROPER MEMO BOOK ENTRIES.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+929928,4/12/2010,GUILTY,084-084 PRECINCT,2010-179,FAILED TO MAKE PROPER MEMO BOOK ENTRIES.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+929928,4/12/2010,GUILTY,084-084 PRECINCT,2010-179,FAILED TO PREPARE A UF 61 AFTER RESPONDING TO THE SCENE OF A POTENTIAL SEX CRIME.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+929928,4/12/2010,GUILTY,084-084 PRECINCT,2010-179,FAILED TO PREPARE A UF 61 AFTER RESPONDING TO THE SCENE OF A POTENTIAL SEX CRIME.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
 968340,5/2/2023,,,2023-28252,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
 939771,1/3/2022,,,2021-23496,01.failed to properly verify the contents of vouchered property,B - COMMAND DISCIPLINE,allegation,INSTRUCTIONS
 954665,9/14/2022,,,2022-25864,01.Failed to terminate a vehicle pursuit,B - COMMAND DISCIPLINE,allegation,B-CD
@@ -1799,6 +1799,7 @@ Wrongfully unholstered/displayed a Taser.",,allegation,CHARGES AND SPECIFICATION
 952621,5/19/2015,GUILTY,010-010 PRECINCT,2015-13219,FAILED TO PRESENT HER DEPARTMENT IDENTIFICATION CARD UPON REQUEST OF A SUPERVISOR.,VACATION DAYS (20 day(s) ),charge,
 946881,11/6/2019,PLEADED GUILTY,060-060 PRECINCT,2019-21092,"Failed to prepare a Property Clerk's Invoice Worksheet, as required.",SUSPENDED W/O PAY (20 day(s) ),charge,
 946881,11/6/2019,PLEADED GUILTY,060-060 PRECINCT,2019-21092,Failed to make required entries in Department Logs.,SUSPENDED W/O PAY (20 day(s) ),charge,
+967830,7/11/2022,,,2022-26449,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
 967830,7/11/2022,,,2022-26449,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
 960400,11/4/2022,,,2022-27206,01.Wrongful seizure of a person's property.,A - COMMAND DISCIPLINE,allegation,TRAINING
 960400,11/4/2022,,,2022-27206,02.Wrongfully searched a vehicle.,A - COMMAND DISCIPLINE,allegation,A-CD
@@ -2047,8 +2048,10 @@ Made computer inquiries unrelated to official Department business.",VACATION DAY
 958478,12/20/2018,GUILTY,019-019 PRECINCT,2018-19719,"while off-duty, wrongfully worked off-duty employment.",VACATION DAYS (15 day(s) ),charge,
 932538,12/21/2010,GUILTY,-,2010-792,"KNOWINGLY ASSOCIATED WITH A PERSON OR ORGANIZATION REASONABLY BELIEVED TO BE ENGAGED IN, LIKELY TO ENGAGE IN OR TO HAVE ENGAGED IN CRIMINAL ACTIVITIES.",VACATION DAYS (30 day(s) ),charge,
 932538,12/21/2010,GUILTY,-,2010-792,FAILED AND NEGLECTED TO PROPERLY DOCUMENT HER ACTIVITY LOG.,VACATION DAYS (30 day(s) ),charge,
-960430,7/9/2019,GUILTY,804-HOUSING PSA 4,2019-20453,"while on-duty, did make unauthorized radio transmissions.",VACATION DAYS (10 day(s) ),charge,
-960430,7/9/2019,GUILTY,804-HOUSING PSA 4,2019-20453,"while on-duty, failed to make proper activity log entries.",VACATION DAYS (10 day(s) ),charge,
+960430,7/9/2019,GUILTY,804-HOUSING PSA 4,2019-20453,"while on-duty, did make unauthorized radio transmissions.","VACATION DAYS (10 day(s) ), VACATION DAYS (10 day(s) )",charge,
+960430,7/9/2019,GUILTY,804-HOUSING PSA 4,2019-20453,"while on-duty, did make unauthorized radio transmissions.","VACATION DAYS (10 day(s) ), VACATION DAYS (10 day(s) )",charge,
+960430,7/9/2019,GUILTY,804-HOUSING PSA 4,2019-20453,"while on-duty, failed to make proper activity log entries.","VACATION DAYS (10 day(s) ), VACATION DAYS (10 day(s) )",charge,
+960430,7/9/2019,GUILTY,804-HOUSING PSA 4,2019-20453,"while on-duty, failed to make proper activity log entries.","VACATION DAYS (10 day(s) ), VACATION DAYS (10 day(s) )",charge,
 952653,6/23/2022,,,2022-24647,01.Failed to activate their body worn camera.,TRAINING,allegation,TRAINING
 952653,7/22/2022,,,2022-26336,01.Wrongfully frisked an individual known to the Department.,,allegation,B-CD
 952653,7/22/2022,,,2022-26336,02.Wrongfully searched a vehicle.,,allegation,B-CD
@@ -2075,7 +2078,9 @@ Made computer inquiries unrelated to official Department business.",VACATION DAY
 955863,8/1/2022,,,2020-22607,01.Failed to obtain medical treatment,TRAINING,allegation,TRAINING
 955863,8/1/2022,,,2020-22607,02.Failed to prepare a Medical Treatment of Prisoner Report,TRAINING,allegation,TRAINING
 930022,4/29/2022,,,2022-24857,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
-928175,8/3/2022,,,2022-24723,01.Failed to make required entries in Department Logs.,TRAINING,allegation,TRAINING
+930022,4/29/2022,,,2022-24857,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
+928175,8/3/2022,,,2022-24723,01.Failed to make required entries in Department Logs.,"TRAINING, TRAINING",allegation,TRAINING
+928175,8/3/2022,,,2022-24723,01.Failed to make required entries in Department Logs.,"TRAINING, TRAINING",allegation,TRAINING
 950295,12/8/2015,GUILTY,001-001 PRECINCT,2015-13725,DID FAIL AND NEGLECT TO PREPARE A COMPLAINT REPORT WORKSHEET,VACATION DAYS (5 day(s) ),charge,
 936462,9/30/2010,GUILTY,114-114 PRECINCT,2010-1932,"WHILE OFF-DUTY, FAILED TO NOTIFY THE OPERATIONS UNIT, AS REQUIRED.",VACATION DAYS (15 day(s) ),charge,
 936462,9/30/2010,GUILTY,114-114 PRECINCT,2010-1932,"WHILE OFF-DUTY, FAILED TO IDENTIFY HIMSELF AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT TO THE MEMBERS OF THE NASSAU COUNTY POLICE DEPARTMENT.",VACATION DAYS (15 day(s) ),charge,
@@ -2110,7 +2115,8 @@ Made computer inquiries unrelated to official Department business.",VACATION DAY
 953812,7/21/2020,GUILTY,083-083 PRECINCT,2020-22244,Failed to safeguard a firearm.,"VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
 953812,7/21/2020,GUILTY,083-083 PRECINCT,2020-22244,Failed to timely make proper notifications.,"VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
 953812,7/21/2020,GUILTY,083-083 PRECINCT,2020-22244,Failed to timely make proper notifications.,"VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
-967478,1/9/2023,,,2022-26956,01.Wrongfully stopped an individual known to the Department.,"A - COMMAND DISCIPLINE, TRAINING",allegation,"A-CD,                                                                                                                                                                                                             TRAINING"
+967478,1/9/2023,,,2022-26956,01.Wrongfully stopped an individual known to the Department.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE, TRAINING, TRAINING",allegation,"A-CD,                                                                                                                                                                                                             TRAINING"
+967478,1/9/2023,,,2022-26956,01.Wrongfully stopped an individual known to the Department.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE, TRAINING, TRAINING",allegation,"A-CD,                                                                                                                                                                                                             TRAINING"
 946912,5/2/2022,,,2021-24093,01.Failed to activate their body worn camera.,,allegation,OTHER
 952643,4/14/2022,,,2020-21877,01.Failed to prepare department form,INSTRUCTIONS,allegation,OTHER
 952643,4/14/2022,,,2020-21877,02.Improperly used department property.,INSTRUCTIONS,allegation,OTHER
@@ -2153,6 +2159,8 @@ Made computer inquiries unrelated to official Department business.",VACATION DAY
 931631,1/15/2022,,,2021-24201,01.Wrongfully discourteous to an individual known to the Department.,,allegation,B-CD
 931631,1/15/2022,,,2021-24201,02.Wrongfully threatened to issue a summons to an individual known to the Department.,,allegation,B-CD
 922248,2/23/2023,,,2022-25867,01.Failed to activate their body worn camera.,,allegation,OTHER
+922248,2/23/2023,,,2022-25867,01.Failed to activate their body worn camera.,,allegation,OTHER
+922248,2/23/2023,,,2022-25867,02.Failed to make required entries in Department Logs.,,allegation,OTHER
 922248,2/23/2023,,,2022-25867,02.Failed to make required entries in Department Logs.,,allegation,OTHER
 961726,10/10/2022,,,2022-26959,01.Violated patrol rules.,A - COMMAND DISCIPLINE,allegation,A-CD
 961726,10/10/2022,,,2022-26959,02.Wrongfully discourteous to an individual known to the Department.,A - COMMAND DISCIPLINE,allegation,A-CD
@@ -2192,12 +2200,18 @@ Made computer inquiries unrelated to official Department business.",VACATION DAY
 967042,3/6/2023,,,2022-27657,02.Wrongfully searched an individual known to the Department.,A - COMMAND DISCIPLINE,allegation,A-CD
 930046,2/14/2018,GUILTY,334-DET SQD. QNS-104,2018-18456,"while off-duty, wrongfully consumed an intoxicant to the extent that he was unfit for duty.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (32 day(s) )",charge,
 930046,2/14/2018,GUILTY,334-DET SQD. QNS-104,2018-18456,"while off-duty, wrongfully failed to safeguard Department Parking Permit.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (32 day(s) )",charge,
-954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,WRONGFULLY OPERATED A MOTOR VEHICLE WHILE UNDER THE INFLUENCE OF AN INTOXICANT.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) )",charge,
-954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,WRONGFULLY OPERATED A MOTOR VEHICLE WHILE HIS ABILITY TO DO SO WAS IMPAIRED BY AN INTOXICANT.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) )",charge,
-954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,WAS UNFIT FOR DUTY.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) )",charge,
-954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,WAS UNFIT FOR DUTY WHILE ARMED.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) )",charge,
-954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,WRONGFULLY REFUSED TO SUBMIT TO A BREATHALYZER TEST.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) )",charge,
-954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,LEFT THE SCENE OF A MOTOR VEHICLE ACCIDENT IN WHICH HE WAS INVOLVED.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) )",charge,
+954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,WRONGFULLY OPERATED A MOTOR VEHICLE WHILE UNDER THE INFLUENCE OF AN INTOXICANT.,"COUNSELING, COUNSELING, DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,WRONGFULLY OPERATED A MOTOR VEHICLE WHILE UNDER THE INFLUENCE OF AN INTOXICANT.,"COUNSELING, COUNSELING, DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,WRONGFULLY OPERATED A MOTOR VEHICLE WHILE HIS ABILITY TO DO SO WAS IMPAIRED BY AN INTOXICANT.,"COUNSELING, COUNSELING, DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,WRONGFULLY OPERATED A MOTOR VEHICLE WHILE HIS ABILITY TO DO SO WAS IMPAIRED BY AN INTOXICANT.,"COUNSELING, COUNSELING, DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,WAS UNFIT FOR DUTY.,"COUNSELING, COUNSELING, DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,WAS UNFIT FOR DUTY.,"COUNSELING, COUNSELING, DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,WAS UNFIT FOR DUTY WHILE ARMED.,"COUNSELING, COUNSELING, DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,WAS UNFIT FOR DUTY WHILE ARMED.,"COUNSELING, COUNSELING, DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,WRONGFULLY REFUSED TO SUBMIT TO A BREATHALYZER TEST.,"COUNSELING, COUNSELING, DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,WRONGFULLY REFUSED TO SUBMIT TO A BREATHALYZER TEST.,"COUNSELING, COUNSELING, DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,LEFT THE SCENE OF A MOTOR VEHICLE ACCIDENT IN WHICH HE WAS INVOLVED.,"COUNSELING, COUNSELING, DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+954730,4/9/2018,GUILTY,601-GANG SQUAD MAN NORTH,2018-18739,LEFT THE SCENE OF A MOTOR VEHICLE ACCIDENT IN WHICH HE WAS INVOLVED.,"COUNSELING, COUNSELING, DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
 958502,2/22/2023,,,2022-25104,01.Failed to prepare required reports.,,allegation,OTHER
 940091,2/16/2017,GUILTY,044-044 PRECINCT,2016-16786,"WHILE ON-DUTY, WRONGFULLY MADE INACCURATE, INCOMPLETE OR OTHERWISE MISLEADING STATEMENTS DURING HIS OFFICIAL INTERVIEWS.",VACATION DAYS (25 day(s) ),charge,
 940091,2/16/2017,GUILTY,044-044 PRECINCT,2016-16786,"WHILE ON DUTY WRONGFULLY MADE INACCURATE, INCOMPLETE, OR OTHERWISE MISLEADING STATEMENTS DURING A DEPARTMENT INTERVIEW, A CIVILIAN COMPLAINT REVIEW BOARD INTERVIEW, OR AN INTERVIEW BY A DUTY CAPTAIN.",VACATION DAYS (25 day(s) ),charge,
@@ -2222,16 +2236,6 @@ Made computer inquiries unrelated to official Department business.",VACATION DAY
 934770,11/21/2022,,,2022-25684,03.Failed to prepare required reports.,,allegation,OTHER
 950323,3/7/2016,GUILTY,70-070 PRECINCT,2016-15345,"WHILE ON-DUTY, FAILED AND NEGLECTED TO PROPERLY PREPARE AND CLASSIFY A COMPLAINT REPORT.",VACATION DAYS (5 day(s) ),charge,
 950323,3/7/2016,GUILTY,70-070 PRECINCT,2016-15345,"WHILE ON-DUTY, FAILED AND NEGLECTED TO MAKE PROPER NOTIFICATIONS AND REFERRALS REGARDING A COMPLAINT.",VACATION DAYS (5 day(s) ),charge,
-957544,3/15/2021,PLEADED GUILTY,808-HOUSING PSA 8,2021-23198,"Involved in a physical altercation. 
-Endangered the welfare of a child.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (32 day(s) ), VACATION DAYS (23 day(s) )",charge,
-957544,3/15/2021,PLEADED GUILTY,808-HOUSING PSA 8,2021-23198,Endangering the Welfare of a child.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (32 day(s) ), VACATION DAYS (23 day(s) )",charge,
-957544,3/15/2021,PLEADED GUILTY,808-HOUSING PSA 8,2021-23198,Made computer inquiries unrelated to official Department business.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (32 day(s) ), VACATION DAYS (23 day(s) )",charge,
-957544,3/15/2021,PLEADED GUILTY,808-HOUSING PSA 8,2021-23198,Made computer inquiries unrelated to official Department business.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (32 day(s) ), VACATION DAYS (23 day(s) )",charge,
-957544,5/21/2022,,,2022-25392,01.Wrongfully used physical force.,,allegation,B-CD
-957544,7/28/2022,,,2022-25705,01.Violated patrol rules.,"A - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,A-CD
-957544,1/12/2023,,,2022-26210,01.Wrongful search of a person.,,allegation,B-CD
-957544,1/12/2023,,,2022-26210,02.Wrongfully discourteous to an individual known to the Department.,,allegation,B-CD
-957544,1/12/2023,,,2022-26211,01.Failed to activate their body worn camera.,,allegation,OTHER
 954734,7/28/2022,,,2022-26457,01.Wrongfully searched a vehicle.,A - COMMAND DISCIPLINE,allegation,A-CD
 946714,6/28/2011,GUILTY,047-047 PRECINCT,2010-3521,"DID FAIL TO BRING HER ACTIVITY LOG THAT CORRESPONDED TO THE DATE OF THE POLICE INCIDENT, DURING AN OFFICIAL INTERVIEW",VACATION DAYS (5 day(s) ),charge,
 948890,7/11/2022,,,2022-25792,01.Failed to prepare required reports.,,allegation,OTHER
@@ -2275,8 +2279,10 @@ Endangered the welfare of a child.","COUNSELING, DISMISSAL PROBATION (12 month(s
 963489,3/23/2021,PLEADED GUILTY,104-104 PRECINCT,2020-22913,Failed to notify of change of address.,PRE-TRIAL SUSPENSION DAYS (22 day(s) ),charge,
 954736,8/10/2015,GUILTY,25-025 PRECINCT,2015-13886,"WHILE ON-DUTY, PLACED A PERSON KNOWN TO THE DEPARTMENT INTO A CHOKEHOLD",VACATION DAYS (5 day(s) ),charge,
 954736,8/10/2015,GUILTY,25-025 PRECINCT,2015-13886,"WHILE ON-DUTY, OBSTRUCTED THE BREATHING OF A PERSON KNOWN TO THE DEPARTMENT",VACATION DAYS (5 day(s) ),charge,
-955886,8/1/2022,,,2020-22179,01.Improper removal to hospital,TRAINING,allegation,TRAINING
-955886,8/1/2022,,,2020-22179,02.Improper use of force,TRAINING,allegation,TRAINING
+955886,8/1/2022,,,2020-22179,01.Improper removal to hospital,"TRAINING, TRAINING",allegation,TRAINING
+955886,8/1/2022,,,2020-22179,01.Improper removal to hospital,"TRAINING, TRAINING",allegation,TRAINING
+955886,8/1/2022,,,2020-22179,02.Improper use of force,"TRAINING, TRAINING",allegation,TRAINING
+955886,8/1/2022,,,2020-22179,02.Improper use of force,"TRAINING, TRAINING",allegation,TRAINING
 934186,4/29/2010,GUILTY,320-INTEL OPER AND ANALYSIS SECT,2010-579,WRONGFULLY CONSUMED AN INTOXICANT TO THE EXTENT THAT SAID DETECTIVE WAS UNFIT FOR DUTY.,"COUNSELING, VACATION DAYS (15 day(s) )",charge,
 968379,3/25/2023,PLEADED GUILTY,073-073 PRECINCT,2022-24540,failed to safeguard a prisoner.,PRE-TRIAL SUSPENSION DAYS (13 day(s) ),charge,
 946944,7/6/2016,GUILTY,072-072 PRECINCT,2015-14601,"WHILE OFF-DUTY AND OUT OF STATE, IMPEDED AN INVESTIGATION INTO THE WHEREABOUTS OF ANOTHER MEMBER OF SERVICE.",VACATION DAYS (15 day(s) ),charge,
@@ -2330,12 +2336,9 @@ Endangered the welfare of a child.","COUNSELING, DISMISSAL PROBATION (12 month(s
 953830,4/28/2022,,,2020-22706,01.Failed to provide business card.,A - COMMAND DISCIPLINE,allegation,A-CD
 953830,4/28/2022,,,2020-22706,02.Improper used body-worn camera.,A - COMMAND DISCIPLINE,allegation,OTHER
 953830,4/28/2022,,,2020-22706,03.failed to prepare memo book entry.,A - COMMAND DISCIPLINE,allegation,OTHER
-960483,10/5/2021,,,2020-22011,01.Failed to immediately activate body worn camera.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES, TRAINING, TRAINING",allegation,B-CD
-960483,10/5/2021,,,2020-22011,01.Failed to immediately activate body worn camera.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES, TRAINING, TRAINING",allegation,B-CD
-960483,10/5/2021,,,2020-22011,02.Failed to report misconduct to IAB.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES, TRAINING, TRAINING",allegation,B-CD
-960483,10/5/2021,,,2020-22011,02.Failed to report misconduct to IAB.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES, TRAINING, TRAINING",allegation,B-CD
-960483,10/5/2021,,,2020-22011,03.Improper entries in online arrest report.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES, TRAINING, TRAINING",allegation,B-CD
-960483,10/5/2021,,,2020-22011,03.Improper entries in online arrest report.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES, TRAINING, TRAINING",allegation,B-CD
+960483,10/5/2021,,,2020-22011,01.Failed to immediately activate body worn camera.,"B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, TRAINING",allegation,B-CD
+960483,10/5/2021,,,2020-22011,02.Failed to report misconduct to IAB.,"B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, TRAINING",allegation,B-CD
+960483,10/5/2021,,,2020-22011,03.Improper entries in online arrest report.,"B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, TRAINING",allegation,B-CD
 966549,5/11/2022,,,2022-24907,01.Violated patrol rules.,,allegation,A-CD
 966549,5/11/2022,,,2022-24908,01.Failed to activate their body worn camera.,,allegation,OTHER
 966549,5/11/2022,,,2022-24908,02.Failed to make required entries in Department Logs.,,allegation,OTHER
@@ -2380,7 +2383,8 @@ Failed to supervise.",,allegation,CHARGES AND SPECIFICATIONS
 946965,2/26/2023,,,2022-25421,01.Wrongfully frisked an individual known to the Department.,,allegation,B-CD
 946965,2/26/2023,,,2022-25421,02.Wrongfully stopped a vehicle.,,allegation,B-CD
 946965,2/27/2023,,,2022-25422,01.Failed to tiemly activate their body worn camera.,,allegation,OTHER
-958535,8/3/2022,,,2020-22951,01.Wrongfully threatened to remove and individual to the hospital.,TRAINING,allegation,TRAINING
+958535,8/3/2022,,,2020-22951,01.Wrongfully threatened to remove and individual to the hospital.,"TRAINING, TRAINING",allegation,TRAINING
+958535,8/3/2022,,,2020-22951,01.Wrongfully threatened to remove and individual to the hospital.,"TRAINING, TRAINING",allegation,TRAINING
 948924,6/24/2022,PLEADED GUILTY,121-121 PRECINCT,2022-24762,Unfit for duty.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, VACATION DAYS (35 day(s) )",charge,
 948924,6/24/2022,PLEADED GUILTY,121-121 PRECINCT,2022-24762,Unfit for duty while armed.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, VACATION DAYS (35 day(s) )",charge,
 921305,8/3/2021,GUILTY,061-061 PRECINCT,2021-23532,Failed to supervise while on duty.,VACATION DAYS (25 day(s) ),charge,
@@ -2429,7 +2433,6 @@ Criminal Mischief.",RESTORATION OF SUSPENSION DAYS (33 day(s) ),allegation,CHARG
 953836,2/15/2023,,,2022-25522,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 953836,2/15/2023,,,2022-25522,02.Failed to timely activate their body worn camera.,,allegation,OTHER
 953836,2/15/2023,,,2022-25522,03.Violated patrol rules.,,allegation,TRAINING
-962374,6/13/2022,,,2022-25974,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 962374,6/13/2022,,,2022-25974,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 965708,6/13/2022,,,2020-22989,01.Violated uniform rules.,A - COMMAND DISCIPLINE,allegation,A-CD
 938420,5/13/2015,GUILTY,90-090 PRECINCT,2015-12947,"WHILE ON-DUTY, ENTERED A LOCATION KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY",VACATION DAYS (3 day(s) ),charge,
@@ -2522,7 +2525,8 @@ Criminal Mischief.",RESTORATION OF SUSPENSION DAYS (33 day(s) ),allegation,CHARG
 948939,5/19/2016,GUILTY,544-NARCOTIC BORO MAN NORTH,2015-14856,"WHILE OFF-DUTY, HAVING BEEN INVOLVED IN AN UNUSUAL POLICE OCCURRENCE WRONGFULLY FAILED TO NOTIFY THE DEPARTMENT's OPERATIONS UNIT AS REQUIRED.",PRE-TRIAL SUSPENSION DAYS (30 day(s) ),charge,
 945699,9/1/2011,GUILTY,028-028 PRECINCT,2010-846,FAILED TO REVIEW A REPORT FOR ACCURACY PRIOR TO SIGNING SAID REPORT.,VACATION DAYS (10 day(s) ),charge,
 945699,9/7/2016,GUILTY,005-005 PRECINCT,2016-15900,"WHILE ON-DUTY, FAILED TO PREPARE A COMPLAINT REPORT.",VACATION DAYS (10 day(s) ),charge,
-967863,1/13/2023,,,2022-27341,01.Wrongfully searched a vehicle.,A - COMMAND DISCIPLINE,allegation,A-CD
+967863,1/13/2023,,,2022-27341,01.Wrongfully searched a vehicle.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
+967863,1/13/2023,,,2022-27341,01.Wrongfully searched a vehicle.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
 956626,3/11/2016,GUILTY,103-103 PRECINCT,2015-14463,"WHILE OFF-DUTY, INAPPROPRIATELY TOUCHED THE BUTTOCKS OF A WOMAN WHOSE IDENTITY IS KNOWN TO THE DEPARTMENT.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (32 day(s) ), VACATION DAYS (15 day(s) )",charge,
 965072,11/17/2022,,,2022-26766,01.Failed to activate their body worn camera.,,allegation,OTHER
 965072,11/17/2022,,,2022-26766,02.Failed to make required entries in Department Logs.,,allegation,OTHER
@@ -2568,6 +2572,7 @@ Made improper contact/communications.",VACATION DAYS (30 day(s) ),charge,
 945706,1/3/2023,,,2021-24120,01.Failed to prepare required reports.,,allegation,TRAINING
 948950,7/1/2022,,,2019-21278,01.Improper use of force threat - Abuse Of Authority,TRAINING,allegation,TRAINING
 954790,7/22/2022,,,2022-26271,01.Violated patrol rules.,,allegation,A-CD
+954790,7/22/2022,,,2022-26271,01.Violated patrol rules.,,allegation,A-CD
 966563,3/25/2021,PLEADED GUILTY,115-115 PRECINCT,2020-22444,Said Police Officer was unfit for duty.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, VACATION DAYS (35 day(s) )",charge,
 966563,3/25/2021,PLEADED GUILTY,115-115 PRECINCT,2020-22444,Said Police Officer was unfit for duty while armed.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, VACATION DAYS (35 day(s) )",charge,
 938460,9/6/2022,PLEADED GUILTY,401-TRB CITYWIDE TRAFFIC T/F,2022-26802,Unfit for Duty.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, VACATION DAYS (30 day(s) )",charge,
@@ -2578,16 +2583,12 @@ Made improper contact/communications.",VACATION DAYS (30 day(s) ),charge,
 921326,9/15/2010,GUILTY,164-PATROL BORO BROOKLYN SOUTH,2010-2706,WHILE ON SICK REPORT WAS ABSENT FROM RESIDENCE WITHOUT PERMISSION.,VACATION DAYS (30 day(s) ),charge,
 921326,9/15/2010,GUILTY,164-PATROL BORO BROOKLYN SOUTH,2010-2706,WHILE ON SICK REPORT TRAVELLED OUTSIDE RESIDENCE WITHOUT PERMISSION.,VACATION DAYS (30 day(s) ),charge,
 921326,9/15/2010,GUILTY,164-PATROL BORO BROOKLYN SOUTH,2010-2706,WHILE ON SICK REPORT GAVE MISLEADING STATEMENTS TO AN INVESTIGATOR.,VACATION DAYS (30 day(s) ),charge,
-958576,12/19/2018,GUILTY,863-TRANSIT BUREAU DISTRICT 4,2018-18460,"while on-duty, wrongfully disseminated video surveillance footage in a pending criminal investigation.","VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
-958576,12/19/2018,GUILTY,863-TRANSIT BUREAU DISTRICT 4,2018-18460,"while on-duty, wrongfully disseminated video surveillance footage in a pending criminal investigation.","VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
-958576,12/19/2018,GUILTY,863-TRANSIT BUREAU DISTRICT 4,2018-18460,"while on-duty, wrongfully utilized his personal cellphone to record video surveillance footage in a pending criminal investigation.","VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
-958576,12/19/2018,GUILTY,863-TRANSIT BUREAU DISTRICT 4,2018-18460,"while on-duty, wrongfully utilized his personal cellphone to record video surveillance footage in a pending criminal investigation.","VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+958576,12/19/2018,GUILTY,863-TRANSIT BUREAU DISTRICT 4,2018-18460,"while on-duty, wrongfully disseminated video surveillance footage in a pending criminal investigation.",VACATION DAYS (20 day(s) ),charge,
+958576,12/19/2018,GUILTY,863-TRANSIT BUREAU DISTRICT 4,2018-18460,"while on-duty, wrongfully utilized his personal cellphone to record video surveillance footage in a pending criminal investigation.",VACATION DAYS (20 day(s) ),charge,
 944261,10/25/2010,GUILTY,7-007 PRECINCT,2010-1487,WRONGFULLY RELEASED A FOUR YEAR OLD CHILD TO A FEMALE WITHOUT OBTAINING PROPER IDENTIFICATION.,VACATION DAYS (10 day(s) ),charge,
 944261,10/25/2010,GUILTY,7-007 PRECINCT,2010-1487,"AFTER AN ARREST OF AN INDIVIDUAL KNOWN TO THE DEPARTMENT INVOLVING ENDANGERING THE WELFARE OF A CHILD, FAILED TO NOTIFY THE NEW YORK STATE CENTRAL REGISTRY OF CHILD ABUSE, ADMINISTRATION FOR CHILDREN’S SERVICES AND FAILED TO PREPARE REQUIRED DEPARTMENT REPORTS.",VACATION DAYS (10 day(s) ),charge,
-920271,11/20/2014,GUILTY,305-DET BUREAU BKLYN SPEC VIC SQD,2014-11551,"WHILE ON-DUTY, DETECTIVE DID FAIL TO SIGN OUT AT THE END OF HIS TOUR OF DUTY.","VACATION DAYS (15 day(s) ), VACATION DAYS (15 day(s) )",charge,
-920271,11/20/2014,GUILTY,305-DET BUREAU BKLYN SPEC VIC SQD,2014-11551,"WHILE ON-DUTY, DETECTIVE DID FAIL TO SIGN OUT AT THE END OF HIS TOUR OF DUTY.","VACATION DAYS (15 day(s) ), VACATION DAYS (15 day(s) )",charge,
-920271,11/20/2014,GUILTY,305-DET BUREAU BKLYN SPEC VIC SQD,2014-11551,"WHILE OFF-DUTY, DETECTIVE DID PROVIDE INACCURATE STATEMENTS TO A SERGEANT, WHEN ASKED IF HE HAD SIGNED OUT AT THE END OF HIS TOUR.","VACATION DAYS (15 day(s) ), VACATION DAYS (15 day(s) )",charge,
-920271,11/20/2014,GUILTY,305-DET BUREAU BKLYN SPEC VIC SQD,2014-11551,"WHILE OFF-DUTY, DETECTIVE DID PROVIDE INACCURATE STATEMENTS TO A SERGEANT, WHEN ASKED IF HE HAD SIGNED OUT AT THE END OF HIS TOUR.","VACATION DAYS (15 day(s) ), VACATION DAYS (15 day(s) )",charge,
+920271,11/20/2014,GUILTY,305-DET BUREAU BKLYN SPEC VIC SQD,2014-11551,"WHILE ON-DUTY, DETECTIVE DID FAIL TO SIGN OUT AT THE END OF HIS TOUR OF DUTY.",VACATION DAYS (15 day(s) ),charge,
+920271,11/20/2014,GUILTY,305-DET BUREAU BKLYN SPEC VIC SQD,2014-11551,"WHILE OFF-DUTY, DETECTIVE DID PROVIDE INACCURATE STATEMENTS TO A SERGEANT, WHEN ASKED IF HE HAD SIGNED OUT AT THE END OF HIS TOUR.",VACATION DAYS (15 day(s) ),charge,
 940131,12/5/2022,,,2022-25758,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
 943222,3/16/2021,GUILTY,62-062 PRECINCT,2020-21882,Failed to supervise.,VACATION DAYS (15 day(s) ),charge,
 943222,3/16/2021,GUILTY,62-062 PRECINCT,2020-21882,Made or caused to be made false or inaccurate entries in Department records.,VACATION DAYS (15 day(s) ),charge,
@@ -2602,7 +2603,8 @@ Made improper contact/communications.",VACATION DAYS (30 day(s) ),charge,
 936581,12/9/2022,,,2022-26982,01.Failed to prepare required reports.,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,B-CD
 936581,4/21/2023,,,2022-27219,01.Violated patrol rules.,TRAINING,allegation,TRAINING
 965087,6/21/2022,,,2022-25115,01.Wrongfully discourteous.,A - COMMAND DISCIPLINE,allegation,A-CD
-963983,5/9/2023,,,2023-27865,01.Violated patrol rules.,TRAINING,allegation,TRAINING
+963983,5/9/2023,,,2023-27865,01.Violated patrol rules.,"TRAINING, TRAINING",allegation,TRAINING
+963983,5/9/2023,,,2023-27865,01.Violated patrol rules.,"TRAINING, TRAINING",allegation,TRAINING
 951725,11/30/2015,GUILTY,077-077 PRECINCT,2015-14532,"WHILE ON-DUTY, DID WRONGFULLY LEAVE AN ARRESTEE UNATTENDED INSIDE THE BACKSEAT OF A RADIO MOTOR PATROL VEHICLE.","TRAINING, VACATION DAYS (10 day(s) )",charge,
 951725,11/30/2015,GUILTY,077-077 PRECINCT,2015-14532,"WHILE ON-DUTY, IMPROPERLY ARRESTED AN INDIVIDUAL KNOWN TO THE DEPARTMENT WITHOUT PROBABLE CAUSE.","TRAINING, VACATION DAYS (10 day(s) )",charge,
 958582,2/17/2016,GUILTY,552-RECRUIT TRAINING SECTION,2015-14595,"ENGAGED IN CONDUCT PREJUDICIAL TO THE GOOD ORDER, EFFICIENCY, AND DISCIPLINE OF THE DEPARTMENT, TO WIT: FRATERNIZED WITH A RECRUIT INSTRUCTOR ASSIGNED TO THE RECRUIT TRAINING SECTION.",VACATION DAYS (13 day(s) ),charge,
@@ -2613,12 +2615,12 @@ Made improper contact/communications.",VACATION DAYS (30 day(s) ),charge,
 950401,5/8/2023,,,2022-24718,01.Failed to make required entries in Department Logs.,TRAINING,allegation,TRAINING
 950401,5/8/2023,,,2022-24718,02.Failed to prepare required reports.,TRAINING,allegation,TRAINING
 956643,2/24/2023,,,2022-25224,01.Failed to timely activate their body worn camera.,,allegation,OTHER
+956643,2/24/2023,,,2022-25224,01.Failed to timely activate their body worn camera.,,allegation,OTHER
 932636,4/3/2013,GUILTY,034-034 PRECINCT,2010-3032,"WHILE ON DUTY , FAILED TO MAKE ACTIVITY LOG ENTRIES RELATING TO THE STOP OF A PERSON KNOWN TO THE DEPARTMENT.","B - COMMAND DISCIPLINE, INSTRUCTIONS",charge,
 957580,8/16/2022,,,2022-25735,01.Wrongfully frisked an individual known to the Department.,,allegation,B-CD
 957580,8/16/2022,,,2022-25735,02.Wrongfully searched an individual known to the Department.,,allegation,B-CD
 957580,10/11/2022,,,2022-26735,01.Failed to make required entries in Department Logs.,,allegation,OTHER
-920278,7/15/2016,GUILTY,497-INTERNAL AFFAIRS BUREAU,2016-15240,"ENGAGED IN CONDUCT PREJUDICIAL TO THE GOOD ORDER, EFFICIENCY OR DISCIPLINE OF THE DEPARTMENT, TOOK AND HID THE IPHONE OF ANOTHER MEMBER OF SERVICE.","VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
-920278,7/15/2016,GUILTY,497-INTERNAL AFFAIRS BUREAU,2016-15240,"ENGAGED IN CONDUCT PREJUDICIAL TO THE GOOD ORDER, EFFICIENCY OR DISCIPLINE OF THE DEPARTMENT, TOOK AND HID THE IPHONE OF ANOTHER MEMBER OF SERVICE.","VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+920278,7/15/2016,GUILTY,497-INTERNAL AFFAIRS BUREAU,2016-15240,"ENGAGED IN CONDUCT PREJUDICIAL TO THE GOOD ORDER, EFFICIENCY OR DISCIPLINE OF THE DEPARTMENT, TOOK AND HID THE IPHONE OF ANOTHER MEMBER OF SERVICE.",VACATION DAYS (20 day(s) ),charge,
 941746,2/19/2019,GUILTY,034-034 PRECINCT,2019-20110,Wrongful entry of a premises.,VACATION DAYS (18 day(s) ),charge,
 941746,2/19/2019,GUILTY,034-034 PRECINCT,2019-20110,Wrongful search of a premises.,VACATION DAYS (18 day(s) ),charge,
 941746,2/19/2019,GUILTY,034-034 PRECINCT,2019-20110,Wrongfully stopped an individual known to the Department.,VACATION DAYS (18 day(s) ),charge,
@@ -2782,8 +2784,6 @@ Wrongfully unholstered/displayed a Taser.",,allegation,B-CD
 950440,8/16/2022,,,2022-25433,02.Misuse of overtime.,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,CHARGES AND SPECIFICATIONS
 960555,5/18/2022,,,2018-19694,01.Interfered with the use of a recording device.,TRAINING,allegation,TRAINING
 954826,12/5/2022,,,2022-26023,01.Wrongfully arrested an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
-954826,12/5/2022,,,2022-26023,01.Wrongfully arrested an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
-954826,12/5/2022,,,2022-26023,02.Wrongfully used physical force.,,allegation,CHARGES AND SPECIFICATIONS
 954826,12/5/2022,,,2022-26023,02.Wrongfully used physical force.,,allegation,CHARGES AND SPECIFICATIONS
 963035,5/26/2023,,,2023-28222,01.Wrongful removal to a hospital.,,allegation,A-CD
 952751,3/19/2019,GUILTY,425-SOD STRATEGIC RESPONSE GROUP,2019-20083,ALTERED HIS ANNUAL EVALUATION WITHOUT PERMISSION OR AUTHORITY.,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (10 day(s) ), VACATION DAYS (20 day(s) )",charge,
@@ -2830,9 +2830,12 @@ Made or caused to be made false or inaccurate entries in Department records.",VA
 938513,10/16/2018,GUILTY,46-046 PRECINCT,2018-19634,Failed to make proper notifications.,VACATION DAYS (20 day(s) ),charge,
 938513,10/16/2018,GUILTY,46-046 PRECINCT,2018-19634,Failed to supervise.,VACATION DAYS (20 day(s) ),charge,
 936630,5/29/2023,,,2022-25194,01.Wrongful entry of a premises.,TRAINING,allegation,TRAINING
-955936,12/10/2019,GUILTY,060-060 PRECINCT,2019-21094,Criminal association.,VACATION DAYS (30 day(s) ),charge,
-955936,12/10/2019,GUILTY,060-060 PRECINCT,2019-21094,Made computer inquiries unrelated to official Department business.,VACATION DAYS (30 day(s) ),charge,
-955936,12/10/2019,GUILTY,060-060 PRECINCT,2019-21094,Failed to make required entries in Department Logs.,VACATION DAYS (30 day(s) ),charge,
+955936,12/10/2019,GUILTY,060-060 PRECINCT,2019-21094,Criminal association.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+955936,12/10/2019,GUILTY,060-060 PRECINCT,2019-21094,Criminal association.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+955936,12/10/2019,GUILTY,060-060 PRECINCT,2019-21094,Made computer inquiries unrelated to official Department business.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+955936,12/10/2019,GUILTY,060-060 PRECINCT,2019-21094,Made computer inquiries unrelated to official Department business.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+955936,12/10/2019,GUILTY,060-060 PRECINCT,2019-21094,Failed to make required entries in Department Logs.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+955936,12/10/2019,GUILTY,060-060 PRECINCT,2019-21094,Failed to make required entries in Department Logs.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
 964522,3/6/2023,,,2023-28015,01.Wrongfully threatened to remove an individual to the hospital.,,allegation,B-CD
 944222,10/25/2010,GUILTY,7-007 PRECINCT,2010-1485,WRONGFULLY RELEASED A FOUR YEAR OLD CHILD TO A FEMALE WITHOUT OBTAINING PROPER IDENTIFICATION.,VACATION DAYS (10 day(s) ),charge,
 944222,10/25/2010,GUILTY,7-007 PRECINCT,2010-1485,"AFTER AN ARREST OF AN INDIVIDUAL KNOWN TO THE DEPARTMENT INVOLVING ENDANGERING THE WELFARE OF A CHILD, FAILED TO NOTIFY THE NEW YORK STATE CENTRAL REGISTRY OF CHILD ABUSE, ADMINISTRATION FOR CHILDREN’S SERVICES AND FAILED TO PREPARE REQUIRED DEPARTMENT REPORTS.",VACATION DAYS (10 day(s) ),charge,
@@ -2848,9 +2851,12 @@ Made or caused to be made false or inaccurate entries in Department records.",VA
 964005,5/23/2023,,,2023-28403,03.Wrongfully frisked an individual known to the Department.,,allegation,B-CD
 964005,5/23/2023,,,2023-28403,04.Wrongfully questioned an individual known to the Department.,,allegation,B-CD
 964005,5/23/2023,,,2023-28403,05.Wrongfully searched an individual known to the Department.,,allegation,B-CD
-928341,11/17/2010,GUILTY,009-009 PRECINCT,2010-2928,"WHILE ON-DUTY, FAILED TO PROPERLY PERFORM HIS ASSIGNMENT AND TAKE POLICE ACTION",VACATION DAYS (5 day(s) ),charge,
-928341,11/17/2010,GUILTY,009-009 PRECINCT,2010-2928,WHILE ON-DUTY FAILED TO VOUCHER PROPERTY,VACATION DAYS (5 day(s) ),charge,
-928341,11/17/2010,GUILTY,009-009 PRECINCT,2010-2928,"WHILE ON-DUTY, MADE INCOMPLETE ENTRIES IN MEMOBOOK.",VACATION DAYS (5 day(s) ),charge,
+928341,11/17/2010,GUILTY,009-009 PRECINCT,2010-2928,"WHILE ON-DUTY, FAILED TO PROPERLY PERFORM HIS ASSIGNMENT AND TAKE POLICE ACTION","VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",charge,
+928341,11/17/2010,GUILTY,009-009 PRECINCT,2010-2928,"WHILE ON-DUTY, FAILED TO PROPERLY PERFORM HIS ASSIGNMENT AND TAKE POLICE ACTION","VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",charge,
+928341,11/17/2010,GUILTY,009-009 PRECINCT,2010-2928,WHILE ON-DUTY FAILED TO VOUCHER PROPERTY,"VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",charge,
+928341,11/17/2010,GUILTY,009-009 PRECINCT,2010-2928,WHILE ON-DUTY FAILED TO VOUCHER PROPERTY,"VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",charge,
+928341,11/17/2010,GUILTY,009-009 PRECINCT,2010-2928,"WHILE ON-DUTY, MADE INCOMPLETE ENTRIES IN MEMOBOOK.","VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",charge,
+928341,11/17/2010,GUILTY,009-009 PRECINCT,2010-2928,"WHILE ON-DUTY, MADE INCOMPLETE ENTRIES IN MEMOBOOK.","VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",charge,
 951753,4/2/2019,GUILTY,68-068 PRECINCT,2018-18822,Wrongfully issued a summons to an individual known to the Department.,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) ), DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) )",charge,
 951753,4/2/2019,GUILTY,68-068 PRECINCT,2018-18822,Wrongfully issued a summons to an individual known to the Department.,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) ), DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) )",charge,
 951753,4/2/2019,GUILTY,68-068 PRECINCT,2018-18822,Made or caused to be made false or inaccurate entries in Department records.,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) ), DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) )",charge,
@@ -2920,8 +2926,7 @@ Failure to cover an individual in custody exposed body parts.",B - COMMAND DISCI
 943276,2/2/2023,,,2022-26018,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
 943276,2/2/2023,,,2022-26020,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 943276,2/2/2023,,,2022-26020,02.Failed to timely activate body worn camera.,,allegation,OTHER
-967518,6/14/2022,,,2021-23657,01.Violated Uniform Rule - Obstructing Shield Number,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) ), VACATION DAYS (3 day(s) )",allegation,A-CD
-967518,6/14/2022,,,2021-23657,01.Violated Uniform Rule - Obstructing Shield Number,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) ), VACATION DAYS (3 day(s) )",allegation,A-CD
+967518,6/14/2022,,,2021-23657,01.Violated Uniform Rule - Obstructing Shield Number,"A - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,A-CD
 965125,6/28/2022,,,2022-24841,01.Violated patrol rules.,,allegation,A-CD
 965125,6/28/2022,,,2022-24841,02.Wrongfully searched an individual known to the Department.,,allegation,A-CD
 965126,6/1/2020,GUILTY,864-TRANSIT BUREAU DISTRICT 11,2019-21224,"while on-duty, did wrongfully disseminate Body Worn Camera footage containing confidential information.",VACATION DAYS (20 day(s) ),charge,
@@ -2999,6 +3004,10 @@ Failure to cover an individual in custody exposed body parts.",B - COMMAND DISCI
 944591,1/12/2023,,,2022-27327,01.Wrongful entry of a premises.,,allegation,B-CD
 938557,2/7/2023,,,2023-27845,01.Violated patrol rules.,,allegation,B-CD
 938557,2/7/2023,,,2023-27845,02.Wrongfully frisked an individual.,,allegation,B-CD
+965134,6/16/2023,,,2023-28578,01.Violated patrol rules.,,allegation,A-CD
+965134,6/16/2023,,,2023-28578,01.Violated patrol rules.,,allegation,A-CD
+965134,6/16/2023,,,2023-28578,02.Wrongfully stopped an individual known to the Department.,,allegation,A-CD
+965134,6/16/2023,,,2023-28578,02.Wrongfully stopped an individual known to the Department.,,allegation,A-CD
 922412,1/31/2023,,,2022-26061,01.Violated patrol rules.,,allegation,A-CD
 949023,2/9/2015,GUILTY,103-103 PRECINCT,2014-11513,"WHILE ON-DUTY, WRONGFULLY SEARCHED A PERSON KNOWN TO THE DEPARTMENT's VEHICLE WITHOUT SUFFICIENT LEGAL AUTHORITY.",VACATION DAYS (3 day(s) ),charge,
 965730,11/26/2022,,,2022-26273,01.Made misleading or inaccurate statements during a Civilian Complaint Review Board interview.,,allegation,CHARGES AND SPECIFICATIONS
@@ -3229,10 +3238,7 @@ Insubordination.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREAT
 955961,6/8/2022,,,2022-25519,01.Wrongfully discourteous.,,allegation,A-CD
 955961,1/13/2023,,,2020-22952,01.Failed to make required entries in Department logs.,TRAINING,allegation,"OTHER,                                                      TRAINING"
 956696,1/10/2023,,,2022-25813,01.Failed to make required entries in Department Logs.,,allegation,OTHER
-956696,1/10/2023,,,2022-25813,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 956696,1/10/2023,,,2022-25813,02.Failed to prepare required reports.,,allegation,OTHER
-956696,1/10/2023,,,2022-25813,02.Failed to prepare required reports.,,allegation,OTHER
-956696,2/15/2023,,,2022-25841,01.Wrongfully deactivated their body-worn camera.,,allegation,OTHER
 956696,2/15/2023,,,2022-25841,01.Wrongfully deactivated their body-worn camera.,,allegation,OTHER
 962447,6/21/2022,,,2022-24782,01.failed to safeguard property.,"B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,B-CD
 921393,2/26/2020,PLEADED GUILTY,044-044 PRECINCT,2020-21823,Wrongfully stopped an individual known to the Department.,VACATION DAYS (20 day(s) ),charge,
@@ -3267,8 +3273,10 @@ Wrongfully deactivated their body-worn camera.",,allegation,OTHER
 945785,1/25/2017,GUILTY,121-121 PRECINCT,2016-16791,WHILE OFF-DUTY WRONGFULLY REFUSED TO SUBMIT TO A BREATHALYZER TEST.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (45 day(s) ), RESTORATION OF SUSPENSION DAYS (6 day(s) ), VACATION DAYS (15 day(s) )",charge,
 934960,12/7/2020,PLEADED GUILTY,063-063 PRECINCT,2019-21220,"Failed to prepare complete required reports (Collision Report).
 Failed to obey a lawful order/direction.",VACATION DAYS (18 day(s) ),charge,
-919129,4/26/2010,GUILTY,009-009 PRECINCT,2010-356,FAILED TO SUPERVISE MEMBERS OF SERVICE UNDER HIS SUPERVISION BY NEGLECTING TO VISIT POLICE OFFICERS DURING HIS TOUR AND FAILING TO SIGN ACTIVITY LOGS OF SAID OFFICERS.,VACATION DAYS (20 day(s) ),charge,
-919129,4/26/2010,GUILTY,009-009 PRECINCT,2010-356,FAILED TO PROPERLY MAINTAIN SAID ACTIVITY LOG.,VACATION DAYS (20 day(s) ),charge,
+919129,4/26/2010,GUILTY,009-009 PRECINCT,2010-356,FAILED TO SUPERVISE MEMBERS OF SERVICE UNDER HIS SUPERVISION BY NEGLECTING TO VISIT POLICE OFFICERS DURING HIS TOUR AND FAILING TO SIGN ACTIVITY LOGS OF SAID OFFICERS.,"VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+919129,4/26/2010,GUILTY,009-009 PRECINCT,2010-356,FAILED TO SUPERVISE MEMBERS OF SERVICE UNDER HIS SUPERVISION BY NEGLECTING TO VISIT POLICE OFFICERS DURING HIS TOUR AND FAILING TO SIGN ACTIVITY LOGS OF SAID OFFICERS.,"VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+919129,4/26/2010,GUILTY,009-009 PRECINCT,2010-356,FAILED TO PROPERLY MAINTAIN SAID ACTIVITY LOG.,"VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+919129,4/26/2010,GUILTY,009-009 PRECINCT,2010-356,FAILED TO PROPERLY MAINTAIN SAID ACTIVITY LOG.,"VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
 922450,6/24/2022,PLEADED GUILTY,286-DET SQD. BKLYN SOUTH-066,2021-24006,Operated a motor vehicle while ability impaired by alcohol.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), VACATION DAYS (29 day(s) )",charge,
 922450,6/24/2022,PLEADED GUILTY,286-DET SQD. BKLYN SOUTH-066,2021-24006,Operated a motor vehicle while intoxicated.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), VACATION DAYS (29 day(s) )",charge,
 922450,6/24/2022,PLEADED GUILTY,286-DET SQD. BKLYN SOUTH-066,2021-24006,Refused a breath test.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), VACATION DAYS (29 day(s) )",charge,
@@ -3400,7 +3408,6 @@ Supervisor, ACS, Commanding Officer if PPO, Operations Unit, CCRB, etc.).","DISM
 932764,7/27/2017,GUILTY,048-048 PRECINCT,2017-17261,CONDUCTED NA INQUIRY IN DEPARTMENT COMPUTERS RELATED TO AN ARREST ON SEVEN (7) OCCASIONS AND SAID INQUIRIES WERE NOT RELATED TO THE OFFICIAL BUSINESS OF THE DEPARTMENT.,VACATION DAYS (10 day(s) ),charge,
 932764,7/27/2017,GUILTY,048-048 PRECINCT,2017-17261,DIVULGED OR DISCUSSED OFFICIAL DEPARTMENT BUSINESS WITHOUT PERMISSION OR AUTHORITY TO DO SO.,VACATION DAYS (10 day(s) ),charge,
 959678,12/2/2022,,,2022-26012,01.Wrongfully used physical force.,,allegation,A-CD
-959678,12/2/2022,,,2022-26012,01.Wrongfully used physical force.,,allegation,A-CD
 943335,2/4/2015,GUILTY,033-033 PRECINCT,2014-11985,UTILIZED HER PERSONAL VEHICLE WHILE ON-DUTY WITHOUT PERMISSION AND EMERGENCY NECESSITY TO DO SO.,VACATION DAYS (20 day(s) ),charge,
 943335,2/4/2015,GUILTY,033-033 PRECINCT,2014-11985,"DIRECTED ANOTHER MEMBER OF THE SERVICE TO CONDUCT AN OMNI SEARCH FOR A NAME KNOWN TO HER, WHICH WAS UNRELATED TO DEPARTMENT BUSINESS.",VACATION DAYS (20 day(s) ),charge,
 943335,2/4/2015,GUILTY,033-033 PRECINCT,2014-11985,MISREPRESENTED HER WHEREABOUTS TO THE SUPERVISING SERGEANT WHEN SHE LEFT THE COMMAND TO CONDUCT PERSONAL BUSINESS.,VACATION DAYS (20 day(s) ),charge,
@@ -3443,13 +3450,9 @@ Supervisor, ACS, Commanding Officer if PPO, Operations Unit, CCRB, etc.).","DISM
 953943,4/14/2022,,,2020-22265,01.Discourtesy,INSTRUCTIONS,allegation,INSTRUCTIONS
 933826,6/21/2022,,,2022-24966,01.Wrongfully discourteous to an individual known to the Department.,A - COMMAND DISCIPLINE,allegation,A-CD
 956714,4/26/2022,,,2022-24591,01.Wrongful removal to a hospital.,,allegation,A-CD
-956714,4/26/2022,,,2022-24591,01.Wrongful removal to a hospital.,,allegation,A-CD
 956714,4/26/2022,,,2022-24591,02.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
-956714,4/26/2022,,,2022-24591,02.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
-956714,2/10/2023,,,2022-27389,01.Wrongful entry of a premises.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
-956714,2/10/2023,,,2022-27389,01.Wrongful entry of a premises.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
-956714,2/10/2023,,,2022-27389,02.Wrongful removal to a hospital.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
-956714,2/10/2023,,,2022-27389,02.Wrongful removal to a hospital.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
+956714,2/10/2023,,,2022-27389,01.Wrongful entry of a premises.,A - COMMAND DISCIPLINE,allegation,A-CD
+956714,2/10/2023,,,2022-27389,02.Wrongful removal to a hospital.,A - COMMAND DISCIPLINE,allegation,A-CD
 965166,8/18/2022,,,2022-24682,01.Failed to make proper notifications to Patrol Supervisor.,"B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,CHARGES AND SPECIFICATIONS
 943343,5/9/2022,,,2022-25023,01.Wrongfully used physical force.,,allegation,B-CD
 943344,3/20/2023,,,2022-27511,01.Failed to prepare required reports.,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,B-CD
@@ -3730,6 +3733,7 @@ Failed to properly document investigatory actions.","DISMISSAL PROBATION (12 mon
 944085,3/18/2015,GUILTY,069-069 PRECINCT,2015-13061,"WHILE ON-DUTY, FAILED TO GIVE BACK A PROPER RADIO DISPOSITION RELATING TO A DOMESTIC INCIDENT.","DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,
 944085,3/18/2015,GUILTY,069-069 PRECINCT,2015-13061,"RESPONDED TO A DOMESTIC INCIDENT INVOLVING AN INDIVIDUAL KNOWN TO THE DEPARTMENT, EXCHANGED NUMBERS WITH HER AND MADE AN INAPPROPRIATE STATEMENT TO HER.","DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,
 965752,1/3/2023,,,2022-26977,01.Wrongful threat of force.,,allegation,NO DISCIPLINARY ACTION
+965752,1/3/2023,,,2022-26977,01.Wrongful threat of force.,,allegation,NO DISCIPLINARY ACTION
 935036,4/18/2019,GUILTY,447-PATROL BORO STATEN ISLAND,2019-20398,WHILE ON-DUTY WAS ABSENT FROM HIS ASSIGNMENT WITHOUT PERMISSION OR POLICE NECESSITY FOR APPROXIMATELY ON (1) HOUR AND FORTY (40) MINUTES.,VACATION DAYS (10 day(s) ),charge,
 935036,4/18/2019,GUILTY,447-PATROL BORO STATEN ISLAND,2019-20398,WHILE ON-DUTY FAILED TO SIGN-OFF FROM THE DEPARTMENT COMPUTER SYSTEMS WHEN HE WAS UNABLE TO SAFEGUARD ITS USE.,VACATION DAYS (10 day(s) ),charge,
 962490,6/28/2022,,,2022-24846,01.Violated patrol rules.,,allegation,TRAINING
@@ -3754,10 +3758,8 @@ Failed to properly document investigatory actions.","DISMISSAL PROBATION (12 mon
 940284,6/18/2019,PLEADED GUILTY,590-OFF OF DEP COM OF TRAINING,2019-20032,Failed to make required entries in Department Logs.,VACATION DAYS (40 day(s) ),charge,
 946495,6/26/2017,GUILTY,75-075 PRECINCT,2017-17527,"AFTER BEING PROPERLY NOTIFIED, FAILED TO APPEAR AT THE TRAFFIC VIOLATIONS BUREAU RESULTING IN THE DISMISSAL OF ELEVEN (11) SUMMONS AGAINST ELEVEN (11) DIFFERENT MOTORISTS.",VACATION DAYS (5 day(s) ),charge,
 960706,4/6/2023,,,2022-27665,01.Wrongfully threatened to damage property.,,allegation,NO DISCIPLINARY ACTION
-958461,10/3/2018,GUILTY,105-105 PRECINCT,2018-18640,Made misleading or inaccurate statements during an official Department interview.,"DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) ), VACATION DAYS (45 day(s) )",charge,
-958461,10/3/2018,GUILTY,105-105 PRECINCT,2018-18640,Made misleading or inaccurate statements during an official Department interview.,"DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) ), VACATION DAYS (45 day(s) )",charge,
-958461,10/3/2018,GUILTY,105-105 PRECINCT,2018-18640,Made misleading or inaccurate statements during an official Department interview.,"DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) ), VACATION DAYS (45 day(s) )",charge,
-958461,10/3/2018,GUILTY,105-105 PRECINCT,2018-18640,Made misleading or inaccurate statements during an official Department interview.,"DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) ), VACATION DAYS (45 day(s) )",charge,
+958461,10/3/2018,GUILTY,105-105 PRECINCT,2018-18640,Made misleading or inaccurate statements during an official Department interview.,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) )",charge,
+958461,10/3/2018,GUILTY,105-105 PRECINCT,2018-18640,Made misleading or inaccurate statements during an official Department interview.,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) )",charge,
 964067,1/15/2022,,,2021-24207,01.Wrongful entry of a premises.,,allegation,A-CD
 964067,1/15/2022,,,2021-24207,02.Wrongful search of a premises.,,allegation,A-CD
 964067,1/15/2022,,,2021-24208,"01.Failed to timely activate body-worn camera.
@@ -3843,8 +3845,7 @@ Failed to prepare a Property Clerk's Invoice Worksheet, as required.",VACATION D
 954003,4/2/2018,PLEADED GUILTY,073-073 PRECINCT,2018-18748,Failed to make entries in activity log.,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,
 954003,4/2/2018,PLEADED GUILTY,073-073 PRECINCT,2018-18748,False/misleading statements.,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,
 950627,8/2/2022,,,2022-26358,01.Failed to activate their body-worn camera.,,allegation,OTHER
-926992,12/14/2017,GUILTY,043-043 PRECINCT,2017-17412,"KNOWINGLY ASSOCIATED WITH A PERSON REASONABLY BELIEVED TO BE ENGAGED IN, LIKELY TO ENGAGE IN, OR TO HAVE ENGAGED IN CRIMINAL ACTIVITIES","VACATION DAYS (2 day(s) ), VACATION DAYS (2 day(s) )",charge,
-926992,12/14/2017,GUILTY,043-043 PRECINCT,2017-17412,"KNOWINGLY ASSOCIATED WITH A PERSON REASONABLY BELIEVED TO BE ENGAGED IN, LIKELY TO ENGAGE IN, OR TO HAVE ENGAGED IN CRIMINAL ACTIVITIES","VACATION DAYS (2 day(s) ), VACATION DAYS (2 day(s) )",charge,
+926992,12/14/2017,GUILTY,043-043 PRECINCT,2017-17412,"KNOWINGLY ASSOCIATED WITH A PERSON REASONABLY BELIEVED TO BE ENGAGED IN, LIKELY TO ENGAGE IN, OR TO HAVE ENGAGED IN CRIMINAL ACTIVITIES",VACATION DAYS (2 day(s) ),charge,
 967932,11/3/2022,,,2022-26986,01.Wrongful seizure of a person's property.,A - COMMAND DISCIPLINE,allegation,A-CD
 967932,11/3/2022,,,2022-26987,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 950631,5/11/2016,GUILTY,868-TRANSIT BUREAU DISTRICT 30,2015-14578,"WHILE OFF-DUTY, ENGAGED IN A PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,
@@ -3911,8 +3912,10 @@ Failed to prepare a Property Clerk's Invoice Worksheet, as required.",VACATION D
 949873,4/17/2018,GUILTY,42-042 PRECINCT,2018-18867,"while on-duty, failed to prepare and complete a Police Accident Report.",VACATION DAYS (10 day(s) ),charge,
 960090,5/7/2022,,,2021-24427,01.Failed to activate their body worn camera.,,allegation,OTHER
 960090,5/7/2022,,,2021-24427,02.Failed to prepare required reports.,,allegation,OTHER
-956776,9/7/2022,,,2019-21376,01.Failed to obtain language interpretation services,INSTRUCTIONS,allegation,INSTRUCTIONS
-956776,9/7/2022,,,2019-21376,01.Improper entry of apartment,INSTRUCTIONS,allegation,INSTRUCTIONS
+956776,9/7/2022,,,2019-21376,01.Failed to obtain language interpretation services,"INSTRUCTIONS, INSTRUCTIONS",allegation,INSTRUCTIONS
+956776,9/7/2022,,,2019-21376,01.Failed to obtain language interpretation services,"INSTRUCTIONS, INSTRUCTIONS",allegation,INSTRUCTIONS
+956776,9/7/2022,,,2019-21376,01.Improper entry of apartment,"INSTRUCTIONS, INSTRUCTIONS",allegation,INSTRUCTIONS
+956776,9/7/2022,,,2019-21376,01.Improper entry of apartment,"INSTRUCTIONS, INSTRUCTIONS",allegation,INSTRUCTIONS
 940919,5/26/2023,,,2023-27878,01.Violated patrol rules.,,allegation,A-CD
 940919,5/26/2023,,,2023-27878,01.Violated patrol rules.,,allegation,A-CD
 940919,5/26/2023,,,2023-27878,02.Wrongfully stopped an individual known to the Department.,,allegation,A-CD
@@ -3939,7 +3942,8 @@ Wrongfully deactivated their body-worn camera.",,allegation,OTHER
 947112,1/27/2018,GUILTY,740-NARCO BORO BLKYN SOUTH,2017-18012,SEARCHED A VEHICLE WITHOUT SUFFICIENT LEGAL AUTHORITY.,VACATION DAYS (10 day(s) ),charge,
 947112,1/27/2018,GUILTY,740-NARCO BORO BLKYN SOUTH,2017-18012,INTERFERED WITH THE USE OF RECORDING DEVICE.,VACATION DAYS (10 day(s) ),charge,
 947112,1/27/2018,GUILTY,740-NARCO BORO BLKYN SOUTH,2017-18012,SPOKE DISCOURTEOUSLY TO A PERSON KNOWN TO THE DEPARTMENT.,VACATION DAYS (10 day(s) ),charge,
-925519,12/18/2014,GUILTY,075-075 PRECINCT,2014-11359,"WHILE ON-DUTY, ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT, IN THAT HE THREATENED TO ARREST A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",VACATION DAYS (3 day(s) ),charge,
+925519,12/18/2014,GUILTY,075-075 PRECINCT,2014-11359,"WHILE ON-DUTY, ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT, IN THAT HE THREATENED TO ARREST A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.","VACATION DAYS (3 day(s) ), VACATION DAYS (3 day(s) )",charge,
+925519,12/18/2014,GUILTY,075-075 PRECINCT,2014-11359,"WHILE ON-DUTY, ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT, IN THAT HE THREATENED TO ARREST A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.","VACATION DAYS (3 day(s) ), VACATION DAYS (3 day(s) )",charge,
 935080,11/12/2010,GUILTY,075-075 PRECINCT,2010-3126,FAILED TO PREPARE PROPERTY CLERK INVOICE REGARDING INVESTIGATORY/ FOUND PROPERTY,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
 935080,11/12/2010,GUILTY,075-075 PRECINCT,2010-3126,FAILED TO SAFEGUARD  PROPERTY,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
 935080,11/12/2010,GUILTY,075-075 PRECINCT,2010-3126,FAILED TO MAINTAIN ACTIVITY LOG,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
@@ -4026,7 +4030,8 @@ Wrongfully discourtesy.",,allegation,CHARGES AND SPECIFICATIONS
 965766,12/1/2022,,,2022-26364,03.Wrongfully used offensive language.,,allegation,CHARGES AND SPECIFICATIONS
 965766,12/1/2022,,,2022-26364,03.Wrongfully used physical force.,,allegation,CHARGES AND SPECIFICATIONS
 960745,5/19/2022,,,2022-24582,01.Violated patrol rules.,A - COMMAND DISCIPLINE,allegation,A-CD
-960746,4/6/2023,,,2023-27809,01.Violated patrol rules - refused to provide name,A - COMMAND DISCIPLINE,allegation,A-CD
+960746,4/6/2023,,,2023-27809,01.Violated patrol rules - refused to provide name,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
+960746,4/6/2023,,,2023-27809,01.Violated patrol rules - refused to provide name,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
 954016,1/21/2020,GUILTY,861-TRANSIT BUREAU DISTRICT 2,2017-18165,OPERATED A MOTOR VEHICLE WHILE HIS BLOOD ALCOHOL CONTENT WAS OVER THE LEGAL LIMIT.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (10 day(s) )",charge,
 954016,1/21/2020,GUILTY,861-TRANSIT BUREAU DISTRICT 2,2017-18165,OPERATED A MOTOR VEHICLE WHILE HIS ABILITY WAS IMPAIRED BY THE CONSUMPTION OF ALCOHOL.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (10 day(s) )",charge,
 954016,1/21/2020,GUILTY,861-TRANSIT BUREAU DISTRICT 2,2017-18165,CONSUMED AN INTOXICANT TO THE EXTENT THAT HE WAS UNFIT FOR DUTY.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), SUSPENDED W/O PAY (14 day(s) ), VACATION DAYS (10 day(s) )",charge,
@@ -4141,7 +4146,8 @@ Wrongfully discourtesy.",,allegation,CHARGES AND SPECIFICATIONS
 942016,7/11/2022,,,2022-24665,01.Violated patrol rules - failed to provide business card,TRAINING,allegation,TRAINING
 942016,5/25/2023,,,2023-28048,01.Wrongfully discourteous to an individual known to the Department.,A - COMMAND DISCIPLINE,allegation,A-CD
 952940,8/12/2015,GUILTY,824-HB BKLN IMPACT RESPONSE TEAM,2015-13650,FAILED TO COMPLY WITH AN ORDER.,PRE-TRIAL SUSPENSION DAYS (30 day(s) ),charge,
-905600,6/13/2022,PLEADED GUILTY,480-AVIATION UNIT,2022-25842,Improper Gratuity or Gift from City Vendor,VACATION DAYS (30 day(s) ),charge,
+905600,6/13/2022,PLEADED GUILTY,480-AVIATION UNIT,2022-25842,Improper Gratuity or Gift from City Vendor,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+905600,6/13/2022,PLEADED GUILTY,480-AVIATION UNIT,2022-25842,Improper Gratuity or Gift from City Vendor,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
 924034,7/1/2010,GUILTY,070-070 PRECINCT,2010-1773,FAILED TO ENSURE THAT ARREST PAPERWORK WAS PROPERLY COMPLETED.,VACATION DAYS (20 day(s) ),charge,
 924034,7/1/2010,GUILTY,070-070 PRECINCT,2010-1773,FAILED TO PROPERLY DOCUMENT IN DEPARTMENT RECORDS THAT AN ARREST WAS TRANSFERRED FROM ONE POLICE OFFICER TO ANOTHER.,VACATION DAYS (20 day(s) ),charge,
 955019,2/2/2023,,,2022-26079,01.Wrongfully discourteous.,,allegation,A-CD
@@ -4248,6 +4254,7 @@ Report",TRAINING,allegation,OTHER
 906600,6/4/2010,PLEADED GUILTY,305-DET BUREAU BKLYN SPEC VIC SQD,2010-803,"FAILED TO PREPARE A DD5 REPORT AFTER COLLECTING DNA EVIDENCE, AS REQUIRED.",VACATION DAYS (10 day(s) ),charge,
 906600,6/4/2010,PLEADED GUILTY,305-DET BUREAU BKLYN SPEC VIC SQD,2010-803,"FAILED TO MAINTAIN ACTIVITY LOGS, AS REQUIRED.",VACATION DAYS (10 day(s) ),charge,
 964104,8/22/2022,,,2022-26516,01.Failed to make required entries in Department Logs.,,allegation,NO DISCIPLINARY ACTION
+964104,8/22/2022,,,2022-26516,01.Failed to make required entries in Department Logs.,,allegation,NO DISCIPLINARY ACTION
 945224,7/14/2015,GUILTY,49-049 PRECINCT,2015-13309,USED EXCESSIVE FORCE IN THAT HE UNNECESSARILY USED PEPPER SPRAY AGAINST INDIVIDUALS.,VACATION DAYS (10 day(s) ),charge,
 930523,4/11/2023,,,2023-27765,01.Out of residence while on sick leave.,"C - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,C-CD
 943457,7/30/2021,PLEADED GUILTY,103-103 PRECINCT,2020-22790,"Failed to conduct an investigation.
@@ -4305,10 +4312,7 @@ Failed to prepare required reports.",VACATION DAYS (35 day(s) ),charge,
 963599,5/19/2022,,,2021-24408,01.Failed to take police action/render police services.,A - COMMAND DISCIPLINE,allegation,A-CD
 952966,5/20/2022,,,2022-24815,01.Failed to comply with training.,TRAINING,allegation,INSTRUCTIONS
 965253,6/2/2022,,,2020-22251,01.Failed to activate their body-worn camera.,,allegation,CHARGES AND SPECIFICATIONS
-965253,6/2/2022,,,2020-22251,01.Failed to activate their body-worn camera.,,allegation,CHARGES AND SPECIFICATIONS
 965253,6/2/2022,,,2020-22251,01.Failed to prepare required reports,,allegation,"CHARGES AND SPECIFICATIONS,                                                                                                       OTHER"
-965253,6/2/2022,,,2020-22251,01.Failed to prepare required reports,,allegation,"CHARGES AND SPECIFICATIONS,                                                                                                       OTHER"
-965253,6/2/2022,,,2020-22251,02.Wrongfully used physical force,,allegation,CHARGES AND SPECIFICATIONS
 965253,6/2/2022,,,2020-22251,02.Wrongfully used physical force,,allegation,CHARGES AND SPECIFICATIONS
 954047,5/14/2018,GUILTY,014-MIDTOWN PRECINCT SOUTH,2017-17709,HAVING BEEN INVOLVED IN AN OFF-DUTY PHYSICAL ALTERCATION WITH ANOTHER PERSON FAILED TO REMAIN AT THE SCENE OF INCIDENT AND FAILED TO REQUEST RESPONSE OF PATROL SUPERVISOR PRECINCT OF OCCURRENCE.,VACATION DAYS (12 day(s) ),charge,
 954047,5/14/2018,GUILTY,014-MIDTOWN PRECINCT SOUTH,2017-17709,HAVING BEEN INVOLVED IN AN OFF-DUTY PHYSICAL ALTERCATION WITH ANOTHER PERSON FAILED TO ARREST THE OTHER PERSON.,VACATION DAYS (12 day(s) ),charge,
@@ -4356,6 +4360,12 @@ Wrongfully unholstered/displayed a Taser.",,allegation,CHARGES AND SPECIFICATION
 958803,12/1/2022,,,2022-24876,02.Wrongful threat of force.,,allegation,CHARGES AND SPECIFICATIONS
 943471,1/25/2023,,,2022-27493,01.Wrongful entry of a premises.,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,B-CD
 943471,1/25/2023,,,2022-27493,02.Wrongful search of a premises.,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,B-CD
+961881,8/22/2022,PLEADED GUILTY,60-060 PRECINCT,2021-24184,Wrongful used physical force,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+961881,8/22/2022,PLEADED GUILTY,60-060 PRECINCT,2021-24184,Made or caused to be made false or inaccurate entries in Department records.,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+961881,8/22/2022,PLEADED GUILTY,60-060 PRECINCT,2021-24184,Failed to make required entries in Department Logs.,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+961881,8/22/2022,PLEADED GUILTY,60-060 PRECINCT,2021-24184,Failed to make proper notifications.,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+961881,6/16/2023,,,2023-28401,01.Wrongfully discourteous to an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
+961881,6/16/2023,,,2023-28401,02.Wrongfully used physical force.,,allegation,CHARGES AND SPECIFICATIONS
 955050,3/20/2019,GUILTY,073-073 PRECINCT,2018-19850,"WHILE ON-DUTY DID FAIL AND NEGLECT TO PROPERLY SAFEGUARD A PRISONER, RESULTING IN LOSS OF SAID PRISONER.",PRE-TRIAL SUSPENSION DAYS (16 day(s) ),charge,
 955050,3/20/2019,GUILTY,073-073 PRECINCT,2018-19850,FAILED TO TIMELY MAKE NOTIFICATIONS AND INITIATE MOBILIZATION AFTER A PRISONER ESCAPED CUSTODY.,PRE-TRIAL SUSPENSION DAYS (16 day(s) ),charge,
 955050,2/2/2023,,,2022-26091,01.Failed to make required entries in Department Logs.,,allegation,OTHER
@@ -4454,7 +4464,8 @@ Failure to cover an individual in custody exposed body parts.",B - COMMAND DISCI
 943493,5/11/2017,GUILTY,071-071 PRECINCT,2016-16404,WHILE ON-DUTY WRONGFULLY FAILED TO INFORM  OR NOTIFY A SUPERVISOR THAT AN ARRESTED PERSON HAD STATED THAT HE MAY HAVE OR HAD LEFT HIS STOVE TURNED ON IN HIS RESIDENCE.,VACATION DAYS (10 day(s) ),charge,
 960816,1/27/2023,,,2022-26063,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 965275,11/23/2022,,,2022-27464,01.Wrongfully used physical force.,,allegation,B-CD
-970667,2/13/2023,,,2022-27580,01.Failed to obtain language interpretation services.,A - COMMAND DISCIPLINE,allegation,A-CD
+970667,2/13/2023,,,2022-27580,01.Failed to obtain language interpretation services.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
+970667,2/13/2023,,,2022-27580,01.Failed to obtain language interpretation services.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
 929441,8/1/2022,,,2022-26475,01.Violated patrol rules - failed to provide business card,A - COMMAND DISCIPLINE,allegation,A-CD
 929441,11/21/2022,,,2022-25615,01.Failed to supervise.,,allegation,B-CD
 932912,2/24/2015,GUILTY,103-103 PRECINCT,2014-12300,WHILE OFF-DUTY DID FAIL TO SAFEGUARD HIS OFF-DUTY FIREARM.,VACATION DAYS (20 day(s) ),charge,
@@ -4506,10 +4517,12 @@ Failure to cover an individual in custody exposed body parts.",B - COMMAND DISCI
 933945,3/20/2020,GUILTY,446-SOD STRAT RESP GRP 5 SI,2019-21440,Wrongfully disseminated confidential Department information.,VACATION DAYS (20 day(s) ),charge,
 933945,2/27/2023,,,2022-24916,01.Wrongfully deactivated their body worn camera.,,allegation,OTHER
 955086,8/24/2022,,,2022-25960,01.Wrongfully used offensive language.,,allegation,NO DISCIPLINARY ACTION
+955086,8/24/2022,,,2022-25960,01.Wrongfully used offensive language.,,allegation,NO DISCIPLINARY ACTION
 950773,7/11/2022,,,2022-24919,01.Failed to make required entries in Department Logs.,TRAINING,allegation,TRAINING
 950773,2/23/2023,,,2022-25497,01.Failed to prepare required reports.,,allegation,OTHER
 937431,11/3/2016,GUILTY,094-094 PRECINCT,2016-16543,WHILE OFF-DUTY ENGAGED IN A VERBAL AND PHYSICAL DOMESTIC DISPUTE WITH ANOTHER MOS CAUSING HER PHYSICAL INJURY.,"COUNSELING, VACATION DAYS (15 day(s) )",charge,
 968582,6/23/2022,,,2022-25256,01.Failed to make proper notifications.,INSTRUCTIONS,allegation,INSTRUCTIONS
+958832,6/7/2023,,,2020-22014,01.Improper frisk.,TRAINING,allegation,A-CD
 965285,8/15/2022,PLEADED GUILTY,111-111 PRECINCT,2021-23942,Wrongfully de-activate BWC.,VACATION DAYS (30 day(s) ),charge,
 936983,4/22/2010,PLEADED GUILTY,860-TRANSIT BUREAU DISTRICT 1,2010-273,"AFFIXED HIS SIGNATURE TO A CRIMINAL COURT COMPLAINT THAT HE DID NOT CORRECTLY REVIEW AND WHICH INDICATED THAT HE HAD RECEIVED THE INFORMATION HE WAS SWEARING TO FROM THE COMPLAINANT, WHEN IN FACT HE OBSERVED THE INCIDENT.",VACATION DAYS (10 day(s) ),charge,
 936983,4/22/2010,PLEADED GUILTY,860-TRANSIT BUREAU DISTRICT 1,2010-273,WRONGFULLY CAUSED AN INACCURATE INSTRUMENT TO BE FILED WITH THE NEW YORK COUNTY CRIMINAL COURT.,VACATION DAYS (10 day(s) ),charge,
@@ -4687,8 +4700,10 @@ Failure to cover an individual in custody exposed body parts.",B - COMMAND DISCI
 942107,2/23/2018,GUILTY,032-032 PRECINCT,2017-18192,WRONGFULLY CONDUCTED ONE (1) OR MORE QUERIES IN CONFIDENTIAL DEPARTMENT DATABASES UNRELATED TO OFFICIAL DEPARTMENT BUSINESS.,VACATION DAYS (15 day(s) ),charge,
 950809,3/29/2023,,,2023-28118,01.Violated patrol rules.,,allegation,B-CD
 950809,3/29/2023,,,2023-28118,02.Wrongful detainment.,,allegation,B-CD
-929655,4/4/2019,GUILTY,068-068 PRECINCT,2018-19257,Made false/misleading/inaccurate statements to supervisors/investigators/ADA.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,
-929655,4/4/2019,GUILTY,068-068 PRECINCT,2018-19257,Made false/misleading/inaccurate statements to supervisors/investigators/ADA.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,
+929655,4/4/2019,GUILTY,068-068 PRECINCT,2018-19257,Made false/misleading/inaccurate statements to supervisors/investigators/ADA.,"COUNSELING, COUNSELING, DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,
+929655,4/4/2019,GUILTY,068-068 PRECINCT,2018-19257,Made false/misleading/inaccurate statements to supervisors/investigators/ADA.,"COUNSELING, COUNSELING, DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,
+929655,4/4/2019,GUILTY,068-068 PRECINCT,2018-19257,Made false/misleading/inaccurate statements to supervisors/investigators/ADA.,"COUNSELING, COUNSELING, DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,
+929655,4/4/2019,GUILTY,068-068 PRECINCT,2018-19257,Made false/misleading/inaccurate statements to supervisors/investigators/ADA.,"COUNSELING, COUNSELING, DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,
 938920,2/25/2015,GUILTY,041-041 PRECINCT,2014-11345,"WHILE ON-DUTY, WRONGFULLY  SEARCHED AN OCCUPIED CAR WITHOUT SUFFICIENT LEGAL AUTHORITY.",VACATION DAYS (3 day(s) ),charge,
 938920,2/25/2015,GUILTY,041-041 PRECINCT,2014-11345,"WHILE ON-DUTY, ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT IN THAT HE IMPROPERLY CONDUCTED A STRIP SEARCH OF A PERSON KNOWN TO THE DEPARTMENT",VACATION DAYS (3 day(s) ),charge,
 962567,5/25/2023,,,2023-27877,01.Wrongfully threatened to seize a person's property.,A - COMMAND DISCIPLINE,allegation,A-CD
@@ -4769,6 +4784,7 @@ Refused to answer questions during an official Department interview","DISMISSAL 
 935245,12/23/2015,PLEADED GUILTY,14-MIDTOWN PRECINCT SOUTH,2015-14433,"WHILE ON-DUTY, WAS ABSENT FROM HIS ASSIGNMENT WITHOUT PERMISSION OR POLICE NECESSITY AND WRONGFUL FAILED TO SUBMIT LEAVE OF ABSENCE REPORTS (UF-28) FOR SAID ABSENCES TOTALING APPROXIMATELY SIX (6) HOURS AND SIX (6) MINUTES.",VACATION DAYS (30 day(s) ),charge,
 935245,12/23/2015,PLEADED GUILTY,14-MIDTOWN PRECINCT SOUTH,2015-14433,"ON THREE (3) OCCASIONS, WRONGFULLY MADE INACCURATE ENTRIES IN DEPARTMENT RECORDS.",VACATION DAYS (30 day(s) ),charge,
 935245,12/23/2015,PLEADED GUILTY,14-MIDTOWN PRECINCT SOUTH,2015-14433,"ON TWO (2) OCCASIONS, WRONGFULLY FAILED AND NEGLECTED TO MAKE ENTRIES REGARDING HIS WHEREABOUTS OR ACTIVITIES IN HIS ACTIVITY LOG, AS REQUIRED.",VACATION DAYS (30 day(s) ),charge,
+968601,6/10/2023,,,2023-27895,01.Wrongful search of a premises.,,allegation,B-CD
 911110,3/6/2018,GUILTY,34-034 PRECINCT,2018-18641,"while on-duty, failed to conduct a proper investigation.",VACATION DAYS (15 day(s) ),charge,
 911110,3/6/2018,GUILTY,34-034 PRECINCT,2018-18641,"while on-duty, failed and neglected to adequately maintain his Activity Log.",VACATION DAYS (15 day(s) ),charge,
 911110,3/6/2018,GUILTY,34-034 PRECINCT,2018-18641,"while on-duty, failed to ensure that a Police Accident Report was completed.",VACATION DAYS (15 day(s) ),charge,
@@ -4896,7 +4912,7 @@ Off Post.","DEDUCTION OF PENSIONABLE TIME, VACATION DAYS (25 day(s) )",charge,
 950834,7/7/2022,,,2020-22944,01.Wrongful search of a person's property.,TRAINING,allegation,TRAINING
 955139,8/1/2022,,,2020-22221,01.Improper stop of an individual,TRAINING,allegation,TRAINING
 955139,8/1/2022,,,2020-22221,02.Improper use of a body won camera,TRAINING,allegation,TRAINING
-955139,8/4/2022,,,2019-20457,01.Improper frisk.,"A - COMMAND DISCIPLINE, TRAINING",allegation,"A-CD,                                                                                                                                                                                                             TRAINING"
+955139,6/6/2023,,,2019-20457,01.Improper frisk.,"A - COMMAND DISCIPLINE, TRAINING",allegation,"A-CD,                                                                                                                                                                                                             TRAINING"
 965310,8/10/2022,,,2022-26458,01.Wrongfully discourteous to an individual known to the Department.,A - COMMAND DISCIPLINE,allegation,A-CD
 965310,10/13/2022,,,2022-24973,01.Violated patrol rules - failure to provide business card,A - COMMAND DISCIPLINE,allegation,A-CD
 965310,2/7/2023,,,2022-25650,01.Violated patrol rules.,,allegation,B-CD
@@ -5226,7 +5242,6 @@ Failed to conduct an investigation.","PRE-TRIAL SUSPENSION DAYS (11 day(s) ), VA
 920611,11/20/2020,PLEADED GUILTY,006-006 PRECINCT,2020-22168,Said Police Officer violated personnel rules.,VACATION DAYS (18 day(s) ),charge,
 920611,11/20/2020,PLEADED GUILTY,006-006 PRECINCT,2020-22168,Said Police Officer violated Department of Motor Vehicles rules.,VACATION DAYS (18 day(s) ),charge,
 959819,3/29/2023,,,2023-28164,01.Violated patrol rules.,,allegation,TRAINING
-959819,3/29/2023,,,2023-28164,01.Violated patrol rules.,,allegation,TRAINING
 965341,5/21/2022,,,2022-25377,01.Wrongfully threatened to remove an individual to the hospital.,,allegation,B-CD
 965341,4/24/2023,,,2023-27854,01.Wrongfully discourteous to an individual known to the Department.,"A - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,A-CD
 958935,2/27/2020,GUILTY,040-040 PRECINCT,2020-21696,Wrongful used physical force.,VACATION DAYS (15 day(s) ),charge,
@@ -5302,6 +5317,7 @@ Failed to conduct an investigation.","PRE-TRIAL SUSPENSION DAYS (11 day(s) ), VA
 955212,5/31/2016,GUILTY,052-052 PRECINCT,2016-15603,WHILE ON-DUTY WRONGFULLY USED FORCE AGAINST A PERSON KNOWN TO THE DEPARTMENT WITHOUT POLICE NECESSITY.,VACATION DAYS (15 day(s) ),charge,
 935702,8/1/2022,,,2019-21537,01.Improper threat of arrest,TRAINING,allegation,TRAINING
 950901,3/9/2021,GUILTY,863-TRANSIT BUREAU DISTRICT 4,2020-22917,Unfit for duty while off duty.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, RESTORATION OF SUSPENSION DAYS (7 day(s) ), VACATION DAYS (15 day(s) )",charge,
+970001,6/16/2023,,,2023-28202,01.Wrongful search of a premises.,,allegation,A-CD
 953129,10/27/2015,GUILTY,032-032 PRECINCT,2015-14520,"WHILE OFF-DUTY, DID WRONGFULLY CONSUME AN INTOXICANT TO THE EXTENT THAT SAID MEMBER WAS UNFIT FOR DUTY.",VACATION DAYS (15 day(s) ),charge,
 941084,1/5/2011,GUILTY,049-049 PRECINCT,2010-1564,FAILED TO OBTAIN PERMISSION FROM PATROL SUPERVISOR TO TRANSPORT AN ARRESTEE TO AN ADDRESS WHERE ARRESTEE CLAIMED TO RESIDE.,VACATION DAYS (10 day(s) ),charge,
 941084,1/5/2011,GUILTY,049-049 PRECINCT,2010-1564,FAILED TO NOTIFY RADIO DISPATCH WHEN PLACING ARRESTEE IN A PATROL CAR AND SUBSEQUENTLY RELEASED ARRESTEE ON THE STREET.,VACATION DAYS (10 day(s) ),charge,
@@ -5411,15 +5427,10 @@ Failed to identify themselves as a police officer.","COUNSELING, DISMISSAL PROBA
 965808,12/30/2021,,,2021-24335,01.OUT OF RESIDENCE WHILE SICK.,"C - COMMAND DISCIPLINE, VACATION DAYS (4 day(s) )",allegation,C-CD
 960978,11/15/2016,GUILTY,123-123 PRECINCT,2016-16284,"FAILED TO RESIDE AS REQUIRED WITHIN THE CITY OF NEW YORK OR WESTCHESTER, ROCKLAND, ORANGE, PUTNAM, NASSAU OR SUFFOLK COUNTIES.",VACATION DAYS (20 day(s) ),charge,
 963664,7/7/2022,,,2020-22976,01.Failed to take police action.,TRAINING,allegation,TRAINING
-958958,6/23/2022,,,2022-25093,01.Wrongfully searched a vehicle.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) ), VACATION DAYS (1 day(s) )",allegation,A-CD
-958958,6/23/2022,,,2022-25093,01.Wrongfully searched a vehicle.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) ), VACATION DAYS (1 day(s) )",allegation,A-CD
-958958,5/17/2023,,,2020-22421,01.Failed to submit report.,"TRAINING, TRAINING",allegation,OTHER
-958958,5/17/2023,,,2020-22421,01.Failed to submit report.,"TRAINING, TRAINING",allegation,OTHER
-958958,5/17/2023,,,2020-22421,02.Improperly used body-worn camera.,"TRAINING, TRAINING",allegation,OTHER
-958958,5/17/2023,,,2020-22421,02.Improperly used body-worn camera.,"TRAINING, TRAINING",allegation,OTHER
-958958,5/17/2023,,,2020-22421,03.Wrongfully entered premises.,"TRAINING, TRAINING",allegation,TRAINING
-958958,5/17/2023,,,2020-22421,03.Wrongfully entered premises.,"TRAINING, TRAINING",allegation,TRAINING
-966727,5/16/2023,,,2023-28374,01.Wrongful entry of a premises.,,allegation,B-CD
+958958,6/23/2022,,,2022-25093,01.Wrongfully searched a vehicle.,"A - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,A-CD
+958958,5/17/2023,,,2020-22421,01.Failed to submit report.,TRAINING,allegation,OTHER
+958958,5/17/2023,,,2020-22421,02.Improperly used body-worn camera.,TRAINING,allegation,OTHER
+958958,5/17/2023,,,2020-22421,03.Wrongfully entered premises.,TRAINING,allegation,TRAINING
 966727,5/16/2023,,,2023-28374,01.Wrongful entry of a premises.,,allegation,B-CD
 953147,3/18/2015,GUILTY,825-HB MANH. IMPACT RESPONSE TEAM,2015-13315,"ENGAGED IN CONDUCT PREJUDICIAL TO THE GOOD ORDER, EFFICIENCY, AND DISCIPLINE OF THE DEPARTMENT, TO WIT: IMPROPERLY STRUCK AN INDIVIDUAL KNOWN TO THE DEPARTMENT WHILE HE WAS HANDCUFFED.",VACATION DAYS (15 day(s) ),charge,
 953147,11/21/2022,,,2022-25977,01.Failed to obtain medical treatment.,,allegation,CHARGES AND SPECIFICATIONS
@@ -5642,7 +5653,8 @@ Off Duty.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION
 935412,10/6/2020,PLEADED GUILTY,73-073 PRECINCT,2020-22461,Operated a motor vehicle while their ability was impaired.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (35 day(s) ), SUSPENDED W/O PAY (25 day(s) ), VACATION DAYS (25 day(s) )",charge,
 935412,10/6/2020,PLEADED GUILTY,73-073 PRECINCT,2020-22461,Endangered the welfare of a child.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (35 day(s) ), SUSPENDED W/O PAY (25 day(s) ), VACATION DAYS (25 day(s) )",charge,
 935412,10/6/2020,PLEADED GUILTY,73-073 PRECINCT,2020-22461,Criminal Mischief (attempted),"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (35 day(s) ), SUSPENDED W/O PAY (25 day(s) ), VACATION DAYS (25 day(s) )",charge,
-965374,1/22/2022,,,2021-23569,01.Wrongfully used physical force.,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,A-CD
+965374,1/22/2022,,,2021-23569,01.Wrongfully used physical force.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES",allegation,A-CD
+965374,1/22/2022,,,2021-23569,01.Wrongfully used physical force.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES",allegation,A-CD
 956134,4/28/2022,,,2022-24710,01.Wrongfully stopped an individual known to the Department.,,allegation,A-CD
 956134,4/28/2022,,,2022-24711,01.Failed to activate their body worn camera.,,allegation,OTHER
 956134,4/28/2022,,,2022-24711,02.Failed to make required entries in Department Logs.,,allegation,OTHER
@@ -5668,8 +5680,12 @@ Off Duty.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION
 949408,2/4/2015,GUILTY,121-121 PRECINCT,2014-12514,DID FAIL AND NEGLECT TO PREPARE A COMPLAINT REPORT WORKSHEET UPON RESPONDING TO A RADIO TRANSMISSION OF A ROBBERY AND SPEAKING TO THE COMPLAINANT.,VACATION DAYS (8 day(s) ),charge,
 956987,8/3/2022,,,2022-26665,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
 955267,10/10/2022,,,2022-25670,01.Violated patrol rules.,,allegation,A-CD
+955267,10/10/2022,,,2022-25670,01.Violated patrol rules.,,allegation,A-CD
+955267,10/13/2022,,,2022-25671,01.Failed to make required entries in Department Logs.,,allegation,FURTHER INVESTIGATION
 955267,10/13/2022,,,2022-25671,01.Failed to make required entries in Department Logs.,,allegation,FURTHER INVESTIGATION
 955267,2/27/2023,,,2022-26638,01.Violated patrol rules.,,allegation,B-CD
+955267,2/27/2023,,,2022-26638,01.Violated patrol rules.,,allegation,B-CD
+955267,2/27/2023,,,2022-26639,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 955267,2/27/2023,,,2022-26639,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 937204,5/2/2022,,,2021-24096,01.Violated patrol rules.,,allegation,OTHER
 940524,3/17/2016,GUILTY,018-MIDTOWN PRECINCT NORTH,2015-14778,"WHILE OFF-DUTY, WRONGFULLY OPERATED A MOTOR VEHICLE WHILE UNDER THE INFLUENCE OF AN INTOXICANT.","COUNSELING, COUNSELING, DISMISSAL PROBATION (12 month(s) ), DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
@@ -5702,10 +5718,15 @@ Off Duty.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION
 937211,11/23/2020,PLEADED GUILTY,875-TRANSIT BUR BRKLYN TASK FORCE,2020-22741,Failure to comply with an order.,VACATION DAYS (16 day(s) ),charge,
 937211,11/23/2020,PLEADED GUILTY,875-TRANSIT BUR BRKLYN TASK FORCE,2020-22741,Wrongfully discourteous to an individual known to the Department.,VACATION DAYS (16 day(s) ),charge,
 953195,11/16/2022,,,2019-20783,01.Wrongfully frisked an individual known to the department.,TRAINING,allegation,TRAINING
-961031,10/18/2021,,,2021-24009,01.Wrongfully frisked an individual known to the Department.,"B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,A-CD
-961031,10/18/2021,,,2021-24009,02.Wrongfully frisked an individual.,"B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,A-CD
-961031,12/8/2021,,,2021-24010,01.Failed to activate body-worn camera.,TRAINING,allegation,NO DISCIPLINARY ACTION
-961031,12/8/2021,,,2021-24010,02.Failed to prepare required reports.,TRAINING,allegation,TRAINING
+961031,10/18/2021,,,2021-24009,01.Wrongfully frisked an individual known to the Department.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES",allegation,A-CD
+961031,10/18/2021,,,2021-24009,01.Wrongfully frisked an individual known to the Department.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES",allegation,A-CD
+961031,10/18/2021,,,2021-24009,02.Wrongfully frisked an individual.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES",allegation,A-CD
+961031,10/18/2021,,,2021-24009,02.Wrongfully frisked an individual.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES",allegation,A-CD
+961031,12/8/2021,,,2021-24010,01.Failed to activate body-worn camera.,"TRAINING, TRAINING",allegation,NO DISCIPLINARY ACTION
+961031,12/8/2021,,,2021-24010,01.Failed to activate body-worn camera.,"TRAINING, TRAINING",allegation,NO DISCIPLINARY ACTION
+961031,12/8/2021,,,2021-24010,02.Failed to prepare required reports.,"TRAINING, TRAINING",allegation,TRAINING
+961031,12/8/2021,,,2021-24010,02.Failed to prepare required reports.,"TRAINING, TRAINING",allegation,TRAINING
+961031,5/12/2023,,,2022-25461,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 961031,5/12/2023,,,2022-25461,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 946632,7/5/2022,,,2019-21314,01.improper search of a vehicle,TRAINING,allegation,TRAINING
 946632,2/2/2023,,,2022-26095,01.Failed to make required entries in Department Logs.,,allegation,OTHER
@@ -5720,8 +5741,7 @@ Off Duty.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION
 963185,11/8/2022,,,2022-25831,01.Wrongfully frisked an individual known to the Department.,,allegation,B-CD
 963185,11/8/2022,,,2022-25831,02.Wrongfully search a vehicle.,,allegation,B-CD
 935431,8/9/2022,,,2022-26043,01.Wrongful entry of a premises.,,allegation,A-CD
-928892,7/25/2017,GUILTY,625-CRITICAL RESPONSE COMMAND,2017-17663,"WHILE OFF-DUTY, SAID SERGEANT ENGAGED IN A VERBAL DISPUTE WITH A PERSON KNOWN TO THE DEPARTMENT AND DAMAGED HER CELL PHONE","COUNSELING, COUNSELING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), PRE-TRIAL SUSPENSION DAYS (30 day(s) ), RESTORATION OF SUSPENSION DAYS (6 day(s) ), RESTORATION OF SUSPENSION DAYS (6 day(s) )",charge,
-928892,7/25/2017,GUILTY,625-CRITICAL RESPONSE COMMAND,2017-17663,"WHILE OFF-DUTY, SAID SERGEANT ENGAGED IN A VERBAL DISPUTE WITH A PERSON KNOWN TO THE DEPARTMENT AND DAMAGED HER CELL PHONE","COUNSELING, COUNSELING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), PRE-TRIAL SUSPENSION DAYS (30 day(s) ), RESTORATION OF SUSPENSION DAYS (6 day(s) ), RESTORATION OF SUSPENSION DAYS (6 day(s) )",charge,
+928892,7/25/2017,GUILTY,625-CRITICAL RESPONSE COMMAND,2017-17663,"WHILE OFF-DUTY, SAID SERGEANT ENGAGED IN A VERBAL DISPUTE WITH A PERSON KNOWN TO THE DEPARTMENT AND DAMAGED HER CELL PHONE","COUNSELING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), RESTORATION OF SUSPENSION DAYS (6 day(s) )",charge,
 943628,12/15/2016,PLEADED GUILTY,006-006 PRECINCT,2016-16558,"WHILE OFF-DUTY ON NUMEROUS OCCASIONS, USED A LICENSE PLATE NOT REGISTERED TO HIS VEHICLE IN ORDER TO DRIVE HIS PERSONAL VEHICLE, THUS OPERATING A VEHICLE WITHOUT INSURANCE.",VACATION DAYS (15 day(s) ),charge,
 939146,6/5/2017,GUILTY,62-062 PRECINCT,2017-16838,"WHILE OFF-DUTY, FAILED TO COMPLY WITH THE DIRECTIONS OF AN ON-DUTY NASSAU COUNTY POLICE LIEUTENANT",VACATION DAYS (10 day(s) ),charge,
 939146,5/15/2022,,,2020-22112,01.Improper threat to arrest,TRAINING,allegation,TRAINING
@@ -5926,6 +5946,7 @@ Verbal altercation while off-duty.","COUNSELING, COUNSELING, VACATION DAYS (20 d
 946099,2/22/2023,,,2022-25262,01.Failed to activate their body worn camera.,,allegation,OTHER
 946099,2/22/2023,,,2022-25262,02.Failed to prepare required reports.,,allegation,OTHER
 943660,12/14/2022,,,2022-27238,01.Failed to prepare required reports.,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,A-CD
+962672,6/15/2023,,,2022-24583,01.Wrongful removal to a hospital.,TRAINING,allegation,TRAINING
 968061,6/14/2022,,,2020-22992,01.Violated uniform rules.,A - COMMAND DISCIPLINE,allegation,A-CD
 945276,2/19/2019,GUILTY,865-TRANSIT BUREAU DISTRICT 12,2019-20158,"WHILE ON-DUTY, WRONGFULLY USED FORCE, IN THAT HE USED A CHOKEHOLD TO A PERSON KNOW TO THE DEPARTMENT.","VACATION DAYS (10 day(s) ), VACATION DAYS (10 day(s) )",charge,
 945276,2/19/2019,GUILTY,865-TRANSIT BUREAU DISTRICT 12,2019-20158,"WHILE ON-DUTY, WRONGFULLY USED FORCE, IN THAT HE USED A CHOKEHOLD TO A PERSON KNOW TO THE DEPARTMENT.","VACATION DAYS (10 day(s) ), VACATION DAYS (10 day(s) )",charge,
@@ -6000,8 +6021,6 @@ Supervisor, ACS, Commanding Officer if PPO, Operations Unit, CCRB, etc.).","C - 
 963692,4/6/2023,,,2023-27794,01.Violated patrol rules.,"A - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,A-CD
 940571,2/23/2016,GUILTY,042-042 PRECINCT,2015-14319,"WHILE ON-DUTY, DID WRONGFULLY USE FORCE AGAINST A PERSON KNOWN TO THE DEPARTMENT.",VACATION DAYS (15 day(s) ),charge,
 965410,1/23/2023,,,2022-27334,01.Wrongful entry of a premises.,,allegation,B-CD
-965410,1/23/2023,,,2022-27334,01.Wrongful entry of a premises.,,allegation,B-CD
-965410,2/27/2023,,,2022-25713,01.Failed to prepare required reports.,,allegation,B-CD
 965410,2/27/2023,,,2022-25713,01.Failed to prepare required reports.,,allegation,B-CD
 949473,8/20/2015,GUILTY,121-121 PRECINCT,2015-13779,"WHILE OFF-DUTY, FAILED TO SAFEGUARD HIS SERVICE FIREARM",VACATION DAYS (10 day(s) ),charge,
 962683,4/28/2022,,,2022-24851,01.Violated patrol rules.,,allegation,B-CD
@@ -6194,15 +6213,26 @@ Made false statements during an official Department interview.","COUNSELING, DIS
 962702,1/15/2022,,,2021-24500,01.Wrongful threat of force.,,allegation,B-CD
 962702,1/15/2022,,,2021-24500,01.Wrongfully discourteous to an individual known to the Department.,,allegation,B-CD
 956184,6/7/2022,,,2022-25899,01.Wrongfully discourteous.,,allegation,CHARGES AND SPECIFICATIONS
+956184,6/7/2022,,,2022-25899,01.Wrongfully discourteous.,,allegation,CHARGES AND SPECIFICATIONS
+956184,6/7/2022,,,2022-25899,02.Wrongfully unholstered/displayed a firearm.,,allegation,CHARGES AND SPECIFICATIONS
 956184,6/7/2022,,,2022-25899,02.Wrongfully unholstered/displayed a firearm.,,allegation,CHARGES AND SPECIFICATIONS
 956184,6/13/2022,,,2022-25900,01.Violated uniform rules.,,allegation,OTHER
-956184,6/29/2022,,,2022-25125,01.Wrongful search of a premises.,A - COMMAND DISCIPLINE,allegation,A-CD
-956184,8/23/2022,,,2021-23374,01.Displayed his firearm prior to using less lethal tactics.,"B - COMMAND DISCIPLINE, INSTRUCTIONS, TRAINING, VACATION DAYS (5 day(s) )",allegation,OTHER
-956184,8/23/2022,,,2021-23374,02.Failed to wear a face covering while performing his duties in a public area.,"B - COMMAND DISCIPLINE, INSTRUCTIONS, TRAINING, VACATION DAYS (5 day(s) )",allegation,B-CD
-956184,8/23/2022,,,2021-23374,03.Wore his duty jacket unzipped exposing in public his ballistic vest with unauthorized patches affixed to it.,"B - COMMAND DISCIPLINE, INSTRUCTIONS, TRAINING, VACATION DAYS (5 day(s) )",allegation,B-CD
+956184,6/13/2022,,,2022-25900,01.Violated uniform rules.,,allegation,OTHER
+956184,6/29/2022,,,2022-25125,01.Wrongful search of a premises.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
+956184,6/29/2022,,,2022-25125,01.Wrongful search of a premises.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
+956184,8/23/2022,,,2021-23374,01.Displayed his firearm prior to using less lethal tactics.,"B - COMMAND DISCIPLINE, INSTRUCTIONS, TRAINING, VACATION DAYS (5 day(s) ), B - COMMAND DISCIPLINE, INSTRUCTIONS, TRAINING, VACATION DAYS (5 day(s) )",allegation,OTHER
+956184,8/23/2022,,,2021-23374,01.Displayed his firearm prior to using less lethal tactics.,"B - COMMAND DISCIPLINE, INSTRUCTIONS, TRAINING, VACATION DAYS (5 day(s) ), B - COMMAND DISCIPLINE, INSTRUCTIONS, TRAINING, VACATION DAYS (5 day(s) )",allegation,OTHER
+956184,8/23/2022,,,2021-23374,02.Failed to wear a face covering while performing his duties in a public area.,"B - COMMAND DISCIPLINE, INSTRUCTIONS, TRAINING, VACATION DAYS (5 day(s) ), B - COMMAND DISCIPLINE, INSTRUCTIONS, TRAINING, VACATION DAYS (5 day(s) )",allegation,B-CD
+956184,8/23/2022,,,2021-23374,02.Failed to wear a face covering while performing his duties in a public area.,"B - COMMAND DISCIPLINE, INSTRUCTIONS, TRAINING, VACATION DAYS (5 day(s) ), B - COMMAND DISCIPLINE, INSTRUCTIONS, TRAINING, VACATION DAYS (5 day(s) )",allegation,B-CD
+956184,8/23/2022,,,2021-23374,03.Wore his duty jacket unzipped exposing in public his ballistic vest with unauthorized patches affixed to it.,"B - COMMAND DISCIPLINE, INSTRUCTIONS, TRAINING, VACATION DAYS (5 day(s) ), B - COMMAND DISCIPLINE, INSTRUCTIONS, TRAINING, VACATION DAYS (5 day(s) )",allegation,B-CD
+956184,8/23/2022,,,2021-23374,03.Wore his duty jacket unzipped exposing in public his ballistic vest with unauthorized patches affixed to it.,"B - COMMAND DISCIPLINE, INSTRUCTIONS, TRAINING, VACATION DAYS (5 day(s) ), B - COMMAND DISCIPLINE, INSTRUCTIONS, TRAINING, VACATION DAYS (5 day(s) )",allegation,B-CD
+956184,12/2/2022,,,2022-25660,01.Wrongful removal to a hospital.,,allegation,CHARGES AND SPECIFICATIONS
 956184,12/2/2022,,,2022-25660,01.Wrongful removal to a hospital.,,allegation,CHARGES AND SPECIFICATIONS
 956184,12/2/2022,,,2022-25660,02.Wrongfully discourteous to an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
+956184,12/2/2022,,,2022-25660,02.Wrongfully discourteous to an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
 956184,12/2/2022,,,2022-25660,03.Wrongfully threatened to remove an individual to the hospital.,,allegation,CHARGES AND SPECIFICATIONS
+956184,12/2/2022,,,2022-25660,03.Wrongfully threatened to remove an individual to the hospital.,,allegation,CHARGES AND SPECIFICATIONS
+956184,12/2/2022,,,2022-25660,04.Wrongfully used offensive language.,,allegation,CHARGES AND SPECIFICATIONS
 956184,12/2/2022,,,2022-25660,04.Wrongfully used offensive language.,,allegation,CHARGES AND SPECIFICATIONS
 941244,6/17/2020,GUILTY,539-ORGANIZED CRIME INVEST. DIV,2020-21780,Misuse of time.,"COUNSELING, DEDUCTION OF PENSIONABLE TIME, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, RESTITUTION ($204), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (60 day(s) )",charge,
 941244,6/17/2020,GUILTY,539-ORGANIZED CRIME INVEST. DIV,2020-21780,Violated patrol rules.,"COUNSELING, DEDUCTION OF PENSIONABLE TIME, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, RESTITUTION ($204), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (60 day(s) )",charge,
@@ -6248,6 +6278,8 @@ Wrongfully used physical force.","COUNSELING, DEDUCTION OF PENSIONABLE TIME, DIS
 953282,12/23/2022,,,2022-27519,01.Wrongfully threatened to arrest an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
 953282,4/13/2023,,,2022-27492,01.Failed to safeguard a firearm resulting in loss/theft.,"C - COMMAND DISCIPLINE, C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) ), VACATION DAYS (18 day(s) )",allegation,CHARGES AND SPECIFICATIONS
 953282,4/13/2023,,,2022-27492,01.Failed to safeguard a firearm resulting in loss/theft.,"C - COMMAND DISCIPLINE, C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) ), VACATION DAYS (18 day(s) )",allegation,CHARGES AND SPECIFICATIONS
+959103,6/14/2023,,,2022-27614,01.Wrongful entry of a premises.,A - COMMAND DISCIPLINE,allegation,A-CD
+959103,6/14/2023,,,2022-27614,02.Wrongfully damaged property.,A - COMMAND DISCIPLINE,allegation,A-CD
 953283,4/18/2022,,,2022-24814,01.Failed to supervise,"C - COMMAND DISCIPLINE, VACATION DAYS (10 day(s) )",allegation,INSTRUCTIONS
 939263,6/7/2023,,,2022-25782,01.Wrongfully frisked an individual known to the Department.,"A - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,CHARGES AND SPECIFICATIONS
 939263,6/7/2023,,,2022-25782,02.Wrongfully questioned an individual known to the Department.,"A - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,CHARGES AND SPECIFICATIONS
@@ -6327,7 +6359,8 @@ Wrongfully used physical force.","COUNSELING, DEDUCTION OF PENSIONABLE TIME, DIS
 956787,2/7/2023,,,2022-26354,01.Wrongfully threatened to seize a person's property.,,allegation,B-CD
 965440,5/3/2023,,,2022-27608,01.Wrongfully discourteous to an individual known to the Department.,"A - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,A-CD
 941117,5/14/2010,GUILTY,033-033 PRECINCT,2010-781,FAILED TO SAFEGUARD PARKING PERMIT WHICH WAS DULY COPIED BY A PERSON KNOWN TO THE DEPARTMENT.,VACATION DAYS (10 day(s) ),charge,
-957471,11/6/2021,,,2021-23760,01.Violated social media guidelines.,INSTRUCTIONS,allegation,C-CD
+957471,11/6/2021,,,2021-23760,01.Violated social media guidelines.,"INSTRUCTIONS, INSTRUCTIONS",allegation,C-CD
+957471,11/6/2021,,,2021-23760,01.Violated social media guidelines.,"INSTRUCTIONS, INSTRUCTIONS",allegation,C-CD
 967275,8/15/2022,,,2022-26351,01.Violated patrol rules.,,allegation,A-CD
 967275,8/15/2022,,,2022-26352,01.Failed to activate their body worn camera.,,allegation,OTHER
 942403,6/9/2015,GUILTY,107-107 PRECINCT,2015-12963,"WHILE OFF-DUTY, DID WRONGFULLY OPERATE A MOTOR VEHICLE WHILE UNDER THE INFLUENCE OF AN INTOXICANT","COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (15 day(s) )",charge,
@@ -6358,7 +6391,6 @@ Failure to take police action.","VACATION DAYS (20 day(s) ), VACATION DAYS (20 d
 953297,3/30/2018,GUILTY,028-028 PRECINCT,2018-18647,"WHILE ON-DUTY AND ASSIGNED TO PATROL, WRONGFULLY FAILED TO CARRY HIS SERVICE FIREARM.","DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (35 day(s) )",charge,
 961146,6/29/2022,PLEADED GUILTY,869-TRANSIT BUREAU DISTRICT 32,2022-25010,Failed to safeguard a firearm resulting in loss.,VACATION DAYS (20 day(s) ),charge,
 961146,6/29/2022,PLEADED GUILTY,869-TRANSIT BUREAU DISTRICT 32,2022-25010,Failed to make proper notifications.,VACATION DAYS (20 day(s) ),charge,
-964719,6/8/2022,,,2022-25493,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
 964719,6/8/2022,,,2022-25493,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
 935562,9/22/2022,,,2022-24869,01.Wrongfully used physical force.,,allegation,NO DISCIPLINARY ACTION
 935562,2/23/2023,,,2022-25495,01.Failed to prepare required reports.,,allegation,OTHER
@@ -6606,10 +6638,8 @@ Wrongful search of a person's property.",,allegation,B-CD
 943742,6/7/2010,GUILTY,-,2010-1330,UNFIT FOR DUTY WHILE OFF -DUTY .,VACATION DAYS (15 day(s) ),charge,
 957085,2/10/2017,GUILTY,801-HOUSING PSA 1,2016-16493,"WHILE OFF-DUTY, WAS WRONGFULLY INVOLVED IN A PHYSICAL ALTERCATION WITH PERSONS KNOWN TO THE DEPARTMENT.","DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (25 day(s) )",charge,
 957085,2/10/2017,GUILTY,801-HOUSING PSA 1,2016-16493,"WHILE OUT ON CHRONIC SICK ""A"" WAS WRONGFULLY ABSENT FROM HIS RESIDENCE DURING HIS TOUR OF DUTY WITHOUT THE PERMISSION OF THE DISTRICT SURGEON OR THE MEDICAL DIVISION SICK DESK SUPERVISOR.","DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (25 day(s) )",charge,
-957922,6/23/2020,PLEADED GUILTY,113-113 PRECINCT,2020-22089,Failed to notify the radio dispatcher about a vehicle stop,"VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",charge,
-957922,6/23/2020,PLEADED GUILTY,113-113 PRECINCT,2020-22089,Failed to notify the radio dispatcher about a vehicle stop,"VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",charge,
-957922,6/23/2020,PLEADED GUILTY,113-113 PRECINCT,2020-22089,Failed to activate their body-worn camera.,"VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",charge,
-957922,6/23/2020,PLEADED GUILTY,113-113 PRECINCT,2020-22089,Failed to activate their body-worn camera.,"VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",charge,
+957922,6/23/2020,PLEADED GUILTY,113-113 PRECINCT,2020-22089,Failed to notify the radio dispatcher about a vehicle stop,VACATION DAYS (5 day(s) ),charge,
+957922,6/23/2020,PLEADED GUILTY,113-113 PRECINCT,2020-22089,Failed to activate their body-worn camera.,VACATION DAYS (5 day(s) ),charge,
 947408,10/20/2022,,,2022-26183,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
 934118,2/12/2015,GUILTY,107-107 PRECINCT,2014-11685,"WHILE ON-DUTY, ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT IN THAT HE PARTICIPATED IN THE STOP OF A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",VACATION DAYS (3 day(s) ),charge,
 934118,2/12/2015,GUILTY,107-107 PRECINCT,2014-11685,"WHILE ON-DUTY, ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT IN THAT HE PARTICIPATED IN THE STOP OF A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",VACATION DAYS (3 day(s) ),charge,
@@ -6638,6 +6668,8 @@ Supervisor, ACS, Commanding Officer if PPO, Operations Unit, CCRB, etc.).",A - C
 964733,5/12/2023,,,2022-27144,02.Wrongfully frisked an individual.,,allegation,CHARGES AND SPECIFICATIONS
 964733,5/12/2023,,,2022-27144,03.Wrongfully searched an individual.,,allegation,CHARGES AND SPECIFICATIONS
 964733,5/12/2023,,,2022-27144,04.Wrongfully stopped an individual.,,allegation,CHARGES AND SPECIFICATIONS
+964733,6/10/2023,,,2023-27882,01.Wrongfully frisked an individual known to the Department.,"B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,B-CD
+964733,6/10/2023,,,2023-27882,01.Wrongfully searched a vehicle.,"B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,B-CD
 933274,3/20/2019,GUILTY,114-114 PRECINCT,2018-19901,"Misuse of time.
 Failed to submit lost time reports.
 Absent without leave.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), FORFEITURE OF TIME/LEAVE BALANCES, ORDERED BREATH TESTING, RESTITUTION ($124), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
@@ -6651,8 +6683,10 @@ Made or caused to be made false or inaccurate entries in Department rules.","COU
 933274,7/14/2020,GUILTY,113-113 PRECINCT,2020-21773,Violated sick leave regulations.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), FORFEITURE OF TIME/LEAVE BALANCES, ORDERED BREATH TESTING, RESTITUTION ($124), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
 933274,10/14/2020,GUILTY,582-BROOKLYN COURT SECTION,2020-22099,Unfit for duty.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), FORFEITURE OF TIME/LEAVE BALANCES, ORDERED BREATH TESTING, RESTITUTION ($124), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
 946172,4/28/2015,GUILTY,209-DB GRAND LARCENY SQUAD,2015-13536,"WHILE OFF-DUTY, ENGAGED IN A PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT",PRE-TRIAL SUSPENSION DAYS (31 day(s) ),charge,
-959140,3/4/2018,GUILTY,806-HOUSING PSA 6,2017-17897,ENGAGED IN A VERBAL AND PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT.,VACATION DAYS (30 day(s) ),charge,
-959140,3/4/2018,GUILTY,806-HOUSING PSA 6,2017-17897,FAILED TO REMAIN AT THE SCENE OF AN OFF DUTY INCIDENT INVOLVING MULTIPLE MEMBERS OF SERVICE AND REQUEST THE RESPONSE OF A PATROL SUPERVISOR TO THE SCENE OF THE INCIDENT.,VACATION DAYS (30 day(s) ),charge,
+959140,3/4/2018,GUILTY,806-HOUSING PSA 6,2017-17897,ENGAGED IN A VERBAL AND PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+959140,3/4/2018,GUILTY,806-HOUSING PSA 6,2017-17897,ENGAGED IN A VERBAL AND PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+959140,3/4/2018,GUILTY,806-HOUSING PSA 6,2017-17897,FAILED TO REMAIN AT THE SCENE OF AN OFF DUTY INCIDENT INVOLVING MULTIPLE MEMBERS OF SERVICE AND REQUEST THE RESPONSE OF A PATROL SUPERVISOR TO THE SCENE OF THE INCIDENT.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+959140,3/4/2018,GUILTY,806-HOUSING PSA 6,2017-17897,FAILED TO REMAIN AT THE SCENE OF AN OFF DUTY INCIDENT INVOLVING MULTIPLE MEMBERS OF SERVICE AND REQUEST THE RESPONSE OF A PATROL SUPERVISOR TO THE SCENE OF THE INCIDENT.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
 946173,10/4/2011,GUILTY,174-PBMN IMPACT RESPONSE TEAM,2010-2076,FAILED TO REVIEW A REPORT FOR ACCURACY PRIOR TO SIGNING SAID REPORT.,VACATION DAYS (10 day(s) ),charge,
 939336,8/11/2022,,,2022-26000,01.Failed to prepare required reports.,,allegation,B-CD
 942455,5/16/2023,,,2023-28390,01.Wrongful entry of a premises.,,allegation,B-CD
@@ -6672,8 +6706,6 @@ Made or caused to be made false or inaccurate entries in Department rules.","COU
 918237,11/24/2010,GUILTY,025-025 PRECINCT,2010-3237,"SIGNED AND APPROVED A SUPPORTING DEPOSITION, SUPPLEMENTAL FACT SHEET, AND A PROPERTY CLERK INVOICE THAT CONTAINED INACCURATE INFORMATION.",VACATION DAYS (35 day(s) ),charge,
 918237,11/24/2010,GUILTY,025-025 PRECINCT,2010-3237,FAILED TO MAKE COMPLETE ENTRIES IN ACTIVITY LOG,VACATION DAYS (35 day(s) ),charge,
 957094,6/20/2022,,,2022-25163,01.Wrongfully stopped an individual known to the Department.,,allegation,A-CD
-957094,6/20/2022,,,2022-25163,01.Wrongfully stopped an individual known to the Department.,,allegation,A-CD
-957094,6/20/2022,,,2022-25164,01.Failed to prepare required reports.,,allegation,OTHER
 957094,6/20/2022,,,2022-25164,01.Failed to prepare required reports.,,allegation,OTHER
 907530,5/17/2021,GUILTY,540-DRUG ENFORCEMENT TASK FORCE,2021-23288,Said Police Officer made computer inquiries unrelated to official Department business.,VACATION DAYS (20 day(s) ),charge,
 940657,11/18/2019,GUILTY,042-042 PRECINCT,2019-21081,"Failed to safeguard a firearm resulting in its loss or theft.
@@ -6685,6 +6717,8 @@ Failed to safeguard Department property.","PRE-TRIAL SUSPENSION DAYS (15 day(s) 
 937408,8/29/2014,GUILTY,020-020 PRECINCT,2014-12197,"ON DUTY,  ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT IN THAT HE FRISKED A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",VACATION DAYS (10 day(s) ),charge,
 937408,8/29/2014,GUILTY,020-020 PRECINCT,2014-12197,"ON DUTY,  ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT IN THAT HE SEARCHED A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",VACATION DAYS (10 day(s) ),charge,
 937408,8/29/2014,GUILTY,020-020 PRECINCT,2014-12197,"ON DUTY, DID WRONGFULLY USE FORCE AGAINST A PERSON KNOWN TO THE DEPARTMENT.",VACATION DAYS (10 day(s) ),charge,
+954285,6/5/2023,,,2021-24234,01.Failed to make required entries in Department Logs.,TRAINING,allegation,TRAINING
+954285,6/5/2023,,,2021-24234,02.Failed to prepare required reports.,TRAINING,allegation,TRAINING
 946545,6/18/2014,GUILTY,497-INTERNAL AFFAIRS BUREAU,2014-12006,"WHILE OFF-DUTY, FAILED TO TAKE POLICE ACTION.",VACATION DAYS (15 day(s) ),charge,
 946545,6/18/2014,GUILTY,497-INTERNAL AFFAIRS BUREAU,2014-12006,"WHILE OFF-DUTY, WRONGFULLY USED A SUBSTANCE TO OBSCURE AND/OR COVER HIS MOTORCYCLE LICENSE PLATE.",VACATION DAYS (15 day(s) ),charge,
 942460,5/16/2017,GUILTY,071-071 PRECINCT,2016-16796,WHILE ON DUTY WRONGFULLY FAILED TO RENDER REASONABLE AID TO AN ADULT REQUIRING CARE DUE TO THE ARREST OF THE PERSON RESPONSIBLE FOR HER CARE.,VACATION DAYS (10 day(s) ),charge,
@@ -6770,6 +6804,8 @@ Failed to safeguard Department property.","PRE-TRIAL SUSPENSION DAYS (15 day(s) 
 942470,12/5/2011,GUILTY,112-112 PRECINCT,2010-2066,WRONGFULLY SIGNED CRIMINAL COURT COMPLAINT WITHOUT PROPER REVIEW WHICH CONTAINED FACTUALLY INACCURATE INFORMATION REGARDING AN ARREST .,VACATION DAYS (30 day(s) ),charge,
 942470,12/5/2011,GUILTY,112-112 PRECINCT,2010-2066,WRONGFULLY CAUSED AN INACCURATE INSTRUMENT TO BE FILED WITH THE QUEENS COUNTY FAMILY COURT .,VACATION DAYS (30 day(s) ),charge,
 957100,5/7/2022,,,2022-24873,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
+957100,5/7/2022,,,2022-24873,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
+957100,5/8/2023,,,2022-24887,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 957100,5/8/2023,,,2022-24887,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 957101,1/5/2017,GUILTY,042-042 PRECINCT,2016-16497,WHILE ON-DUTY FAILED TO INTERVIEW WITNESSES AND OBTAIN INFORMATION REGARDING THE IDENTITY OF AN AIDED VICTIM.,VACATION DAYS (10 day(s) ),charge,
 957101,1/5/2017,GUILTY,042-042 PRECINCT,2016-16497,FAILED TO ACCURATELY PREPARE AN AIDED REPORT WORKSHEET AND ONE COPY OF A MISSING/UNIDENTIFIED PERSON REPORT FOR THE VICTIM OF A CRIME.,VACATION DAYS (10 day(s) ),charge,
@@ -6780,9 +6816,7 @@ Failed to safeguard Department property.","PRE-TRIAL SUSPENSION DAYS (15 day(s) 
 962062,11/3/2017,GUILTY,081-081 PRECINCT,2017-17654,FAILED TO REPORT TO HIS DISTRICT SURGON AS DIRECTED.,VACATION DAYS (25 day(s) ),charge,
 962062,11/3/2017,GUILTY,081-081 PRECINCT,2017-17654,MADE MISLEADING STATEMENTS TO A SUPERVISOR CONCERNING THE REASON HE FAILED TO REPORT TO HIS DISTRICT SURGEON.,VACATION DAYS (25 day(s) ),charge,
 962062,11/3/2017,GUILTY,081-081 PRECINCT,2017-17654,LEFT THE CONFINES OF THE CITY AND RESIDENCE COUNTIES WITHOUT THE APPROVAL OF THE CHIEF OF PERSONNEL.,VACATION DAYS (25 day(s) ),charge,
-968104,1/8/2023,,,2022-27267,01.Failed to safeguard prisoner property.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES",allegation,B-CD
-968104,1/8/2023,,,2022-27267,01.Failed to safeguard prisoner property.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES, FORFEITURE OF TIME/LEAVE BALANCES",allegation,B-CD
-968104,5/16/2023,,,2023-28376,01.Wrongfully used physical force.,,allegation,B-CD
+968104,1/8/2023,,,2022-27267,01.Failed to safeguard prisoner property.,"B - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,B-CD
 968104,5/16/2023,,,2023-28376,01.Wrongfully used physical force.,,allegation,B-CD
 929080,4/3/2019,PLEADED GUILTY,172-SOD STRAT RESP GRP 4 QUEENS,2018-19295,WRONGFULLY CONDUCTED PERSONAL BUSINESS AND USED DEPARTMENT EQUIPMENT WHILE ON DUTY,VACATION DAYS (20 day(s) ),charge,
 929080,4/3/2019,PLEADED GUILTY,172-SOD STRAT RESP GRP 4 QUEENS,2018-19295,FAILED TO MAKE ACTIVITY LOG ENTRIES,VACATION DAYS (20 day(s) ),charge,
@@ -6794,8 +6828,10 @@ Failed to safeguard Department property.","PRE-TRIAL SUSPENSION DAYS (15 day(s) 
 948416,5/27/2016,GUILTY,862-TRANSIT BUREAU DISTRICT 3,2015-14422,"WHILE OFF-DUTY, WRONGFULLY CONSUMED AN INTOXICANT TO THE EXTENT THAT SAID POLICE OFFICER WAS UNFIT FOR DUTY.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), VACATION DAYS (14 day(s) )",charge,
 948416,5/27/2016,GUILTY,862-TRANSIT BUREAU DISTRICT 3,2015-14422,"WHILE OFF-DUTY, WAS ARMED WHILE UNFIT FOR DUTY.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), VACATION DAYS (14 day(s) )",charge,
 953339,4/10/2023,,,2023-27944,01.Wrongfully searched a vehicle.,A - COMMAND DISCIPLINE,allegation,A-CD
-964259,3/9/2023,,,2023-27830,01.Failed to activate body-worn camera.,"B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,B-CD
-964259,3/9/2023,,,2023-27830,"02.Failed to prepare a Property Clerk's Invoice Worksheet, as required.","B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,B-CD
+964259,3/9/2023,,,2023-27830,01.Failed to activate body-worn camera.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) ), VACATION DAYS (1 day(s) )",allegation,B-CD
+964259,3/9/2023,,,2023-27830,01.Failed to activate body-worn camera.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) ), VACATION DAYS (1 day(s) )",allegation,B-CD
+964259,3/9/2023,,,2023-27830,"02.Failed to prepare a Property Clerk's Invoice Worksheet, as required.","B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) ), VACATION DAYS (1 day(s) )",allegation,B-CD
+964259,3/9/2023,,,2023-27830,"02.Failed to prepare a Property Clerk's Invoice Worksheet, as required.","B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) ), VACATION DAYS (1 day(s) )",allegation,B-CD
 942474,4/21/2022,PLEADED GUILTY,52-052 PRECINCT,2022-24693,"Operated a motor vehicle recklessly.
 Wrongful used physical force",VACATION DAYS (33 day(s) ),charge,
 942474,4/21/2022,PLEADED GUILTY,52-052 PRECINCT,2022-24693,Failed to activate their body-worn camera.,VACATION DAYS (33 day(s) ),charge,
@@ -6828,6 +6864,7 @@ Wrongful used physical force",VACATION DAYS (33 day(s) ),charge,
 946196,1/23/2019,GUILTY,048-048 PRECINCT,2019-20026,Wrongfully stopped an individual known to the Department.,VACATION DAYS (20 day(s) ),charge,
 946196,1/23/2019,GUILTY,048-048 PRECINCT,2019-20026,Wrongfully stopped an individual known to the Department.,VACATION DAYS (20 day(s) ),charge,
 954298,9/12/2022,,,2022-25762,01.Wrongfully deactivated their body worn camera.,TRAINING,allegation,TRAINING
+965483,6/16/2023,,,2023-27982,01.Wrongfully damaged property.,,allegation,NO DISCIPLINARY ACTION
 949582,3/6/2021,GUILTY,47-047 PRECINCT,2019-20403,Made false statements to investigators.,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,
 931105,2/3/2016,GUILTY,596-GANG SQUAD QUEENS,2015-14064,STOPPED A VEHICLE WITHOUT SUFFICIENT LEGAL AUTHORITY.,VACATION DAYS (1 day(s) ),charge,
 931105,2/3/2016,GUILTY,596-GANG SQUAD QUEENS,2015-14064,FRISKED A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.,VACATION DAYS (1 day(s) ),charge,
@@ -6946,7 +6983,6 @@ Wrongful threat of force","B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",al
 962081,2/9/2023,,,2022-26265,01.Violated patrol rules.,,allegation,B-CD
 962081,5/3/2023,,,2022-25714,01.Wrongfully deactivated their body worn camera.,,allegation,OTHER
 967319,8/2/2022,,,2022-26664,01.Failed to timely activate their body worn camera.,,allegation,OTHER
-967319,8/2/2022,,,2022-26664,01.Failed to timely activate their body worn camera.,,allegation,OTHER
 967682,8/8/2022,,,2022-25661,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
 959190,2/27/2023,,,2022-26373,01.Failed to activate their body worn camera.,,allegation,OTHER
 959190,2/27/2023,,,2022-26373,02.Failed to make required entries in Department Logs.,,allegation,OTHER
@@ -6956,7 +6992,8 @@ Wrongful threat of force","B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",al
 947451,10/3/2018,GUILTY,046-046 PRECINCT,2018-18938,FAILED TO NOTE IN HIS ACTIVITY LOG THAT HE TOOK POSSESSION OF PROPERTY AND FAILED TO PREPARE A VOUCHER FOR THE PROPERTY.,VACATION DAYS (10 day(s) ),charge,
 947451,10/3/2018,GUILTY,046-046 PRECINCT,2018-18938,FAILED TO TAKE POLICE ACTION AFTER LEARNING OF AN ALLEGATION OF HARASSMENT WITH A WEAPON.,VACATION DAYS (10 day(s) ),charge,
 947451,10/3/2018,GUILTY,046-046 PRECINCT,2018-18938,FAILED TO MAKE PROPER AND NECESSARY ENTRIES IN HIS ACTIVITY LOG.,VACATION DAYS (10 day(s) ),charge,
-969350,11/3/2022,,,2022-26988,01.Wrongful seizure of a person's property.,A - COMMAND DISCIPLINE,allegation,A-CD
+969350,11/3/2022,,,2022-26988,01.Wrongful seizure of a person's property.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
+969350,11/3/2022,,,2022-26988,01.Wrongful seizure of a person's property.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
 935679,7/8/2015,GUILTY,075-075 PRECINCT,2015-13157,"ABSENTED HIMSELF FROM WORK WITHOUT PERMISSION, RESULTING IN HIS FAILURE TO PERFORM HIS SUPERVISORY DUTIES.",VACATION DAYS (20 day(s) ),charge,
 935679,7/8/2015,GUILTY,075-075 PRECINCT,2015-13157,"FAILED TO PREPARE, SUBMIT, AND SECURE SUPERVISORY APPROVAL FOR DEPARTMENT ENTRIES, AS REQUIRED, FOR ""LEAVE OF ABSENCE REPORT"" AND ""ROLL CALL"".",VACATION DAYS (20 day(s) ),charge,
 935679,10/13/2020,GUILTY,019-019 PRECINCT,2020-22726,Misused Department electronics.,VACATION DAYS (30 day(s) ),charge,
@@ -6982,8 +7019,11 @@ Wrongful threat of force","B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",al
 942497,2/3/2015,GUILTY,101-101 PRECINCT,2014-11619,FAILED TO NOTIFY INTERNAL AFFAIRS BUREAU AFTER HAVING BECOME AWARE OF AN ALLEGATION OF CORRUPTION OR OTHER MISCONDUCT AGAINST HIMSELF AND ANOTHER MEMBER OF SERVICE.,VACATION DAYS (25 day(s) ),charge,
 942497,2/3/2015,GUILTY,101-101 PRECINCT,2014-11619,OFFICER WAS DISCOURTEOUS TO A PERSON KNOWN TO THE DEPARTMENT BY THREATENING TO ARREST SAID INDIVIDUAL DURING A TRAFFIC STOP.,VACATION DAYS (25 day(s) ),charge,
 942497,2/3/2015,GUILTY,101-101 PRECINCT,2014-11619,OFFICER MADE IMPROPER ENTRIES ON THE BACK UNLINED PAGE O HIS ACTIVITY LOG BY HAVING WRITTEN A LICENSE PLATE NUMBER ON THE SAID PAGE WHICH WAS NOT LINED AND SAID ENTRY WAS NOT A SKETCH OR DIAGRAM.,VACATION DAYS (25 day(s) ),charge,
-958048,8/1/2022,,,2020-22798,01.Failed to prepare memo book entry,TRAINING,allegation,INSTRUCTIONS
+958048,8/1/2022,,,2020-22798,01.Failed to prepare memo book entry,"TRAINING, TRAINING",allegation,INSTRUCTIONS
+958048,8/1/2022,,,2020-22798,01.Failed to prepare memo book entry,"TRAINING, TRAINING",allegation,INSTRUCTIONS
 958048,12/1/2022,,,2022-24878,01.Wrongfully discourteous to an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
+958048,12/1/2022,,,2022-24878,01.Wrongfully discourteous to an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
+958048,12/1/2022,,,2022-24878,02.Wrongfully used offensive language.,,allegation,CHARGES AND SPECIFICATIONS
 958048,12/1/2022,,,2022-24878,02.Wrongfully used offensive language.,,allegation,CHARGES AND SPECIFICATIONS
 952206,10/6/2014,GUILTY,040-040 PRECINCT,2014-11373,"WHILE ON-DUTY, SAID PROBATIONARY POLICE OFFICER TOLD AN ASSISTANT DISTRICT ATTORNEY THAT SHE HAD OBSERVED AN INCIDENT OF ALLEGED DOMESTIC VIOLENCE EARLIER THAT DAY WHEN SHE, IN FACT, HAD NOT.","DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (32 day(s) )",charge,
 952206,10/6/2014,GUILTY,040-040 PRECINCT,2014-11373,"WHILE ON-DUTY, SAID PROBATIONARY POLICE OFFICER SIGNED A CRIMINAL COURT COMPLAINT AS THE DEPONENT, INDICATING THAT SHE HAD OBSERVED AN INCIDENT OF ALLEGED DOMESTIC VIOLENCE EARLIER THAT DAY WHEN SHE, IN FACT, HAD NOT.","DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (32 day(s) )",charge,
@@ -7025,9 +7065,7 @@ Supervisor, ACS, Commanding Officer if PPO, Operations Unit, CCRB, etc.).",VACAT
 931138,6/24/2011,NOLO CONTENDRE,047-047 PRECINCT,2010-2548,WRONGFULLY DETAINED THREE (3) INDIVIDUALS KNOWN TO THE DEPARTMENT AND PLACED THEM IN A HOLDING CELL WITHOUT HAVING PROBABLE CAUSE TO BELIEVE THAT SAID INDIVIDUALS ENGAGED IN CRIMINAL ACTIVITIES.,VACATION DAYS (15 day(s) ),charge,
 931138,6/24/2011,GUILTY,047-047 PRECINCT,2010-2548,FAILED TO MAKE ACTIVITY LOG ENTRIES.,VACATION DAYS (15 day(s) ),charge,
 931138,6/24/2011,GUILTY,047-047 PRECINCT,2010-2548,"FAILED TO ENSURE THAT A STOP, QUESTION AND FRISK REPORT WORKSHEET WAS PREPARED.",VACATION DAYS (15 day(s) ),charge,
-967323,9/14/2022,,,2022-26517,01.Wrongfully discourteous to an individual known to the Department.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
-967323,9/14/2022,,,2022-26517,01.Wrongfully discourteous to an individual known to the Department.,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
-967323,9/14/2022,,,2022-26525,01.GENERAL UNIFORM REGULATIONS,,allegation,OTHER
+967323,9/14/2022,,,2022-26517,01.Wrongfully discourteous to an individual known to the Department.,A - COMMAND DISCIPLINE,allegation,A-CD
 967323,9/14/2022,,,2022-26525,01.GENERAL UNIFORM REGULATIONS,,allegation,OTHER
 931968,9/14/2015,GUILTY,805-HOUSING PSA 5,2015-14289,"WHILE ON-DUTY, DID FAIL AND NEGLECT TO PROPERLY SAFEGUARD A PRISONER KNOWN TO THE DEPARTMENT, RESULTING IN THE LOSS OF SAID PRISONER.",VACATION DAYS (20 day(s) ),charge,
 939414,4/28/2022,,,2022-24888,01.Wrongfully discourteous to an individual known to the Department.,,allegation,CHARGES AND SPECIFICATIONS
@@ -7107,6 +7145,8 @@ Supervisor, ACS, Commanding Officer if PPO, Operations Unit, CCRB, etc.).","COUN
 937502,8/28/2015,GUILTY,755-NARCO BORO S.I.,2015-14217,DID CONTACT AND SEND TEXT MESSAGES TO AN INDIVIDUAL HE PLACED UNDER ARREST.,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,
 937502,8/28/2015,GUILTY,755-NARCO BORO S.I.,2015-14217,DID WRONGFULLY AND WITHOUT JUST CAUSE PREVENT OR INTERFERE WITH AN OFFICIAL INVESTIGATION.,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,
 937502,8/28/2015,GUILTY,755-NARCO BORO S.I.,2015-14217,"DID KNOWINGLY ASSOCIATE WITH A PERSON BELIEVED TO BE ENGAGED IN, LIKELY TO ENGAGE IN, OR TO HAVE ENGAGED IN CRIMINAL ACTIVITIES.","DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,
+955457,5/29/2022,PLEADED GUILTY,052-052 PRECINCT,2022-24675,Failed to prepare required reports,VACATION DAYS (13 day(s) ),charge,
+955457,5/29/2022,PLEADED GUILTY,052-052 PRECINCT,2022-24675,Wrongfully searched a vehicle.,VACATION DAYS (13 day(s) ),charge,
 955457,6/29/2022,,,2020-22455,01.Improper frisk,B - COMMAND DISCIPLINE,allegation,B-CD
 955457,6/29/2022,,,2020-22455,02.Improper search,B - COMMAND DISCIPLINE,allegation,B-CD
 955457,6/29/2022,,,2020-22455,03.Improper stop,B - COMMAND DISCIPLINE,allegation,B-CD
@@ -7146,6 +7186,9 @@ Supervisor, ACS, Commanding Officer if PPO, Operations Unit, CCRB, etc.).","COUN
 962787,7/11/2022,,,2022-25791,01.Wrongfully threatened to arrest an individual known to the Department.,,allegation,B-CD
 962787,9/14/2022,,,2022-25902,01.Failed to activate their body worn camera.,,allegation,OTHER
 959212,7/22/2022,,,2022-26199,01.Violated patrol rules.,,allegation,A-CD
+962091,6/24/2022,PLEADED GUILTY,804-HOUSING PSA 4,2021-24268,Wrongfully accessed confidential Department information.,VACATION DAYS (30 day(s) ),charge,
+962091,6/24/2022,GUILTY,804-HOUSING PSA 4,2021-24268,Insubordination and Discourtesy.,VACATION DAYS (30 day(s) ),charge,
+962091,6/24/2022,PLEADED GUILTY,804-HOUSING PSA 4,2021-24268,Violated patrol rules.,VACATION DAYS (30 day(s) ),charge,
 947849,1/19/2021,PLEADED GUILTY,801-HOUSING PSA 1,2020-22936,Involved in a verbal altercation.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (35 day(s) )",charge,
 939435,1/15/2022,,,2021-24483,01.Failed to activate their body worn camera.,,allegation,OTHER
 939435,1/15/2022,,,2021-24483,01.Failed to activate their body worn camera.,,allegation,OTHER
@@ -7171,9 +7214,10 @@ Failure to Notify","B - COMMAND DISCIPLINE, VACATION DAYS (2 day(s) )",allegatio
 940723,8/11/2016,GUILTY,067-067 PRECINCT,2016-15634,"WHILE ON-DUTY, DISCUSSED ALLEGATIONS OF CORRUPTION WITH ONE OR MORE MEMBERS OF THE SERVICE BEFORE REPORTING SAID ALLEGATIONS TO THE INTERNAL AFFAIRS BUREAU.",VACATION DAYS (25 day(s) ),charge,
 940723,8/11/2016,GUILTY,067-067 PRECINCT,2016-15634,"WHILE ON-DUTY, DID UTILIZE A MECHANICAL DEVICE TO RECORD AN OFFICIAL DEPARTMENT INTERVIEW FOR PERSONAL REASONS WITHOUT AUTHORIZATION.",VACATION DAYS (25 day(s) ),charge,
 969360,5/30/2023,,,2023-27876,01.Failed to prepare required reports.,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,A-CD
-959973,8/9/2022,,,2022-25927,01.Failed to activate their body worn camera.,,allegation,OTHER
-967687,9/19/2022,PLEADED GUILTY,083-083 PRECINCT,2021-24025,Fail to take police action.,"PRE-TRIAL SUSPENSION DAYS (15 day(s) ), VACATION DAYS (10 day(s) )",charge,
-967687,9/19/2022,PLEADED GUILTY,083-083 PRECINCT,2021-24025,Fail to notify.,"PRE-TRIAL SUSPENSION DAYS (15 day(s) ), VACATION DAYS (10 day(s) )",charge,
+967687,9/19/2022,PLEADED GUILTY,083-083 PRECINCT,2021-24025,Fail to take police action.,"PRE-TRIAL SUSPENSION DAYS (15 day(s) ), PRE-TRIAL SUSPENSION DAYS (15 day(s) ), VACATION DAYS (10 day(s) ), VACATION DAYS (10 day(s) )",charge,
+967687,9/19/2022,PLEADED GUILTY,083-083 PRECINCT,2021-24025,Fail to take police action.,"PRE-TRIAL SUSPENSION DAYS (15 day(s) ), PRE-TRIAL SUSPENSION DAYS (15 day(s) ), VACATION DAYS (10 day(s) ), VACATION DAYS (10 day(s) )",charge,
+967687,9/19/2022,PLEADED GUILTY,083-083 PRECINCT,2021-24025,Fail to notify.,"PRE-TRIAL SUSPENSION DAYS (15 day(s) ), PRE-TRIAL SUSPENSION DAYS (15 day(s) ), VACATION DAYS (10 day(s) ), VACATION DAYS (10 day(s) )",charge,
+967687,9/19/2022,PLEADED GUILTY,083-083 PRECINCT,2021-24025,Fail to notify.,"PRE-TRIAL SUSPENSION DAYS (15 day(s) ), PRE-TRIAL SUSPENSION DAYS (15 day(s) ), VACATION DAYS (10 day(s) ), VACATION DAYS (10 day(s) )",charge,
 961263,11/21/2022,,,2022-26484,01.Violated patrol rules - failed to provide business card,TRAINING,allegation,TRAINING
 942527,3/24/2021,GUILTY,024-024 PRECINCT,2020-22880,Improperly used Department property,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) )",charge,
 942527,3/24/2021,GUILTY,024-024 PRECINCT,2020-22880,Violated vehicle insurance rules.,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) )",charge,
@@ -7376,21 +7420,13 @@ Wrongful search of a person's property.","B - COMMAND DISCIPLINE, VACATION DAYS 
 943819,9/20/2018,PLEADED GUILTY,374-EMPLOYEE RESOURCES SECTION,2018-19394,Failed to make proper notifications.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (65 day(s) )",charge,
 940744,1/26/2019,GUILTY,43-043 PRECINCT,2017-17920,"WHILE ON-DUTY,  IMPROPERLY SUPERVISED A DOMESTIC INCIDENT BY FAILING TO DIRECT THE PREPARATION OF A NEW YORK STATE DOMESTIC INCIDENT REPORT.",VACATION DAYS (10 day(s) ),charge,
 940744,1/26/2019,GUILTY,43-043 PRECINCT,2017-17920,"WHILE ON-DUTY, SAID SERGEANT FAILED TO INTERVIEW A CIVILIAN MEMBER OF SERVICE KNOWN TO THE DEPARTMENT",VACATION DAYS (10 day(s) ),charge,
-962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,Improper vehicle pursuit.,"VACATION DAYS (45 day(s) ), VACATION DAYS (45 day(s) )",charge,
-962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,Improper vehicle pursuit.,"VACATION DAYS (45 day(s) ), VACATION DAYS (45 day(s) )",charge,
-962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,Failed to notify the radio dispatcher about a vehicle pursuit.,"VACATION DAYS (45 day(s) ), VACATION DAYS (45 day(s) )",charge,
-962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,Failed to notify the radio dispatcher about a vehicle pursuit.,"VACATION DAYS (45 day(s) ), VACATION DAYS (45 day(s) )",charge,
-962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,Failed to make required entries in Activity Log.,"VACATION DAYS (45 day(s) ), VACATION DAYS (45 day(s) )",charge,
-962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,Failed to make required entries in Activity Log.,"VACATION DAYS (45 day(s) ), VACATION DAYS (45 day(s) )",charge,
-962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,Failed to activate body-worn camera.,"VACATION DAYS (45 day(s) ), VACATION DAYS (45 day(s) )",charge,
-962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,Failed to activate body-worn camera.,"VACATION DAYS (45 day(s) ), VACATION DAYS (45 day(s) )",charge,
-962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,"Said Police Officer Austin Slamowitz, while assigned to the 77th Precinct, on or about September 5, 2019, failed to notify a radio dispatcher when pursued vehicle was lost and/or pursuit was terminated.","VACATION DAYS (45 day(s) ), VACATION DAYS (45 day(s) )",charge,
-962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,"Said Police Officer Austin Slamowitz, while assigned to the 77th Precinct, on or about September 5, 2019, failed to notify a radio dispatcher when pursued vehicle was lost and/or pursuit was terminated.","VACATION DAYS (45 day(s) ), VACATION DAYS (45 day(s) )",charge,
-962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,Made inaccurate statements during an official Department interview.,"VACATION DAYS (45 day(s) ), VACATION DAYS (45 day(s) )",charge,
-962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,Made inaccurate statements during an official Department interview.,"VACATION DAYS (45 day(s) ), VACATION DAYS (45 day(s) )",charge,
+962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,Improper vehicle pursuit.,VACATION DAYS (45 day(s) ),charge,
+962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,Failed to notify the radio dispatcher about a vehicle pursuit.,VACATION DAYS (45 day(s) ),charge,
+962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,Failed to make required entries in Activity Log.,VACATION DAYS (45 day(s) ),charge,
+962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,Failed to activate body-worn camera.,VACATION DAYS (45 day(s) ),charge,
+962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,"Said Police Officer Austin Slamowitz, while assigned to the 77th Precinct, on or about September 5, 2019, failed to notify a radio dispatcher when pursued vehicle was lost and/or pursuit was terminated.",VACATION DAYS (45 day(s) ),charge,
+962109,8/13/2020,GUILTY,077-077 PRECINCT,2020-21683,Made inaccurate statements during an official Department interview.,VACATION DAYS (45 day(s) ),charge,
 962109,2/7/2023,,,2022-25649,01.Violated patrol rules.,,allegation,B-CD
-962109,2/7/2023,,,2022-25649,01.Violated patrol rules.,,allegation,B-CD
-962109,2/7/2023,,,2022-25651,01.Failed to prepare required reports.,,allegation,OTHER
 962109,2/7/2023,,,2022-25651,01.Failed to prepare required reports.,,allegation,OTHER
 933362,2/2/2016,GUILTY,17-017 PRECINCT,2016-15000,"WHILE ON-DUTY, WRONGFULLY USED FORCE AGAINST A PERSON KNOWN TO THE DEPARTMENT.",VACATION DAYS (10 day(s) ),charge,
 933362,2/2/2016,GUILTY,17-017 PRECINCT,2016-15000,"WHILE ON-DUTY,  RESTRICTED THE BREATHING OF A PERSON KNOWN TO THE DEPARTMENT.",VACATION DAYS (10 day(s) ),charge,
@@ -7616,10 +7652,14 @@ Made or caused to be made false or inaccurate entries in Department records.","D
 929229,1/29/2016,GUILTY,014-MIDTOWN PRECINCT SOUTH,2015-13469,"WHILE ON-DUTY, MADE INADEQUATE ENTRIES TO HIS ACTIVITY LOG",VACATION DAYS (25 day(s) ),charge,
 929229,1/29/2016,GUILTY,014-MIDTOWN PRECINCT SOUTH,2015-13469,"WHILE ON-DUTY, FAILED TO PREPARE A SUPERVISOR's FITNESS FOR DUTY REPORT AND NOTIFY A PRECINCT COMMANDER OR DUTY CAPTAIN TO RESPOND TO THE INCIDENT LOCATION",VACATION DAYS (25 day(s) ),charge,
 947526,4/10/2023,,,2023-27950,01.Wrongfully discourteous to an individual known to the Department.,A - COMMAND DISCIPLINE,allegation,A-CD
-956286,12/8/2015,GUILTY,047-047 PRECINCT,2015-14853,"WHILE OFF-DUTY, FAILED AND NEGLECTED TO SAFEGUARD HIS OFF-DUTY FIREARM BY PLACING IT INSIDE OF AN UNATTENDED VEHICLE RESULTING IN ITS THEFT.",PRE-TRIAL SUSPENSION DAYS (31 day(s) ),charge,
-956286,12/8/2015,GUILTY,047-047 PRECINCT,2015-14853,"WHILE OFF-DUTY, FAILED TO BE IN POSSESSION OF HIS DEPARTMENT ISSUED SHIELD WHILE ARMED.",PRE-TRIAL SUSPENSION DAYS (31 day(s) ),charge,
-956286,12/8/2015,GUILTY,047-047 PRECINCT,2015-14853,"WHILE OFF-DUTY, FAILED TO SAFEGUARD HIS DEPARTMENT ISSUED CELLULAR PHONE, RESULTING IN ITS LOSS.",PRE-TRIAL SUSPENSION DAYS (31 day(s) ),charge,
-956286,12/8/2015,GUILTY,047-047 PRECINCT,2015-14853,"WHILE OFF-DUTY, FAILED TO REPORT THAT A DUPLICATE DEPARTMENT SHIELD WAS INSIDE OF THE STOLEN BACKPACK THAT CONTAINED HIS OFF-DUTY FIREARM.",PRE-TRIAL SUSPENSION DAYS (31 day(s) ),charge,
+956286,12/8/2015,GUILTY,047-047 PRECINCT,2015-14853,"WHILE OFF-DUTY, FAILED AND NEGLECTED TO SAFEGUARD HIS OFF-DUTY FIREARM BY PLACING IT INSIDE OF AN UNATTENDED VEHICLE RESULTING IN ITS THEFT.","PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,
+956286,12/8/2015,GUILTY,047-047 PRECINCT,2015-14853,"WHILE OFF-DUTY, FAILED AND NEGLECTED TO SAFEGUARD HIS OFF-DUTY FIREARM BY PLACING IT INSIDE OF AN UNATTENDED VEHICLE RESULTING IN ITS THEFT.","PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,
+956286,12/8/2015,GUILTY,047-047 PRECINCT,2015-14853,"WHILE OFF-DUTY, FAILED TO BE IN POSSESSION OF HIS DEPARTMENT ISSUED SHIELD WHILE ARMED.","PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,
+956286,12/8/2015,GUILTY,047-047 PRECINCT,2015-14853,"WHILE OFF-DUTY, FAILED TO BE IN POSSESSION OF HIS DEPARTMENT ISSUED SHIELD WHILE ARMED.","PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,
+956286,12/8/2015,GUILTY,047-047 PRECINCT,2015-14853,"WHILE OFF-DUTY, FAILED TO SAFEGUARD HIS DEPARTMENT ISSUED CELLULAR PHONE, RESULTING IN ITS LOSS.","PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,
+956286,12/8/2015,GUILTY,047-047 PRECINCT,2015-14853,"WHILE OFF-DUTY, FAILED TO SAFEGUARD HIS DEPARTMENT ISSUED CELLULAR PHONE, RESULTING IN ITS LOSS.","PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,
+956286,12/8/2015,GUILTY,047-047 PRECINCT,2015-14853,"WHILE OFF-DUTY, FAILED TO REPORT THAT A DUPLICATE DEPARTMENT SHIELD WAS INSIDE OF THE STOLEN BACKPACK THAT CONTAINED HIS OFF-DUTY FIREARM.","PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,
+956286,12/8/2015,GUILTY,047-047 PRECINCT,2015-14853,"WHILE OFF-DUTY, FAILED TO REPORT THAT A DUPLICATE DEPARTMENT SHIELD WAS INSIDE OF THE STOLEN BACKPACK THAT CONTAINED HIS OFF-DUTY FIREARM.","PRE-TRIAL SUSPENSION DAYS (31 day(s) ), PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,
 932120,2/29/2016,GUILTY,041-041 PRECINCT,2016-15226,"WHILE ON-DUTY,  DID FAIL AND NEGLECT TO PREPARE THE REQUIRED ARREST PAPERWORK.",VACATION DAYS (25 day(s) ),charge,
 932120,2/29/2016,GUILTY,041-041 PRECINCT,2016-15226,"WHILE ON-DUTY, DID FAIL AND NEGLECT TO TAKE POLICE ACTION.",VACATION DAYS (25 day(s) ),charge,
 932120,2/29/2016,GUILTY,041-041 PRECINCT,2016-15226,"WHILE ON-DUTY, DID WRONGFULLY MAKE IMPROPER ENTRIES IN ACTIVITY LOG.",VACATION DAYS (25 day(s) ),charge,
@@ -7629,10 +7669,8 @@ Made or caused to be made false or inaccurate entries in Department records.","D
 949707,1/26/2017,GUILTY,22-CENTRAL PARK PRECINCT,2016-16053,FAILED AND NEGLECTED TO PROPERLY SAFEGUARD FIREARM.,VACATION DAYS (20 day(s) ),charge,
 946303,3/21/2023,,,2022-26761,01.Failed to prepare required reports.,TRAINING,allegation,OTHER
 946303,3/21/2023,,,2022-26761,01.Violated patrol rules.,TRAINING,allegation,TRAINING
-959282,12/9/2021,,,2021-24146,01.Failed to make proper notifications,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) ), VACATION DAYS (1 day(s) )",allegation,NO DISCIPLINARY ACTION
-959282,12/9/2021,,,2021-24146,01.Failed to make proper notifications,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) ), VACATION DAYS (1 day(s) )",allegation,NO DISCIPLINARY ACTION
-959282,12/9/2021,,,2021-24146,02.Violated uniform rules,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) ), VACATION DAYS (1 day(s) )",allegation,B-CD
-959282,12/9/2021,,,2021-24146,02.Violated uniform rules,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) ), VACATION DAYS (1 day(s) )",allegation,B-CD
+959282,12/9/2021,,,2021-24146,01.Failed to make proper notifications,"B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,NO DISCIPLINARY ACTION
+959282,12/9/2021,,,2021-24146,02.Violated uniform rules,"B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,B-CD
 949710,3/28/2013,GUILTY,384-POLICE ACADEMY,2010-2830,"WHILE OFF-DUTY, PROBATIONARY POLICE OFFICER ATTEMPTED TO PREVENT A MEMBER OF THE SERVICE,  A SUPERVISOR, FROM ENTERING THE AREA WHERE A VICTIM AND POSSIBLE PERPETRATOR WAS LOCATED.","PRE-TRIAL SUSPENSION DAYS (30 day(s) ), RESTORATION OF SUSPENSION DAYS (28 day(s) )",charge,
 949710,3/28/2013,GUILTY,384-POLICE ACADEMY,2010-2830,"WHILE OFF-DUTY,  AFTER BEING INVOLVED IN A POLICE INCIDENT, DID FAIL TO PROMPTLY IDENTIFY HIMSELF AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT TO RESPONDING OFFICERS.","PRE-TRIAL SUSPENSION DAYS (30 day(s) ), RESTORATION OF SUSPENSION DAYS (28 day(s) )",charge,
 949710,9/11/2022,,,2022-26581,"01.Failed to take police action/render police services (respond to a radio run, stop a crime in
@@ -7846,8 +7884,7 @@ Impeded an investigation.","DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PA
 935864,10/2/2017,GUILTY,497-INTERNAL AFFAIRS BUREAU,2017-17889,"AT MULTIPLE LOCATIONS, STORED OR LEFT HER FIREARM IN AN UNATTENDED MOTOR VEHICLE.",PRE-TRIAL SUSPENSION DAYS (23 day(s) ),charge,
 935864,10/2/2017,GUILTY,497-INTERNAL AFFAIRS BUREAU,2017-17889,FAILED AND NEGLECTED TO SAFEGUARD NUMBEROUS ITEMS OF DEPARTMENT EQUIPMENT.,PRE-TRIAL SUSPENSION DAYS (23 day(s) ),charge,
 935864,10/2/2017,GUILTY,497-INTERNAL AFFAIRS BUREAU,2017-17889,"IMPROERLY PARKED HER PERSONAL VEHICLE IN A ""NO PARKING ZONE"".",PRE-TRIAL SUSPENSION DAYS (23 day(s) ),charge,
-961387,8/26/2022,PLEADED GUILTY,169-PATROL BORO QUEENS NORTH,2022-24796,Residence requirements.,"VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
-961387,8/26/2022,PLEADED GUILTY,169-PATROL BORO QUEENS NORTH,2022-24796,Residence requirements.,"VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+961387,8/26/2022,PLEADED GUILTY,169-PATROL BORO QUEENS NORTH,2022-24796,Residence requirements.,VACATION DAYS (20 day(s) ),charge,
 958127,11/17/2022,,,2022-26359,01.Deployed a Taser outside Department guidelines.,,allegation,CHARGES AND SPECIFICATIONS
 958127,11/17/2022,,,2022-26359,01.Wrongful entry of a premises.,,allegation,CHARGES AND SPECIFICATIONS
 958127,11/17/2022,,,2022-26359,02.Wrongful seizure of a person's property.,,allegation,CHARGES AND SPECIFICATIONS
@@ -7909,6 +7946,7 @@ Harassment.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TES
 933818,11/17/2022,,,2022-26711,02.Failed to prepare required reports.,,allegation,OTHER
 967369,5/23/2023,,,2023-28404,01.Violated patrol rules.,,allegation,B-CD
 967369,5/23/2023,,,2023-28404,02.Wrongfully searched an individual known to the Department.,,allegation,B-CD
+907473,5/30/2023,,,2023-28075,01.Littering.,"B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,CHARGES AND SPECIFICATIONS
 947864,1/28/2019,GUILTY,42-042 PRECINCT,2018-18757,"while-on duty, failed to notify his Commanding Officer or Executive Officer about a incident that occurred involving Members of the Service.",VACATION DAYS (5 day(s) ),charge,
 947864,1/28/2019,GUILTY,42-042 PRECINCT,2018-18757,"while on-duty, failed to make a notification to counseling when required to do so.",VACATION DAYS (5 day(s) ),charge,
 963782,6/20/2022,,,2022-25349,01.Wrongful entry of a premises.,,allegation,B-CD
@@ -7954,8 +7992,6 @@ Failed to submit Reports.","FORFEITURE OF TIME/LEAVE BALANCES, RESTITUTION ($1,1
 Failed to submit Reports.","FORFEITURE OF TIME/LEAVE BALANCES, RESTITUTION ($1,127), VACATION DAYS (30 day(s) )",charge,
 951357,3/28/2019,GUILTY,10-010 PRECINCT,2019-20339,Made or caused to be made false or inaccurate entries in Department records.,"FORFEITURE OF TIME/LEAVE BALANCES, RESTITUTION ($1,127), VACATION DAYS (30 day(s) )",charge,
 959321,6/13/2022,,,2022-25978,01.Failed to activate their body worn camera.,,allegation,OTHER
-959321,6/13/2022,,,2022-25978,01.Failed to activate their body worn camera.,,allegation,OTHER
-959321,6/13/2022,,,2022-25978,02.Failed to make required entries in Department Logs.,,allegation,OTHER
 959321,6/13/2022,,,2022-25978,02.Failed to make required entries in Department Logs.,,allegation,OTHER
 946349,6/27/2022,,,2022-25756,01.Wrongfully used physical force.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",allegation,B-CD
 946349,6/27/2022,,,2022-25756,01.Wrongfully used physical force.,"B - COMMAND DISCIPLINE, B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) ), VACATION DAYS (5 day(s) )",allegation,B-CD
@@ -8001,6 +8037,7 @@ Failed to submit Reports.","FORFEITURE OF TIME/LEAVE BALANCES, RESTITUTION ($1,1
 942643,7/15/2015,GUILTY,077-077 PRECINCT,2014-11679,"WHILE OFF-DUTY, DID CONSUME AN INTOXICANT TO THE EXTENT THAT SAID POLICE OFFICER WAS UNFIT FOR DUTY.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), VACATION DAYS (10 day(s) )",charge,
 966996,1/11/2023,,,2022-25633,01.Failed to activate their body worn camera.,,allegation,OTHER
 966996,1/11/2023,,,2022-25633,02.Failed to prepare required reports.,,allegation,OTHER
+955621,6/14/2023,,,2020-22262,01.Improper removal to a hospital,INSTRUCTIONS,allegation,INSTRUCTIONS
 958140,4/19/2023,,,2023-28250,01.Wrongfully discourteous to an individual known to the Department.,,allegation,A-CD
 957244,5/23/2022,,,2022-25733,01.Wrongfully stopped an individual known to the Department.,,allegation,A-CD
 947569,1/29/2022,,,2021-24412,01.Failed to make required entries in Department Logs.,TRAINING,allegation,TRAINING
@@ -8091,8 +8128,10 @@ Wrongfully disseminated confidential Department information.",VACATION DAYS (20 
 955633,1/4/2023,,,2021-23732,01.Violated patrol rules.,"A - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,A-CD
 942662,2/28/2023,,,2022-26536,01.Failed to make notifications,"A - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,A-CD
 956316,9/2/2022,,,2022-26537,01.FAILURE TO MAKE TIMELY NOTIFICATIONS,,allegation,NO DISCIPLINARY ACTION
-966387,6/27/2022,PLEADED GUILTY,43-043 PRECINCT,2021-24075,Failed to activate his Body-Worn Camera.,VACATION DAYS (30 day(s) ),charge,
-966387,6/27/2022,PLEADED GUILTY,43-043 PRECINCT,2021-24075,Failed to take police action/render police services (conduct a canvass).,VACATION DAYS (30 day(s) ),charge,
+966387,6/27/2022,PLEADED GUILTY,43-043 PRECINCT,2021-24075,Failed to activate his Body-Worn Camera.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+966387,6/27/2022,PLEADED GUILTY,43-043 PRECINCT,2021-24075,Failed to activate his Body-Worn Camera.,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+966387,6/27/2022,PLEADED GUILTY,43-043 PRECINCT,2021-24075,Failed to take police action/render police services (conduct a canvass).,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
+966387,6/27/2022,PLEADED GUILTY,43-043 PRECINCT,2021-24075,Failed to take police action/render police services (conduct a canvass).,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,
 969415,11/17/2022,,,2022-27457,01.Wrongful entry of a premises.,,allegation,B-CD
 944298,7/31/2015,GUILTY,40-040 PRECINCT,2015-13810,FAILED AND NEGLECTED TO ENSURE THAT HIS SUBORDINATES PREPARE A COMPLAINT REPORT WORKSHEET UPON RESPONDING TO A RADIO TRANSMISSION OF A ROBBERY AND SPEAKING TO THE COMPLAINANT.,VACATION DAYS (20 day(s) ),charge,
 955637,3/10/2017,GUILTY,044-044 PRECINCT,2016-16784,"HAVING BEEN NOTIFIED TO APPEAR AT A TRAFFIC VIOLATIONS BUREAU HEARING, FAILED TO APPEAR RESULTING IN THE DISMISSAL OF TWO (2) SUMMONSES.","DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,
@@ -8114,7 +8153,8 @@ Failure to Identity themselves as a police officer","COUNSELING, DISMISSAL PROBA
 942666,6/2/2016,GUILTY,034-034 PRECINCT,2016-15751,CONSUMED AN INTOXICANT TO THE EXTENT THAT SAID POLICE OFFICER WAS UNFIT FOR DUTY.,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), SUSPENDED W/O PAY (20 day(s) ), VACATION DAYS (10 day(s) )",charge,
 942666,6/2/2016,GUILTY,034-034 PRECINCT,2016-15751,"WHILE OPERATING A MOTOR VEHICLE UNDER THE INFLUENCE OF AN INTOXICANT, STRUCK/HIT TWO PEDESTRIANS.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), SUSPENDED W/O PAY (20 day(s) ), VACATION DAYS (10 day(s) )",charge,
 929308,11/14/2022,,,2022-27243,01.MADE COMPUTER INQUIRIES UNRELATED TO OFFICIAL DEPARTMENT BUSINESS.,"C - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,CHARGES AND SPECIFICATIONS
-929309,9/9/2015,GUILTY,114-114 PRECINCT,2015-13876,FAILED TO PROPERLY SAFEGUARD HIS FIREARM.,VACATION DAYS (10 day(s) ),charge,
+929309,9/9/2015,GUILTY,114-114 PRECINCT,2015-13876,FAILED TO PROPERLY SAFEGUARD HIS FIREARM.,"VACATION DAYS (10 day(s) ), VACATION DAYS (10 day(s) )",charge,
+929309,9/9/2015,GUILTY,114-114 PRECINCT,2015-13876,FAILED TO PROPERLY SAFEGUARD HIS FIREARM.,"VACATION DAYS (10 day(s) ), VACATION DAYS (10 day(s) )",charge,
 952322,10/24/2018,GUILTY,046-046 PRECINCT,2018-18461,Misuse of time.,"DEDUCTION OF PENSIONABLE TIME, DISMISSAL PROBATION (12 month(s) ), FORFEITURE OF TIME/LEAVE BALANCES, RESTITUTION ($2,679), VACATION DAYS (30 day(s) )",charge,
 952322,10/24/2018,GUILTY,046-046 PRECINCT,2018-18461,Misuse of time.,"DEDUCTION OF PENSIONABLE TIME, DISMISSAL PROBATION (12 month(s) ), FORFEITURE OF TIME/LEAVE BALANCES, RESTITUTION ($2,679), VACATION DAYS (30 day(s) )",charge,
 952322,10/24/2018,GUILTY,046-046 PRECINCT,2018-18461,Made or caused to be made false or inaccurate entries in Department records.,"DEDUCTION OF PENSIONABLE TIME, DISMISSAL PROBATION (12 month(s) ), FORFEITURE OF TIME/LEAVE BALANCES, RESTITUTION ($2,679), VACATION DAYS (30 day(s) )",charge,
@@ -8336,8 +8376,7 @@ Failed to make proper notifications.","TRAINING, VACATION DAYS (10 day(s) )",cha
 944197,4/28/2010,GUILTY,583-BROOKLYN CENTRAL BOOKING,2010-428,WRONGFULLY PLACED HANDCUFFS ON A PERSON KNOWN TO THE DEPARTMENT.,"DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (30 day(s) )",charge,
 944197,4/28/2010,GUILTY,583-BROOKLYN CENTRAL BOOKING,2010-428,ABSENT FROM ASSIGNMENT WITHOUT PERMISSION OR POLICE NECESSITY.,"DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (30 day(s) )",charge,
 944197,4/28/2010,GUILTY,583-BROOKLYN CENTRAL BOOKING,2010-428,TRAVELLED INTO THE CONFINES OF ANOTHER PRECINCT ON PERSONAL BUSINESS WITHOUT NOTIFYING HER SUPERVISOR.,"DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (30 day(s) )",charge,
-954420,8/25/2017,PLEADED GUILTY,018-MIDTOWN PRECINCT NORTH,2017-17717,SAID POLICE OFFICER ALLOWED HIS RESIDENTIAL ADDRESS TO BE USED BY ANOTHER POLICE OFFICER,"VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
-954420,8/25/2017,PLEADED GUILTY,018-MIDTOWN PRECINCT NORTH,2017-17717,SAID POLICE OFFICER ALLOWED HIS RESIDENTIAL ADDRESS TO BE USED BY ANOTHER POLICE OFFICER,"VACATION DAYS (20 day(s) ), VACATION DAYS (20 day(s) )",charge,
+954420,8/25/2017,PLEADED GUILTY,018-MIDTOWN PRECINCT NORTH,2017-17717,SAID POLICE OFFICER ALLOWED HIS RESIDENTIAL ADDRESS TO BE USED BY ANOTHER POLICE OFFICER,VACATION DAYS (20 day(s) ),charge,
 969426,4/6/2023,,,2022-27599,01.Wrongful threat of force.,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,B-CD
 937726,8/8/2022,,,2022-25207,01.Failed to make proper activity log entries.,"C - COMMAND DISCIPLINE, VACATION DAYS (8 day(s) )",allegation,CHARGES AND SPECIFICATIONS
 937726,8/8/2022,,,2022-25207,02.Failed to notify the radio dispatcher about a vehicle pursuit.,"C - COMMAND DISCIPLINE, VACATION DAYS (8 day(s) )",allegation,CHARGES AND SPECIFICATIONS
@@ -8352,6 +8391,8 @@ Failed to make proper notifications.","TRAINING, VACATION DAYS (10 day(s) )",cha
 937726,2/23/2023,,,2022-25183,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 937726,2/23/2023,,,2022-25183,02.Failed to prepare required reports.,,allegation,OTHER
 962164,12/9/2021,,,2021-24149,01.Failed to make proper notification to Patrol Supervisor.,,allegation,CHARGES AND SPECIFICATIONS
+962164,12/9/2021,,,2021-24149,01.Failed to make proper notification to Patrol Supervisor.,,allegation,CHARGES AND SPECIFICATIONS
+962164,12/9/2021,,,2021-24149,02.Left the scene of an accident.,,allegation,CHARGES AND SPECIFICATIONS
 962164,12/9/2021,,,2021-24149,02.Left the scene of an accident.,,allegation,CHARGES AND SPECIFICATIONS
 942696,1/30/2015,GUILTY,007-007 PRECINCT,2014-11787,"WHILE ON-DUTY, ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT, IN THAT HE STOPPED A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",VACATION DAYS (2 day(s) ),charge,
 951433,11/21/2019,GUILTY,480-AVIATION UNIT,2019-21173,Made improper communication.,VACATION DAYS (20 day(s) ),charge,
@@ -8413,8 +8454,7 @@ Failed to make proper notifications.","TRAINING, VACATION DAYS (10 day(s) )",cha
 962875,6/8/2022,PLEADED GUILTY,396-MILITARY AND EXTEND LEAVE DESK,2021-23215,Engaged in inappropriate conduct with an individual.,"PRE-TRIAL SUSPENSION DAYS (20 day(s) ), RESTORATION OF SUSPENSION DAYS (11 day(s) )",charge,
 962875,6/8/2022,PLEADED GUILTY,396-MILITARY AND EXTEND LEAVE DESK,2021-23215,Said Police Officer failed to notify the Department of an investigation.,"PRE-TRIAL SUSPENSION DAYS (20 day(s) ), RESTORATION OF SUSPENSION DAYS (11 day(s) )",charge,
 934257,5/20/2022,,,2020-22439,01.Wrongful removal to hospital.,TRAINING,allegation,TRAINING
-961581,4/14/2022,,,2020-22252,01.Abuse of Authority,"INSTRUCTIONS, INSTRUCTIONS",allegation,INSTRUCTIONS
-961581,4/14/2022,,,2020-22252,01.Abuse of Authority,"INSTRUCTIONS, INSTRUCTIONS",allegation,INSTRUCTIONS
+961581,4/14/2022,,,2020-22252,01.Abuse of Authority,INSTRUCTIONS,allegation,INSTRUCTIONS
 946396,12/10/2014,GUILTY,079-079 PRECINCT,2014-11222,STOPPED A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.,VACATION DAYS (3 day(s) ),charge,
 947610,12/3/2018,GUILTY,079-079 PRECINCT,2018-19841,Recoded body-worn footage for purposes unrelated to official Department business.,"PRE-TRIAL SUSPENSION DAYS (15 day(s) ), RESTORATION OF SUSPENSION DAYS (17 day(s) )",charge,
 954428,4/11/2016,GUILTY,013-013 PRECINCT,2015-14464,"WHILE OFF-DUTY, DISPLAYED HER RESTRICTED PARKING PERMIT ON THE DASHBOARD OF HER PERSONAL VEHICLE WHILE PARKED IN A NO PARKING ZONE.","DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,
@@ -8527,8 +8567,7 @@ Made or caused to be made false or inaccurate entries in Department records.","F
 948445,2/17/2015,PLEADED GUILTY,103-103 PRECINCT,2014-12805,FAILED TO NOTIFY THE DEPARTMENT OF AN OFF-DUTY DOMESTIC INCIDENT.,VACATION DAYS (25 day(s) ),charge,
 921870,8/11/2016,GUILTY,109-109 PRECINCT,2016-16231,"ENGAGED IN CONDUCT PREJUDICIAL TO THE GOOD ORDER, EFFICIENCY OR DISCIPLINE OF THE DEPARTMENT TO WIT: SAID POLICE OFFICER PATRONIZED AN UNLAWFUL LOCATION.","DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (10 day(s) ), VACATION DAYS (30 day(s) )",charge,
 942734,4/6/2011,GUILTY,-,2010-2831,WRONGFULLY ENGAGED IN A PHYSICAL ALTERCATION WITH AN INDIVIDUAL KNOWN TO THE DEPARTMENT.,"COUNSELING, PRE-TRIAL SUSPENSION DAYS (30 day(s) )",charge,
-962181,4/6/2023,,,2023-27811,01.Violated patrol rules - refused to provide his name,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
-962181,4/6/2023,,,2023-27811,01.Violated patrol rules - refused to provide his name,"A - COMMAND DISCIPLINE, A - COMMAND DISCIPLINE",allegation,A-CD
+962181,4/6/2023,,,2023-27811,01.Violated patrol rules - refused to provide his name,A - COMMAND DISCIPLINE,allegation,A-CD
 959393,4/10/2023,,,2023-28019,01.Wrongfully used physical force.,B - COMMAND DISCIPLINE,allegation,B-CD
 961469,6/28/2022,,,2022-24845,01.Failed to make required entries in Department Logs.,,allegation,OTHER
 961469,6/28/2022,,,2022-24845,02.Violated patrol rules.,,allegation,TRAINING
@@ -8584,8 +8623,7 @@ Unfit for duty.","COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH
 937786,5/17/2016,GUILTY,136-SOD STRAT RESP GRP 1 MANH,2016-15827,"WHILE OFF-DUTY, DID WRONGFULLY CONSUME AN INTOXICANT TO THE EXTENT THAT SAID OFFICER WAS UNFIT FOR DUTY.","COUNSELING, VACATION DAYS (30 day(s) )",charge,
 937786,5/17/2016,GUILTY,136-SOD STRAT RESP GRP 1 MANH,2016-15827,DID WRONGFULLY AND WITHOUT JUST CAUSE PREVENT OR INTERFERE WITH AN OFFICIAL DEPARTMENT INVESTIGATION.,"COUNSELING, VACATION DAYS (30 day(s) )",charge,
 960080,12/2/2022,,,2022-26171,01.Wrongfully threatened to damage property.,,allegation,B-CD
-956082,3/22/2019,GUILTY,050-050 PRECINCT,2019-20012,WAS OUT OF RESIDENCE WHILE ON SICK REPORT WHILE DESIGNATED CHRONIC A SICK.,"VACATION DAYS (15 day(s) ), VACATION DAYS (15 day(s) )",charge,
-956082,3/22/2019,GUILTY,050-050 PRECINCT,2019-20012,WAS OUT OF RESIDENCE WHILE ON SICK REPORT WHILE DESIGNATED CHRONIC A SICK.,"VACATION DAYS (15 day(s) ), VACATION DAYS (15 day(s) )",charge,
+956082,3/22/2019,GUILTY,050-050 PRECINCT,2019-20012,WAS OUT OF RESIDENCE WHILE ON SICK REPORT WHILE DESIGNATED CHRONIC A SICK.,VACATION DAYS (15 day(s) ),charge,
 947634,3/19/2019,GUILTY,42-042 PRECINCT,2019-19972,DID WRONGFULLY ENGAGE IN OFF-DUTY EMPLOYMENT WITHOUT THE NECESSARY PERMISSION AND APPROVAL OF THE DEPARTMENT.,VACATION DAYS (10 day(s) ),charge,
 947634,6/15/2022,,,2021-24430,01.Wrongfully used physical force.,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,B-CD
 937792,4/20/2011,PLEADED GUILTY,104-104 PRECINCT,2010-3263,FAILED TO MAKE ACTIVITY LOG ENTRY,VACATION DAYS (10 day(s) ),charge,
