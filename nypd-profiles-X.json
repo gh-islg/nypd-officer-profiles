@@ -2183,6 +2183,10 @@
 			},
 			"training": [
 				{
+					"date": "6/9/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
 					"date": "6/5/2023",
 					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
 				},
@@ -6163,6 +6167,14 @@
 				"violation": 8
 			},
 			"training": [
+				{
+					"date": "6/15/2023",
+					"name": "CLT-CRIME CONTROL STRATEGIES AND PROBLEM SOLVING"
+				},
+				{
+					"date": "6/7/2023",
+					"name": "HME - HOMEMADE EXPLOSIVES: AWARENESS, RECOGNITION, AND RESPONSE"
+				},
 				{
 					"date": "6/2/2023",
 					"name": "CLT-ENFORCEMENT ACTIONS"
@@ -11711,10 +11723,6 @@
 				{
 					"date": "7/13/2022",
 					"name": "VEHICLE SEIZURE FORM"
-				},
-				{
-					"date": "6/21/2022",
-					"name": "COUNTERTERRORISM CBRNE-HAZMAT OPERATIONS LEVEL REFRESHER TRAINING"
 				},
 				{
 					"date": "6/4/2022",
@@ -18405,6 +18413,66 @@
 			},
 			"training": [
 				{
+					"date": "6/20/2023",
+					"name": "BELT TRAUMA KIT VIDEO"
+				},
+				{
+					"date": "6/20/2023",
+					"name": "COUNTERTERRORISM BUREAU NH15 TRAINING"
+				},
+				{
+					"date": "6/20/2023",
+					"name": "LOCATING APPLE DEVICES USING YOUR DEPARTMENT SMARTPHONE"
+				},
+				{
+					"date": "6/20/2023",
+					"name": "STOP REPORT"
+				},
+				{
+					"date": "6/20/2023",
+					"name": "TACTICAL AWARENESS OF EXCITED DELIRIUM SYNDROME"
+				},
+				{
+					"date": "6/16/2023",
+					"name": "AXON CASES 2.0"
+				},
+				{
+					"date": "6/16/2023",
+					"name": "FORMS - THREAT,RESISTANCE,INJURY (TRI)"
+				},
+				{
+					"date": "6/16/2023",
+					"name": "INTRODUCTION TO COGNOS 11"
+				},
+				{
+					"date": "6/16/2023",
+					"name": "NEW YEAR'S EVE TACTICAL AWARENESS"
+				},
+				{
+					"date": "6/15/2023",
+					"name": "COVID-19 SELF-COLLECTION KIT INSTRUCTIONS"
+				},
+				{
+					"date": "6/15/2023",
+					"name": "CRITICAL INCIDENT TACTICS - RESPONDING TO COMMERCIAL ROBBERIES (EXTENDED VERSION)"
+				},
+				{
+					"date": "6/15/2023",
+					"name": "DOMAIN AWARENESS SYSTEM - SEARCH ACCURINT RESULTS"
+				},
+				{
+					"date": "6/15/2023",
+					"name": "ELDER ABUSE -2023 REFRESHER"
+				},
+				{
+					"date": "6/15/2023",
+					"name": "HEALTH AND WELLNESS SECTION - CHILD MIND INSTITUTE VIDEO SERIES - MODULE 1 - BEHAVIOR MANAGEMENT STR"
+				},
+				{
+					"date": "6/15/2023",
+					"name": "VIPER CCTV TRAINING COURSE"
+				},
+				{
 					"date": "5/22/2023",
 					"name": "ESPER POLICY LIBRARY"
 				},
@@ -18427,6 +18495,10 @@
 				{
 					"date": "4/14/2023",
 					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 3 SQF LEVEL 2"
+				},
+				{
+					"date": "3/23/2023",
+					"name": "INFORMATION SECURITY CRIMINAL JUSTICE TRAINING 2023"
 				},
 				{
 					"date": "2/5/2023",
@@ -19674,6 +19746,14 @@
 				"violation": 16
 			},
 			"training": [
+				{
+					"date": "6/23/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "6/16/2023",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
 				{
 					"date": "6/11/2023",
 					"name": "CLT-SPECIAL POPULATIONS"
@@ -22741,14 +22821,26 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 13,
-				"misdemeanor": 33,
+				"felony": 17,
+				"misdemeanor": 37,
 				"violation": 2
 			},
 			"training": [
 				{
+					"date": "6/25/2023",
+					"name": "CLT-LEGAL ISSUES"
+				},
+				{
+					"date": "6/25/2023",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
+				{
 					"date": "6/15/2023",
 					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "6/15/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
 				},
 				{
 					"date": "5/25/2023",
@@ -30210,6 +30302,10 @@
 			},
 			"training": [
 				{
+					"date": "6/12/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
 					"date": "6/5/2023",
 					"name": "CLT-DOCUMENTATION AND FORMS"
 				},
@@ -34684,19 +34780,7 @@
 					"type": "Trial Decision"
 				}
 			],
-			"discipline": [
-				{
-					"entry": "12/30/2022 12:00:00 AM",
-					"allegations_count": 1,
-					"allegations": [
-						{
-							"recommendation": "NO DISCIPLINARY ACTION",
-							"case_no": "2022-26981",
-							"description": "01.Failed to prepare required reports."
-						}
-					]
-				}
-			],
+			"discipline": [],
 			"arrests": {
 				"infraction": 2,
 				"felony": 200,
@@ -34705,6 +34789,10 @@
 				"violation": 11
 			},
 			"training": [
+				{
+					"date": "6/22/2023",
+					"name": "2023 LANGUAGE MATTERS - FOSTERING A POSITIVE WORK ENVIRONMENT"
+				},
 				{
 					"date": "5/17/2023",
 					"name": "NYPD-U VOLUNTARY - INVOLUNTARY TRANSPORTS"
