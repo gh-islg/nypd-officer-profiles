@@ -2383,7 +2383,7 @@
 		"shield_no": "12666",
 		"appt_date": "11/2/2020",
 		"recognition_count": 0,
-		"arrest_count": 39,
+		"arrest_count": 43,
 		"reports": {
 			"summary": {
 				"command": "014 PCT-MIDTOWN SO. PCT",
@@ -20870,6 +20870,18 @@
 				"misdemeanor": 37
 			},
 			"training": [
+				{
+					"date": "6/26/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "6/24/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "6/22/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
 				{
 					"date": "6/14/2023",
 					"name": "2023 LANGUAGE MATTERS - FOSTERING A POSITIVE WORK ENVIRONMENT"
@@ -53992,7 +54004,7 @@
 		"shield_no": "16979",
 		"appt_date": "11/2/2020",
 		"recognition_count": 0,
-		"arrest_count": 19,
+		"arrest_count": 20,
 		"reports": {
 			"summary": {
 				"command": "023 PRECINCT",
@@ -64856,7 +64868,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 15,
-				"misdemeanor": 46,
+				"misdemeanor": 48,
 				"violation": 2
 			},
 			"training": [
@@ -71163,7 +71175,7 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 3,
+				"felony": 4,
 				"misdemeanor": 3
 			},
 			"training": [
@@ -117673,7 +117685,7 @@
 		"shield_no": "9663",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 37,
+		"arrest_count": 38,
 		"reports": {
 			"summary": {
 				"command": "048 PRECINCT",
@@ -157910,8 +157922,8 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 52,
-				"misdemeanor": 36
+				"felony": 26,
+				"misdemeanor": 18
 			},
 			"training": [
 				{
@@ -160205,20 +160217,8 @@
 					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
-					"date": "8/1/2021",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
 					"date": "11/27/2020",
 					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "11/27/2020",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "9/2/2020",
-					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
 					"date": "9/2/2020",
@@ -165303,7 +165303,7 @@
 		"shield_no": "4605",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 22,
+		"arrest_count": 24,
 		"reports": {
 			"summary": {
 				"command": "034 PRECINCT",
