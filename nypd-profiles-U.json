@@ -42988,7 +42988,7 @@
 		"shield_no": "11914",
 		"appt_date": "10/18/2017",
 		"recognition_count": 3,
-		"arrest_count": 28,
+		"arrest_count": 29,
 		"reports": {
 			"summary": {
 				"command": "078 PRECINCT",
@@ -45096,8 +45096,8 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 16,
-				"misdemeanor": 67,
+				"felony": 17,
+				"misdemeanor": 70,
 				"violation": 7
 			},
 			"training": [
