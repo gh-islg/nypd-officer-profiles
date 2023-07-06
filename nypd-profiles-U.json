@@ -18395,6 +18395,10 @@
 			},
 			"training": [
 				{
+					"date": "7/3/2023",
+					"name": "2023 EQUAL EMPLOYMENT OPPORTUNITY TRAINING-SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
 					"date": "6/14/2023",
 					"name": "CLT-ENFORCEMENT ACTIONS"
 				},
@@ -130289,6 +130293,10 @@
 			},
 			"training": [
 				{
+					"date": "6/27/2023",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
+				{
 					"date": "6/1/2023",
 					"name": "CLT-PARK SMART ROLLCALL PRESENTATION"
 				},
@@ -138604,7 +138612,7 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 5,
+				"felony": 6,
 				"misdemeanor": 30
 			},
 			"training": [
