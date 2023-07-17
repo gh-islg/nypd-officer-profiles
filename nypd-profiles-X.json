@@ -7675,6 +7675,18 @@
 			},
 			"training": [
 				{
+					"date": "7/13/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "7/12/2023",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
+					"date": "7/11/2023",
+					"name": "CLT-ENFORCEMENT ACTIONS"
+				},
+				{
 					"date": "7/4/2023",
 					"name": "PROCESSING CIVILIAN COMPLAINTS"
 				},
@@ -12753,9 +12765,13 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 15
+				"misdemeanor": 16
 			},
 			"training": [
+				{
+					"date": "7/10/2023",
+					"name": "CLT-ENFORCEMENT ACTIONS"
+				},
 				{
 					"date": "5/31/2023",
 					"name": "CLT-DOCUMENTATION AND FORMS"
