@@ -33,6 +33,14 @@
 			},
 			"training": [
 				{
+					"date": "8/3/2023",
+					"name": "TRAFFIC COURT TESTIMONY VIDEO"
+				},
+				{
+					"date": "8/3/2023",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
+				{
 					"date": "6/14/2023",
 					"name": "CLT-DOCUMENTATION AND FORMS"
 				},
@@ -71724,6 +71732,14 @@
 			},
 			"training": [
 				{
+					"date": "8/4/2023",
+					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
+				},
+				{
+					"date": "8/4/2023",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
+				{
 					"date": "7/20/2023",
 					"name": "TRAFFIC COURT TESTIMONY VIDEO"
 				},
@@ -81353,6 +81369,10 @@
 				"misdemeanor": 21
 			},
 			"training": [
+				{
+					"date": "8/3/2023",
+					"name": "2023 EQUAL EMPLOYMENT OPPORTUNITY TRAINING-SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
 				{
 					"date": "6/6/2023",
 					"name": "EXECUTIVE HEALTH AND WELLNESS TRAINING - MODULE 5"
@@ -106521,9 +106541,41 @@
 			],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 22
+				"misdemeanor": 23
 			},
 			"training": [
+				{
+					"date": "8/4/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "8/4/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "8/4/2023",
+					"name": "CLT-PROFESSIONAL DEVELOPMENT"
+				},
+				{
+					"date": "8/2/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "8/2/2023",
+					"name": "CLT-PROFESSIONAL DEVELOPMENT"
+				},
+				{
+					"date": "8/2/2023",
+					"name": "TRAFFIC COURT TESTIMONY VIDEO"
+				},
+				{
+					"date": "7/29/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "7/29/2023",
+					"name": "CLT-LEGAL ISSUES"
+				},
 				{
 					"date": "7/26/2023",
 					"name": "CLT-LEGAL ISSUES"
@@ -108163,7 +108215,7 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 10,
+				"felony": 11,
 				"misdemeanor": 12
 			},
 			"training": [
@@ -159116,6 +159168,18 @@
 			},
 			"training": [
 				{
+					"date": "8/4/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "8/3/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "7/28/2023",
+					"name": "CLT-LEGAL ISSUES"
+				},
+				{
 					"date": "7/26/2023",
 					"name": "CLT-PROCEDURAL OPERATIONS"
 				},
@@ -162324,6 +162388,18 @@
 				"misdemeanor": 22
 			},
 			"training": [
+				{
+					"date": "8/2/2023",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "7/31/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "7/29/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
 				{
 					"date": "7/21/2023",
 					"name": "CLT-PROCEDURAL OPERATIONS"
