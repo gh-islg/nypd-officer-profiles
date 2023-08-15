@@ -3934,6 +3934,10 @@
 			},
 			"training": [
 				{
+					"date": "8/11/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
 					"date": "8/2/2023",
 					"name": "CLT-PROCEDURAL OPERATIONS"
 				},
@@ -7034,6 +7038,14 @@
 			},
 			"training": [
 				{
+					"date": "8/8/2023",
+					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
+				},
+				{
+					"date": "8/8/2023",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
+				{
 					"date": "7/24/2023",
 					"name": "CLT-SEARCHING PRISONERS MODULE 1"
 				},
@@ -8674,7 +8686,21 @@
 				}
 			],
 			"documents": [],
-			"discipline": [],
+			"discipline": [
+				{
+					"entry": "8/17/2022 12:00:00 AM",
+					"charges_count": 1,
+					"charges": [
+						{
+							"disposition": "PLEADED GUILTY",
+							"command": "032-032 PRECINCT",
+							"case_no": "2021-23897",
+							"description": "failed to render police services.",
+							"penalty": "PRE-TRIAL SUSPENSION DAYS (32 day(s) ), VACATION DAYS (20 day(s) )"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"infraction": 1,
 				"felony": 4,
@@ -8682,6 +8708,14 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "8/9/2023",
+					"name": "CLT-VOLUNTARY - INVOLUNTARY TRANSPORTS"
+				},
+				{
+					"date": "8/8/2023",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
 				{
 					"date": "8/3/2023",
 					"name": "CLT-PROCEDURAL OPERATIONS"
@@ -10794,6 +10828,10 @@
 				"violation": 7
 			},
 			"training": [
+				{
+					"date": "8/4/2023",
+					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
+				},
 				{
 					"date": "7/31/2023",
 					"name": "CLT-LEGAL ISSUES"
@@ -18634,8 +18672,8 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 6,
-				"misdemeanor": 24
+				"felony": 7,
+				"misdemeanor": 25
 			},
 			"training": [
 				{
@@ -67602,6 +67640,18 @@
 			},
 			"training": [
 				{
+					"date": "8/8/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "8/6/2023",
+					"name": "TRAFFIC COURT TESTIMONY VIDEO"
+				},
+				{
+					"date": "8/6/2023",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
+				{
 					"date": "8/3/2023",
 					"name": "CLT-PROCEDURAL OPERATIONS"
 				},
@@ -103773,6 +103823,18 @@
 			},
 			"training": [
 				{
+					"date": "8/13/2023",
+					"name": "CLT-INFORMATION TECHNOLOGY"
+				},
+				{
+					"date": "8/13/2023",
+					"name": "CLT-LEGAL ISSUES"
+				},
+				{
+					"date": "8/13/2023",
+					"name": "CLT-VOLUNTARY - INVOLUNTARY TRANSPORTS"
+				},
+				{
 					"date": "7/17/2023",
 					"name": "ESPER POLICY LIBRARY"
 				},
@@ -126647,9 +126709,17 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 188,
-				"misdemeanor": 285
+				"misdemeanor": 286
 			},
 			"training": [
+				{
+					"date": "8/11/2023",
+					"name": "CLT-VOLUNTARY - INVOLUNTARY TRANSPORTS"
+				},
+				{
+					"date": "8/10/2023",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
 				{
 					"date": "7/25/2023",
 					"name": "CLT-PROCEDURAL OPERATIONS"
@@ -132884,6 +132954,14 @@
 			},
 			"training": [
 				{
+					"date": "8/9/2023",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "8/4/2023",
+					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
+				},
+				{
 					"date": "8/2/2023",
 					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
 				},
@@ -133826,6 +133904,10 @@
 				{
 					"date": "12/3/2019",
 					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
+					"date": "12/3/2019",
+					"name": "EXECUTIVE CONFERENCE VIDEO 10-17-18: INTELLIGENT LEADERSHIP: GEORGE TENET, FORMER (DIRECTOR OF CENTR"
 				},
 				{
 					"date": "12/3/2019",
@@ -141215,10 +141297,22 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 7,
+				"felony": 8,
 				"misdemeanor": 30
 			},
 			"training": [
+				{
+					"date": "8/11/2023",
+					"name": "CLT-VOLUNTARY - INVOLUNTARY TRANSPORTS"
+				},
+				{
+					"date": "8/7/2023",
+					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
+				},
+				{
+					"date": "8/7/2023",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
 				{
 					"date": "7/12/2023",
 					"name": "TRAFFIC COURT TESTIMONY VIDEO"
