@@ -9,7 +9,7 @@
 		"shield_no": "27846",
 		"appt_date": "1/6/2020",
 		"recognition_count": 0,
-		"arrest_count": 2,
+		"arrest_count": 4,
 		"reports": {
 			"summary": {
 				"command": "MEDICAL DIVISION",
@@ -55706,10 +55706,30 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 20,
+				"felony": 21,
 				"misdemeanor": 33
 			},
 			"training": [
+				{
+					"date": "8/17/2023",
+					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
+				},
+				{
+					"date": "8/17/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "8/16/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "8/11/2023",
+					"name": "CLT-VOLUNTARY - INVOLUNTARY TRANSPORTS"
+				},
+				{
+					"date": "8/10/2023",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
 				{
 					"date": "7/30/2023",
 					"name": "TRAFFIC COURT TESTIMONY VIDEO"
@@ -65273,7 +65293,7 @@
 		"shield_no": "13921",
 		"appt_date": "4/15/2019",
 		"recognition_count": 4,
-		"arrest_count": 67,
+		"arrest_count": 68,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 7",
@@ -76633,6 +76653,18 @@
 			},
 			"training": [
 				{
+					"date": "8/11/2023",
+					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
+				},
+				{
+					"date": "8/11/2023",
+					"name": "TRAFFIC COURT TESTIMONY VIDEO"
+				},
+				{
+					"date": "8/11/2023",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
+				{
 					"date": "5/26/2023",
 					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 4 SQF LEVELS 2, 3 AND 4"
 				},
@@ -77381,11 +77413,23 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 4,
+				"felony": 5,
 				"misdemeanor": 8,
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "8/10/2023",
+					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
+				},
+				{
+					"date": "8/10/2023",
+					"name": "TRAFFIC COURT TESTIMONY VIDEO"
+				},
+				{
+					"date": "8/10/2023",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
 				{
 					"date": "6/14/2023",
 					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 4 SQF LEVELS 2, 3 AND 4"
@@ -105977,7 +106021,7 @@
 		"shield_no": "24710",
 		"appt_date": "10/7/2019",
 		"recognition_count": 0,
-		"arrest_count": 32,
+		"arrest_count": 64,
 		"reports": {
 			"summary": {
 				"command": "066 PRECINCT",
@@ -131362,6 +131406,14 @@
 				"misdemeanor": 41
 			},
 			"training": [
+				{
+					"date": "8/15/2023",
+					"name": "2023 EQUAL EMPLOYMENT OPPORTUNITY TRAINING-SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "8/9/2023",
+					"name": "DETECTIVE BUREAU BODY WORN CAMERAS"
+				},
 				{
 					"date": "7/31/2023",
 					"name": "NYPD-U VOLUNTARY - INVOLUNTARY TRANSPORTS"
