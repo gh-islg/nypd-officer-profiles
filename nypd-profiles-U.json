@@ -21843,6 +21843,10 @@
 			},
 			"training": [
 				{
+					"date": "8/15/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
 					"date": "8/8/2023",
 					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
 				},
@@ -26544,6 +26548,18 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "8/15/2023",
+					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
+				},
+				{
+					"date": "8/15/2023",
+					"name": "ILERSBA - INITIAL LAW ENFORCMENT RESPONSE TO SUICIDE BOMBING ATTACKS"
+				},
+				{
+					"date": "8/15/2023",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
 				{
 					"date": "7/11/2023",
 					"name": "TRAFFIC COURT TESTIMONY VIDEO"
@@ -61399,6 +61415,14 @@
 			},
 			"training": [
 				{
+					"date": "8/18/2023",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
+				{
+					"date": "8/17/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
 					"date": "8/2/2023",
 					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
 				},
@@ -74378,6 +74402,10 @@
 				"violation": 4
 			},
 			"training": [
+				{
+					"date": "8/16/2023",
+					"name": "2023 EQUAL EMPLOYMENT OPPORTUNITY TRAINING-SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
 				{
 					"date": "7/1/2023",
 					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 3 SQF LEVEL 2"
@@ -113852,6 +113880,30 @@
 				"misdemeanor": 3
 			},
 			"training": [
+				{
+					"date": "8/18/2023",
+					"name": "PERSONNEL BUREAU NYPD EMPLOYEE ASSISTANCE UNIT (EAU)"
+				},
+				{
+					"date": "8/12/2023",
+					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
+				},
+				{
+					"date": "8/12/2023",
+					"name": "CLT-VOLUNTARY - INVOLUNTARY TRANSPORTS"
+				},
+				{
+					"date": "8/12/2023",
+					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 4 SQF LEVELS 2, 3 AND 4"
+				},
+				{
+					"date": "8/12/2023",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
+				{
+					"date": "8/12/2023",
+					"name": "WORLDPRIDE NYC 2019"
+				},
 				{
 					"date": "7/12/2023",
 					"name": "CLT-SPECIAL POPULATIONS"
