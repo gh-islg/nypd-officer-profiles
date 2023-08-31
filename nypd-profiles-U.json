@@ -21910,10 +21910,14 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 13,
-				"misdemeanor": 13
+				"felony": 4,
+				"misdemeanor": 9
 			},
 			"training": [
+				{
+					"date": "8/26/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
 				{
 					"date": "8/15/2023",
 					"name": "CLT-DOCUMENTATION AND FORMS"
@@ -26624,6 +26628,14 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "8/26/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
+				{
+					"date": "8/24/2023",
+					"name": "CLT-VOLUNTARY - INVOLUNTARY TRANSPORTS"
+				},
 				{
 					"date": "8/15/2023",
 					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
@@ -61549,7 +61561,7 @@
 		"shield_no": "22778",
 		"appt_date": "1/10/2007",
 		"recognition_count": 4,
-		"arrest_count": 150,
+		"arrest_count": 149,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 2",
@@ -61571,10 +61583,26 @@
 			"arrests": {
 				"infraction": 4,
 				"felony": 50,
-				"misdemeanor": 77,
+				"misdemeanor": 76,
 				"violation": 19
 			},
 			"training": [
+				{
+					"date": "8/26/2023",
+					"name": "AUGMENTED REALITY FEATURE"
+				},
+				{
+					"date": "8/26/2023",
+					"name": "CLT-PATROL TACTICS ROLLCALL TRAINING VIDEO SERIES"
+				},
+				{
+					"date": "8/25/2023",
+					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
+				},
+				{
+					"date": "8/25/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
 				{
 					"date": "8/18/2023",
 					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
@@ -114154,6 +114182,22 @@
 			},
 			"training": [
 				{
+					"date": "8/28/2023",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "8/28/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
+				{
+					"date": "8/27/2023",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "8/27/2023",
+					"name": "CLT-PATROL TACTICS ROLLCALL TRAINING VIDEO SERIES"
+				},
+				{
 					"date": "8/18/2023",
 					"name": "PERSONNEL BUREAU NYPD EMPLOYEE ASSISTANCE UNIT (EAU)"
 				},
@@ -130996,7 +131040,7 @@
 		"shield_no": "7873",
 		"appt_date": "7/11/2005",
 		"recognition_count": 0,
-		"arrest_count": 109,
+		"arrest_count": 108,
 		"reports": {
 			"summary": {
 				"command": "INTERNAL AFFAIRS BUREAU",
