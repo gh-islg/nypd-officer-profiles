@@ -7786,9 +7786,17 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 10
+				"misdemeanor": 11
 			},
 			"training": [
+				{
+					"date": "8/25/2023",
+					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
+				},
+				{
+					"date": "8/25/2023",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
 				{
 					"date": "7/25/2023",
 					"name": "FTS - ANNUAL CEW RECERTIFICATION"
@@ -23188,11 +23196,23 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 17,
+				"felony": 18,
 				"misdemeanor": 42,
 				"violation": 2
 			},
 			"training": [
+				{
+					"date": "8/30/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "8/29/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
+				{
+					"date": "8/18/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
 				{
 					"date": "8/15/2023",
 					"name": "CLT-ENFORCEMENT ACTIONS"
