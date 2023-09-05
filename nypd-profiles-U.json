@@ -12349,6 +12349,10 @@
 			},
 			"training": [
 				{
+					"date": "8/31/2023",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
 					"date": "8/16/2023",
 					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
 				},
@@ -13688,9 +13692,17 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 19
+				"misdemeanor": 20
 			},
 			"training": [
+				{
+					"date": "8/25/2023",
+					"name": "CLT-PATROL TACTICS ROLLCALL TRAINING VIDEO SERIES"
+				},
+				{
+					"date": "8/25/2023",
+					"name": "CLT-VOLUNTARY - INVOLUNTARY TRANSPORTS"
+				},
 				{
 					"date": "8/24/2023",
 					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
@@ -23085,6 +23097,10 @@
 			},
 			"training": [
 				{
+					"date": "9/4/2023",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
 					"date": "5/5/2023",
 					"name": "2023 LANGUAGE MATTERS - FOSTERING A POSITIVE WORK ENVIRONMENT"
 				},
@@ -27706,6 +27722,18 @@
 				"misdemeanor": 5
 			},
 			"training": [
+				{
+					"date": "8/25/2023",
+					"name": "CLT-PATROL TACTICS ROLLCALL TRAINING VIDEO SERIES"
+				},
+				{
+					"date": "8/24/2023",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
+				{
+					"date": "8/23/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
 				{
 					"date": "8/23/2023",
 					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
@@ -39876,6 +39904,10 @@
 			},
 			"training": [
 				{
+					"date": "8/26/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
+				{
 					"date": "8/10/2023",
 					"name": "CLT-PROCEDURAL OPERATIONS"
 				},
@@ -43925,6 +43957,14 @@
 				"misdemeanor": 29
 			},
 			"training": [
+				{
+					"date": "8/29/2023",
+					"name": "CLT-LEGAL ISSUES"
+				},
+				{
+					"date": "8/26/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
 				{
 					"date": "8/9/2023",
 					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
@@ -55554,6 +55594,10 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "8/29/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
 				{
 					"date": "8/23/2023",
 					"name": "TRAFFIC COURT TESTIMONY VIDEO"
@@ -91155,6 +91199,18 @@
 			},
 			"training": [
 				{
+					"date": "8/28/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "8/28/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
+				{
+					"date": "8/28/2023",
+					"name": "TRAFFIC COURT TESTIMONY VIDEO"
+				},
+				{
 					"date": "8/16/2023",
 					"name": "DEMO CERTIFICATION 3"
 				},
@@ -96128,6 +96184,18 @@
 			},
 			"training": [
 				{
+					"date": "8/31/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
+				{
+					"date": "8/31/2023",
+					"name": "TRAFFIC COURT TESTIMONY VIDEO"
+				},
+				{
+					"date": "8/29/2023",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
 					"date": "6/14/2023",
 					"name": "CLT-PARK SMART ROLLCALL PRESENTATION"
 				},
@@ -97873,6 +97941,22 @@
 				"misdemeanor": 6
 			},
 			"training": [
+				{
+					"date": "9/1/2023",
+					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
+				},
+				{
+					"date": "9/1/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
+				{
+					"date": "9/1/2023",
+					"name": "TRAFFIC COURT TESTIMONY VIDEO"
+				},
+				{
+					"date": "9/1/2023",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
 				{
 					"date": "8/21/2023",
 					"name": "CLT-PROCEDURAL OPERATIONS"
@@ -108548,11 +108632,15 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 20,
-				"misdemeanor": 96,
+				"felony": 21,
+				"misdemeanor": 98,
 				"other": 1
 			},
 			"training": [
+				{
+					"date": "8/31/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
 				{
 					"date": "8/4/2023",
 					"name": "TRAFFIC COURT TESTIMONY VIDEO"
@@ -118237,10 +118325,18 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 41,
+				"felony": 42,
 				"misdemeanor": 177
 			},
 			"training": [
+				{
+					"date": "9/2/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
+				{
+					"date": "9/2/2023",
+					"name": "TRAFFIC COURT TESTIMONY VIDEO"
+				},
 				{
 					"date": "7/11/2023",
 					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
@@ -135961,6 +136057,10 @@
 			},
 			"training": [
 				{
+					"date": "9/3/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
+				{
 					"date": "8/17/2023",
 					"name": "CLT-VOLUNTARY - INVOLUNTARY TRANSPORTS"
 				},
@@ -142175,7 +142275,7 @@
 		"shield_no": "19422",
 		"appt_date": "10/7/2015",
 		"recognition_count": 0,
-		"arrest_count": 38,
+		"arrest_count": 39,
 		"reports": {
 			"summary": {
 				"command": "001 PRECINCT",
