@@ -77566,6 +77566,10 @@
 			},
 			"training": [
 				{
+					"date": "9/10/2023",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
+				{
 					"date": "8/24/2023",
 					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
 				},
@@ -81463,7 +81467,7 @@
 		"shield_no": "28469",
 		"appt_date": "1/6/2020",
 		"recognition_count": 1,
-		"arrest_count": 59,
+		"arrest_count": 61,
 		"reports": {
 			"summary": {
 				"command": "110 PRECINCT",
@@ -119931,7 +119935,7 @@
 		"shield_no": "24649",
 		"appt_date": "7/5/2017",
 		"recognition_count": 4,
-		"arrest_count": 61,
+		"arrest_count": 62,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 7",
