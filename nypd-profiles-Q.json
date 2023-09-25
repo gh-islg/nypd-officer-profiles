@@ -30932,6 +30932,10 @@
 					"name": "CLT-PROCEDURAL OPERATIONS"
 				},
 				{
+					"date": "8/21/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
 					"date": "8/15/2023",
 					"name": "CLT-LEGAL ISSUES"
 				},
@@ -37260,10 +37264,18 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 6,
+				"felony": 7,
 				"misdemeanor": 18
 			},
 			"training": [
+				{
+					"date": "9/22/2023",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
+				{
+					"date": "9/14/2023",
+					"name": "CLT-PATROL TACTICS ROLLCALL TRAINING VIDEO SERIES"
+				},
 				{
 					"date": "9/13/2023",
 					"name": "CLT-DOCUMENTATION AND FORMS"
@@ -43397,6 +43409,14 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "9/21/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
+				{
+					"date": "9/18/2023",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
 				{
 					"date": "9/4/2023",
 					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
@@ -53897,10 +53917,22 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 15,
-				"misdemeanor": 22
+				"felony": 30,
+				"misdemeanor": 44
 			},
 			"training": [
+				{
+					"date": "9/23/2023",
+					"name": "CLT-ENFORCEMENT ACTIONS"
+				},
+				{
+					"date": "9/22/2023",
+					"name": "CLT-CRIME CONTROL STRATEGIES AND PROBLEM SOLVING"
+				},
+				{
+					"date": "9/15/2023",
+					"name": "CLT-CRIME CONTROL STRATEGIES AND PROBLEM SOLVING"
+				},
 				{
 					"date": "9/7/2023",
 					"name": "CLT-ENFORCEMENT ACTIONS"
@@ -110254,6 +110286,10 @@
 			},
 			"training": [
 				{
+					"date": "9/18/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
+				{
 					"date": "8/22/2023",
 					"name": "CLT-SPECIAL POPULATIONS"
 				},
@@ -135885,8 +135921,8 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 4,
-				"misdemeanor": 58
+				"felony": 2,
+				"misdemeanor": 29
 			},
 			"training": [
 				{
