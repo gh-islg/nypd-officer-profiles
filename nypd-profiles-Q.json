@@ -1595,7 +1595,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 2,
-				"felony": 73,
+				"felony": 74,
 				"misdemeanor": 223,
 				"violation": 6
 			},
@@ -56220,6 +56220,18 @@
 			},
 			"training": [
 				{
+					"date": "9/27/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "9/27/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "9/22/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
 					"date": "9/15/2023",
 					"name": "CLT-CRIME CONTROL STRATEGIES AND PROBLEM SOLVING"
 				},
@@ -70424,7 +70436,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 10,
-				"misdemeanor": 32,
+				"misdemeanor": 34,
 				"violation": 1
 			},
 			"training": [
@@ -95583,7 +95595,7 @@
 		"shield_no": "4572",
 		"appt_date": "2/28/1994",
 		"recognition_count": 0,
-		"arrest_count": 4,
+		"arrest_count": 2,
 		"reports": {
 			"summary": {
 				"command": "OPERATIONS & ANALYSIS SECTION",
