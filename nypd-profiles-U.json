@@ -10905,6 +10905,18 @@
 			},
 			"training": [
 				{
+					"date": "10/3/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "10/3/2023",
+					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
+				},
+				{
+					"date": "10/3/2023",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
+				{
 					"date": "9/18/2023",
 					"name": "CLT-CRIME CONTROL STRATEGIES AND PROBLEM SOLVING"
 				},
@@ -59571,11 +59583,15 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 86,
-				"misdemeanor": 220,
-				"violation": 1
+				"felony": 172,
+				"misdemeanor": 440,
+				"violation": 2
 			},
 			"training": [
+				{
+					"date": "10/3/2023",
+					"name": "FTS - NST - PST ADVANCED TACTICAL 1-DAY FIREARMS TRAINING COURSE"
+				},
 				{
 					"date": "6/21/2023",
 					"name": "2023 EQUAL EMPLOYMENT OPPORTUNITY TRAINING-SEXUAL HARASSMENT AWARENESS AND PREVENTION"
@@ -61159,11 +61175,27 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
+					"date": "2/18/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/9/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "9/9/2020",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
 					"date": "8/6/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/6/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/24/2020",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -61177,6 +61209,18 @@
 				{
 					"date": "6/26/2019",
 					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/26/2019",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/26/2019",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/2/2017",
+					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
 					"date": "4/2/2017",
@@ -72601,6 +72645,11 @@
 					"rank": "POLICE OFFICER",
 					"date": "7/9/2014",
 					"shield_no": "14621"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "9/29/2023",
+					"shield_no": "4903"
 				}
 			],
 			"documents": [],
@@ -109685,10 +109734,14 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 105,
-				"violation": 19
+				"misdemeanor": 210,
+				"violation": 38
 			},
 			"training": [
+				{
+					"date": "9/24/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
 				{
 					"date": "9/2/2023",
 					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
@@ -110755,6 +110808,10 @@
 				}
 			],
 			"awards": [
+				{
+					"date": "1/7/2021",
+					"name": "HONORABLE MENTION"
+				},
 				{
 					"date": "1/7/2021",
 					"name": "HONORABLE MENTION"
@@ -117764,10 +117821,22 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 14,
-				"misdemeanor": 31,
+				"misdemeanor": 32,
 				"violation": 3
 			},
 			"training": [
+				{
+					"date": "9/27/2023",
+					"name": "CLT-CRIME CONTROL STRATEGIES AND PROBLEM SOLVING"
+				},
+				{
+					"date": "9/27/2023",
+					"name": "CLT-PATROL TACTICS ROLLCALL TRAINING VIDEO SERIES"
+				},
+				{
+					"date": "9/25/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
 				{
 					"date": "9/16/2023",
 					"name": "CLT-CRIME CONTROL STRATEGIES AND PROBLEM SOLVING"
@@ -125015,9 +125084,29 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 189,
-				"misdemeanor": 291
+				"misdemeanor": 296
 			},
 			"training": [
+				{
+					"date": "10/3/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "9/29/2023",
+					"name": "CLT-ENFORCEMENT ACTIONS"
+				},
+				{
+					"date": "9/28/2023",
+					"name": "CLT-PATROL TACTICS ROLLCALL TRAINING VIDEO SERIES"
+				},
+				{
+					"date": "9/27/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "9/27/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
 				{
 					"date": "9/21/2023",
 					"name": "CLT-PROCEDURAL OPERATIONS"
@@ -131300,6 +131389,11 @@
 					"rank": "POLICE OFFICER",
 					"date": "7/8/2015",
 					"shield_no": "20801"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "9/29/2023",
+					"shield_no": "4908"
 				}
 			],
 			"documents": [],
@@ -131309,6 +131403,22 @@
 				"misdemeanor": 95
 			},
 			"training": [
+				{
+					"date": "9/26/2023",
+					"name": "CLT-COMMUNICATION STRATEGIES AND AIDS"
+				},
+				{
+					"date": "9/26/2023",
+					"name": "CLT-LEGAL ISSUES"
+				},
+				{
+					"date": "9/23/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "9/20/2023",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
 				{
 					"date": "9/19/2023",
 					"name": "CLT-CRIME CONTROL STRATEGIES AND PROBLEM SOLVING"
@@ -146527,6 +146637,10 @@
 				"violation": 5
 			},
 			"training": [
+				{
+					"date": "9/26/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
 				{
 					"date": "9/19/2023",
 					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
