@@ -3909,7 +3909,7 @@
 		"shield_no": "4652",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 47,
+		"arrest_count": 49,
 		"reports": {
 			"summary": {
 				"command": "044 PRECINCT",
@@ -8704,7 +8704,7 @@
 		"shield_no": "4036",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 21,
+		"arrest_count": 23,
 		"reports": {
 			"summary": {
 				"command": "060 PRECINCT",
@@ -8726,7 +8726,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 7,
-				"misdemeanor": 12,
+				"misdemeanor": 14,
 				"violation": 1
 			},
 			"training": [
@@ -13750,6 +13750,18 @@
 			},
 			"training": [
 				{
+					"date": "10/3/2023",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
+					"date": "9/29/2023",
+					"name": "CLT-PATROL TACTICS ROLLCALL TRAINING VIDEO SERIES"
+				},
+				{
+					"date": "9/29/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
 					"date": "9/21/2023",
 					"name": "CLT-CRIME CONTROL STRATEGIES AND PROBLEM SOLVING"
 				},
@@ -15895,6 +15907,14 @@
 				"misdemeanor": 5
 			},
 			"training": [
+				{
+					"date": "10/4/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "9/27/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
 				{
 					"date": "8/29/2023",
 					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
@@ -23212,6 +23232,14 @@
 			},
 			"training": [
 				{
+					"date": "10/3/2023",
+					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
+				},
+				{
+					"date": "10/2/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
 					"date": "9/18/2023",
 					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
 				},
@@ -24554,6 +24582,14 @@
 				"misdemeanor": 1
 			},
 			"training": [
+				{
+					"date": "9/29/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "9/29/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
 				{
 					"date": "8/24/2023",
 					"name": "CLT-VOLUNTARY - INVOLUNTARY TRANSPORTS"
@@ -36424,10 +36460,22 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 33,
+				"felony": 34,
 				"misdemeanor": 35
 			},
 			"training": [
+				{
+					"date": "10/4/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "10/4/2023",
+					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
+				},
+				{
+					"date": "10/4/2023",
+					"name": "VEHICLE MOUNTED VIDEO SYSTEM"
+				},
 				{
 					"date": "8/24/2023",
 					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
@@ -40130,12 +40178,29 @@
 				}
 			],
 			"documents": [],
-			"discipline": [],
+			"discipline": [
+				{
+					"entry": "2/25/2023 12:00:00 AM",
+					"allegations_count": 1,
+					"allegations": [
+						{
+							"recommendation": "B-CD",
+							"case_no": "2022-26983",
+							"description": "01.Failed to prepare required reports.",
+							"penalty": "B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"felony": 1,
 				"misdemeanor": 10
 			},
 			"training": [
+				{
+					"date": "9/21/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
 				{
 					"date": "9/17/2023",
 					"name": "CLT-PROCEDURAL OPERATIONS"
@@ -42006,13 +42071,34 @@
 				}
 			],
 			"documents": [],
-			"discipline": [],
+			"discipline": [
+				{
+					"entry": "7/7/2022 12:00:00 AM",
+					"allegations_count": 1,
+					"allegations": [
+						{
+							"recommendation": "TRAINING",
+							"case_no": "2020-22947",
+							"description": "01.Failed to process a civilian complaint.",
+							"penalty": "TRAINING"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"infraction": 1,
 				"felony": 28,
 				"misdemeanor": 40
 			},
 			"training": [
+				{
+					"date": "10/2/2023",
+					"name": "SERGEANTS DEVELOPMENT COURSE"
+				},
+				{
+					"date": "9/29/2023",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
 				{
 					"date": "9/1/2023",
 					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
@@ -44209,6 +44295,14 @@
 				"misdemeanor": 29
 			},
 			"training": [
+				{
+					"date": "10/3/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "10/3/2023",
+					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
+				},
 				{
 					"date": "9/11/2023",
 					"name": "CLT-INVESTIGATIONS"
@@ -55830,10 +55924,22 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 27,
-				"misdemeanor": 48,
+				"misdemeanor": 50,
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "10/5/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "10/5/2023",
+					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
+				},
+				{
+					"date": "10/5/2023",
+					"name": "VEHICLE MOUNTED VIDEO SYSTEM"
+				},
 				{
 					"date": "8/29/2023",
 					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
@@ -90819,6 +90925,14 @@
 			},
 			"training": [
 				{
+					"date": "9/28/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "9/26/2023",
+					"name": "CLT-PROFESSIONAL DEVELOPMENT"
+				},
+				{
 					"date": "9/15/2023",
 					"name": "CLT-DOCUMENTATION AND FORMS"
 				},
@@ -92818,6 +92932,18 @@
 				"misdemeanor": 13
 			},
 			"training": [
+				{
+					"date": "10/4/2023",
+					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
+				},
+				{
+					"date": "10/1/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "9/28/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
 				{
 					"date": "9/7/2023",
 					"name": "CLT-DOCUMENTATION AND FORMS"
@@ -95827,6 +95953,10 @@
 				"misdemeanor": 5
 			},
 			"training": [
+				{
+					"date": "9/25/2023",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
 				{
 					"date": "9/8/2023",
 					"name": "CONTERTERRORISM BUREAU SITE PROTECTION THROUGH OBSERVATIONAL TECHNIQUES"
@@ -99874,6 +100004,26 @@
 				"misdemeanor": 17
 			},
 			"training": [
+				{
+					"date": "10/5/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "10/4/2023",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "10/3/2023",
+					"name": "CLT-CRIME CONTROL STRATEGIES AND PROBLEM SOLVING"
+				},
+				{
+					"date": "10/3/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "10/3/2023",
+					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
+				},
 				{
 					"date": "9/15/2023",
 					"name": "CLT-CRIME CONTROL STRATEGIES AND PROBLEM SOLVING"
@@ -106066,7 +106216,7 @@
 		"shield_no": "24715",
 		"appt_date": "10/11/2016",
 		"recognition_count": 0,
-		"arrest_count": 120,
+		"arrest_count": 124,
 		"reports": {
 			"summary": {
 				"command": "043 PRECINCT",
@@ -115822,7 +115972,7 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 42,
+				"felony": 44,
 				"misdemeanor": 177
 			},
 			"training": [
@@ -133617,10 +133767,18 @@
 				}
 			],
 			"arrests": {
-				"felony": 9,
+				"felony": 10,
 				"misdemeanor": 19
 			},
 			"training": [
+				{
+					"date": "10/5/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "9/26/2023",
+					"name": "CLT-CRIME CONTROL STRATEGIES AND PROBLEM SOLVING"
+				},
 				{
 					"date": "9/20/2023",
 					"name": "TRAFFIC COURT TESTIMONY VIDEO"
