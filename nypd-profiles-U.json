@@ -46415,7 +46415,7 @@
 		"shield_no": "25014",
 		"appt_date": "10/7/2019",
 		"recognition_count": 4,
-		"arrest_count": 123,
+		"arrest_count": 130,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT BUREAU RESPONSE TEAM",
@@ -105415,6 +105415,10 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "10/2/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
 				{
 					"date": "9/18/2023",
 					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
