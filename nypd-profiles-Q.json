@@ -11876,6 +11876,18 @@
 			},
 			"training": [
 				{
+					"date": "10/12/2023",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "10/12/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "10/10/2023",
+					"name": "VEHICLE MOUNTED VIDEO SYSTEM"
+				},
+				{
 					"date": "10/2/2023",
 					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
 				},
@@ -25047,7 +25059,7 @@
 		"shield_no": "4905",
 		"appt_date": "1/9/2012",
 		"recognition_count": 13,
-		"arrest_count": 318,
+		"arrest_count": 319,
 		"reports": {
 			"summary": {
 				"command": "075 DET SQUAD",
@@ -62257,7 +62269,7 @@
 		"shield_no": "24015",
 		"appt_date": "7/6/2011",
 		"recognition_count": 2,
-		"arrest_count": 159,
+		"arrest_count": 160,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 1",
@@ -89837,6 +89849,18 @@
 			},
 			"training": [
 				{
+					"date": "10/12/2023",
+					"name": "VEHICLE MOUNTED VIDEO SYSTEM"
+				},
+				{
+					"date": "10/3/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "10/3/2023",
+					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
+				},
+				{
 					"date": "9/3/2023",
 					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
 				},
@@ -98854,7 +98878,7 @@
 		"shield_no": "9428",
 		"appt_date": "1/9/2013",
 		"recognition_count": 0,
-		"arrest_count": 80,
+		"arrest_count": 81,
 		"reports": {
 			"summary": {
 				"command": "122 PRECINCT",
@@ -105750,6 +105774,10 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "10/11/2023",
+					"name": "NEIGHBORHOOD SAFETY TEAM 2-DAY REFRESHER COURSE"
+				},
 				{
 					"date": "8/21/2023",
 					"name": "TRAFFIC COURT TESTIMONY VIDEO"
@@ -113156,6 +113184,10 @@
 				{
 					"date": "10/2/2023",
 					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "10/2/2023",
+					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
 				},
 				{
 					"date": "8/28/2023",
@@ -130839,13 +130871,40 @@
 				}
 			],
 			"documents": [],
-			"discipline": [],
+			"discipline": [
+				{
+					"entry": "6/14/2023 12:00:00 AM",
+					"allegations_count": 2,
+					"allegations": [
+						{
+							"recommendation": "A-CD",
+							"case_no": "2022-27614",
+							"description": "01.Wrongful entry of a premises.",
+							"penalty": "A - COMMAND DISCIPLINE"
+						},
+						{
+							"recommendation": "A-CD",
+							"case_no": "2022-27614",
+							"description": "02.Wrongfully damaged property.",
+							"penalty": "A - COMMAND DISCIPLINE"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"felony": 15,
 				"misdemeanor": 27,
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "10/13/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "10/6/2023",
+					"name": "NEIGHBORHOOD SAFETY TEAM TRAINING, 7-DAY COURSE"
+				},
 				{
 					"date": "9/27/2023",
 					"name": "FTS - ANNUAL CEW RECERTIFICATION"
@@ -148094,7 +148153,7 @@
 		"shield_no": "24054",
 		"appt_date": "7/6/2011",
 		"recognition_count": 4,
-		"arrest_count": 113,
+		"arrest_count": 114,
 		"reports": {
 			"summary": {
 				"command": "067 PRECINCT",
