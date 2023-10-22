@@ -23098,7 +23098,7 @@
 		"shield_no": "25566",
 		"appt_date": "7/7/2021",
 		"recognition_count": 0,
-		"arrest_count": 27,
+		"arrest_count": 28,
 		"reports": {
 			"summary": {
 				"command": "103 PRECINCT",
@@ -30177,6 +30177,42 @@
 			},
 			"training": [
 				{
+					"date": "10/19/2023",
+					"name": "2023 LANGUAGE MATTERS - FOSTERING A POSITIVE WORK ENVIRONMENT"
+				},
+				{
+					"date": "10/19/2023",
+					"name": "ESPER POLICY LIBRARY"
+				},
+				{
+					"date": "10/19/2023",
+					"name": "NATIONAL INCIDENT-BASED REPORTING SYSTEM (NIBRS) UPDATES TO THE OMNIFORM COMPLAINT SYSTEMV"
+				},
+				{
+					"date": "10/19/2023",
+					"name": "VEHICLE MOUNTED VIDEO SYSTEM"
+				},
+				{
+					"date": "10/19/2023",
+					"name": "VIDEO 4 - PLATFORM SAFETY 2022"
+				},
+				{
+					"date": "10/18/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "10/18/2023",
+					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
+				},
+				{
+					"date": "10/18/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
+				{
+					"date": "10/18/2023",
+					"name": "NYPD RECRUITMENT TRAINING VIDEO"
+				},
+				{
 					"date": "8/11/2023",
 					"name": "2023 EQUAL EMPLOYMENT OPPORTUNITY TRAINING-SEXUAL HARASSMENT AWARENESS AND PREVENTION"
 				},
@@ -33763,7 +33799,7 @@
 			],
 			"arrests": {
 				"infraction": 1,
-				"felony": 27,
+				"felony": 28,
 				"misdemeanor": 141,
 				"violation": 3
 			},
@@ -61254,7 +61290,7 @@
 		"shield_no": "26805",
 		"appt_date": "7/7/2021",
 		"recognition_count": 0,
-		"arrest_count": 25,
+		"arrest_count": 26,
 		"reports": {
 			"summary": {
 				"command": "120 PRECINCT",
@@ -81685,7 +81721,7 @@
 		"shield_no": "21203",
 		"appt_date": "12/29/2021",
 		"recognition_count": 0,
-		"arrest_count": 18,
+		"arrest_count": 21,
 		"reports": {
 			"summary": {
 				"command": "018 PCT-MIDTOWN NO. PCT",
@@ -155772,6 +155808,10 @@
 			},
 			"training": [
 				{
+					"date": "10/17/2023",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
 					"date": "10/11/2023",
 					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
 				},
@@ -165764,7 +165804,7 @@
 		"shield_no": "27959",
 		"appt_date": "7/7/2021",
 		"recognition_count": 0,
-		"arrest_count": 7,
+		"arrest_count": 16,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 5",
