@@ -46881,7 +46881,7 @@
 		"shield_no": "25014",
 		"appt_date": "10/7/2019",
 		"recognition_count": 4,
-		"arrest_count": 132,
+		"arrest_count": 134,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT BUREAU RESPONSE TEAM",
@@ -138212,6 +138212,10 @@
 				{
 					"date": "8/16/2023",
 					"name": "ILERSBA - INITIAL LAW ENFORCMENT RESPONSE TO SUICIDE BOMBING ATTACKS"
+				},
+				{
+					"date": "8/8/2023",
+					"name": "DRONE ASSESSMENT AND RESPONSE TACTICS (AWR-404)"
 				},
 				{
 					"date": "8/7/2023",
