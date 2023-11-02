@@ -30655,8 +30655,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "24862",
 		"appt_date": "1/10/2005",
-		"recognition_count": 16,
-		"arrest_count": 362,
+		"recognition_count": 8,
+		"arrest_count": 181,
 		"reports": {
 			"summary": {
 				"command": "PATROL BORO QUEENS NORTH",
@@ -123365,7 +123365,7 @@
 		"shield_no": "20097",
 		"appt_date": "1/10/2005",
 		"recognition_count": 0,
-		"arrest_count": 393,
+		"arrest_count": 394,
 		"reports": {
 			"summary": {
 				"command": "028 PRECINCT",
@@ -151170,7 +151170,7 @@
 		"shield_no": "6185",
 		"appt_date": "1/11/2010",
 		"recognition_count": 27,
-		"arrest_count": 320,
+		"arrest_count": 323,
 		"reports": {
 			"summary": {
 				"command": "070 PRECINCT",
