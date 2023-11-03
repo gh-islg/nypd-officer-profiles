@@ -34747,8 +34747,8 @@
 		"arrest_count": 127,
 		"reports": {
 			"summary": {
-				"command": "062 PRECINCT",
-				"assignment_date": "3/10/2022",
+				"command": "TB BUS ENFORCEMENT UNIT",
+				"assignment_date": "10/23/2023",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "SERGEANT",
 				"shield_no": "2770",
@@ -35991,7 +35991,7 @@
 				}
 			]
 		},
-		"command": "062 PRECINCT"
+		"command": "TB BUS ENFORCEMENT UNIT"
 	},
 	{
 		"taxid": 942389,
@@ -71748,6 +71748,10 @@
 				"violation": 39
 			},
 			"training": [
+				{
+					"date": "10/24/2023",
+					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 5 SQF LEVELS 3 AND 4"
+				},
 				{
 					"date": "10/17/2023",
 					"name": "NYPD RECRUITMENT TRAINING VIDEO"
@@ -111170,6 +111174,10 @@
 				"violation": 12
 			},
 			"training": [
+				{
+					"date": "11/1/2023",
+					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 5 SQF LEVELS 3 AND 4"
+				},
 				{
 					"date": "10/2/2023",
 					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
