@@ -7954,6 +7954,10 @@
 			},
 			"training": [
 				{
+					"date": "11/2/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
 					"date": "10/2/2023",
 					"name": "CLT-DOCUMENTATION AND FORMS"
 				},
@@ -23705,6 +23709,18 @@
 				"violation": 2
 			},
 			"training": [
+				{
+					"date": "11/2/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "11/1/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "10/30/2023",
+					"name": "CLT-PATROL TACTICS ROLLCALL TRAINING VIDEO SERIES"
+				},
 				{
 					"date": "10/23/2023",
 					"name": "CLT-PATROL TACTICS ROLLCALL TRAINING VIDEO SERIES"
