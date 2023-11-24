@@ -11103,8 +11103,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "22370",
 		"appt_date": "1/7/2015",
-		"recognition_count": 2,
-		"arrest_count": 104,
+		"recognition_count": 1,
+		"arrest_count": 52,
 		"reports": {
 			"summary": {
 				"command": "090 PRECINCT",
@@ -61978,6 +61978,10 @@
 				},
 				{
 					"date": "10/24/2017",
+					"name": "COUNTERTERRORISM BUREAU FACILITY AWARENESS VIDEO-EMPIRE STATE BUILDING"
+				},
+				{
+					"date": "10/24/2017",
 					"name": "CRIME CONTROL STRATEGIES- COMMUNITY SUPERVISION"
 				},
 				{
@@ -68976,13 +68980,21 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 36,
-				"misdemeanor": 78
+				"felony": 18,
+				"misdemeanor": 39
 			},
 			"training": [
 				{
+					"date": "11/17/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
 					"date": "11/11/2023",
 					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "11/10/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
 				},
 				{
 					"date": "11/1/2023",
@@ -69007,6 +69019,10 @@
 				{
 					"date": "10/14/2023",
 					"name": "VEHICLE MOUNTED VIDEO SYSTEM"
+				},
+				{
+					"date": "10/12/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
 				},
 				{
 					"date": "10/12/2023",
@@ -133639,6 +133655,18 @@
 				"misdemeanor": 95
 			},
 			"training": [
+				{
+					"date": "11/22/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "11/17/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
+				},
+				{
+					"date": "11/16/2023",
+					"name": "AUGMENTED REALITY FEATURE"
+				},
 				{
 					"date": "11/11/2023",
 					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 5 SQF LEVELS 3 AND 4"
