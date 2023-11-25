@@ -2452,9 +2452,13 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 13,
-				"misdemeanor": 31
+				"misdemeanor": 33
 			},
 			"training": [
+				{
+					"date": "11/17/2023",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
 				{
 					"date": "11/10/2023",
 					"name": "CLT-LEGAL ISSUES"
@@ -5035,6 +5039,18 @@
 				"violation": 4
 			},
 			"training": [
+				{
+					"date": "11/19/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "11/19/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "11/19/2023",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
 				{
 					"date": "11/7/2023",
 					"name": "CLT-BWC POLICY UPDATES"
@@ -7655,6 +7671,14 @@
 				"misdemeanor": 20
 			},
 			"training": [
+				{
+					"date": "11/20/2023",
+					"name": "AUGMENTED REALITY FEATURE"
+				},
+				{
+					"date": "11/15/2023",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
 				{
 					"date": "11/4/2023",
 					"name": "ELDER ABUSE -2023 REFRESHER"
@@ -15929,6 +15953,22 @@
 			},
 			"training": [
 				{
+					"date": "11/19/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
+				},
+				{
+					"date": "11/14/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "11/14/2023",
+					"name": "NYPD RECRUITMENT TRAINING VIDEO"
+				},
+				{
+					"date": "11/14/2023",
+					"name": "VEHICLE MOUNTED VIDEO SYSTEM"
+				},
+				{
 					"date": "8/30/2023",
 					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
 				},
@@ -16860,6 +16900,10 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "11/20/2023",
+					"name": "AUGMENTED REALITY FEATURE"
+				},
 				{
 					"date": "11/1/2023",
 					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 5 SQF LEVELS 3 AND 4"
@@ -37819,6 +37863,18 @@
 			},
 			"training": [
 				{
+					"date": "11/17/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
+				},
+				{
+					"date": "11/16/2023",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
+				{
+					"date": "11/14/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
+				},
+				{
 					"date": "11/6/2023",
 					"name": "CLT-DOCUMENTATION AND FORMS"
 				},
@@ -44071,7 +44127,7 @@
 		"shield_no": "10967",
 		"appt_date": "7/13/2016",
 		"recognition_count": 0,
-		"arrest_count": 7,
+		"arrest_count": 14,
 		"reports": {
 			"summary": {
 				"command": "BRONX COURT SECTION",
@@ -44091,10 +44147,14 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 6,
-				"violation": 1
+				"misdemeanor": 12,
+				"violation": 2
 			},
 			"training": [
+				{
+					"date": "11/16/2023",
+					"name": "AUGMENTED REALITY FEATURE"
+				},
 				{
 					"date": "11/7/2023",
 					"name": "ELDER ABUSE -2023 REFRESHER"
@@ -54768,6 +54828,10 @@
 			},
 			"training": [
 				{
+					"date": "11/18/2023",
+					"name": "12 PASSENGER VAN / UTILITY VEHICLE QUALIFICATION"
+				},
+				{
 					"date": "10/31/2023",
 					"name": "CLT-ENFORCEMENT ACTIONS"
 				},
@@ -56130,6 +56194,62 @@
 				"misdemeanor": 13
 			},
 			"training": [
+				{
+					"date": "11/16/2023",
+					"name": "ACTIVITY LOG FOR IPHONE"
+				},
+				{
+					"date": "11/16/2023",
+					"name": "AUGMENTED REALITY FEATURE"
+				},
+				{
+					"date": "11/16/2023",
+					"name": "PERSONNEL BUREAU NYPD EMPLOYEE ASSISTANCE UNIT (EAU)"
+				},
+				{
+					"date": "11/16/2023",
+					"name": "PROCESSING DISCOVERY MATERIAL IN THE FORMS ARREST FOLDER"
+				},
+				{
+					"date": "11/16/2023",
+					"name": "RESPONDING TO PEOPLE IN CRISIS - MODULE 1: SENDING THE RIGHT SIGNALS"
+				},
+				{
+					"date": "11/16/2023",
+					"name": "RESPONDING TO PEOPLE IN CRISIS - MODULES 2 AND 3: ACTIVE LISTENING PARTS 1 AND 2"
+				},
+				{
+					"date": "11/16/2023",
+					"name": "SAFEGUARDING PRISONERS - OFFICER SAFETY GUIDELINES"
+				},
+				{
+					"date": "11/15/2023",
+					"name": "DISCHARGING YOUR FIREARM AT A MOVING THREAT"
+				},
+				{
+					"date": "11/15/2023",
+					"name": "DOMESTIC VIOLENCE EDUCATION AND COUNSELING"
+				},
+				{
+					"date": "11/15/2023",
+					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 5 SQF LEVELS 3 AND 4"
+				},
+				{
+					"date": "11/15/2023",
+					"name": "LEGAL BUREAU PERFORMANCE METRICS - PROHIBITED CONDUCT"
+				},
+				{
+					"date": "11/15/2023",
+					"name": "PROCESSING CIVILIAN COMPLAINTS"
+				},
+				{
+					"date": "11/15/2023",
+					"name": "RAISING THE LOWER AGE OF JUVENILE DELINQUENCY"
+				},
+				{
+					"date": "11/15/2023",
+					"name": "VEHICLE MOUNTED VIDEO SYSTEM"
+				},
 				{
 					"date": "11/8/2023",
 					"name": "CJB - OVERVIEW OF THE NEW DISCOVERY LAWS"
@@ -76681,6 +76801,10 @@
 				"violation": 7
 			},
 			"training": [
+				{
+					"date": "11/14/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
 				{
 					"date": "11/9/2023",
 					"name": "ELDER ABUSE -2023 REFRESHER"
@@ -105352,8 +105476,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "5541",
 		"appt_date": "7/8/2015",
-		"recognition_count": 14,
-		"arrest_count": 91,
+		"recognition_count": 28,
+		"arrest_count": 182,
 		"reports": {
 			"summary": {
 				"command": "113 PRECINCT",
@@ -110546,6 +110670,10 @@
 			},
 			"training": [
 				{
+					"date": "11/16/2023",
+					"name": "CRISIS INTERVENTION TEAM TRAINING"
+				},
+				{
 					"date": "11/4/2023",
 					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
 				},
@@ -112888,7 +113016,7 @@
 		"shield_no": "1855",
 		"appt_date": "7/9/2013",
 		"recognition_count": 0,
-		"arrest_count": 306,
+		"arrest_count": 307,
 		"reports": {
 			"summary": {
 				"command": "111TH DET SQUAD",
@@ -147675,7 +147803,7 @@
 		"shield_no": "3477",
 		"appt_date": "1/7/2015",
 		"recognition_count": 1,
-		"arrest_count": 175,
+		"arrest_count": 176,
 		"reports": {
 			"summary": {
 				"command": "120 DETECTIVE SQUAD",
