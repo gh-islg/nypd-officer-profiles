@@ -69614,6 +69614,10 @@
 			},
 			"training": [
 				{
+					"date": "12/6/2023",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
+				{
 					"date": "11/21/2023",
 					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
 				},
@@ -69652,6 +69656,10 @@
 				{
 					"date": "11/21/2023",
 					"name": "VEHICLE MOUNTED VIDEO SYSTEM"
+				},
+				{
+					"date": "11/20/2023",
+					"name": "CONTERTERRORISM BUREAU SITE PROTECTION THROUGH OBSERVATIONAL TECHNIQUES"
 				},
 				{
 					"date": "8/30/2023",
@@ -101795,6 +101803,10 @@
 			},
 			"training": [
 				{
+					"date": "11/29/2023",
+					"name": "NYPD RECRUITMENT TRAINING VIDEO"
+				},
+				{
 					"date": "11/11/2023",
 					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
 				},
@@ -123067,8 +123079,24 @@
 			},
 			"training": [
 				{
+					"date": "12/7/2023",
+					"name": "AUGMENTED REALITY FEATURE"
+				},
+				{
+					"date": "11/29/2023",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "11/29/2023",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
+				{
 					"date": "11/22/2023",
 					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "11/21/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
 				},
 				{
 					"date": "11/17/2023",
