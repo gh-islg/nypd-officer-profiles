@@ -5134,6 +5134,10 @@
 			},
 			"training": [
 				{
+					"date": "12/10/2023",
+					"name": "2023 TASER X26P RE-QUALIFICATION"
+				},
+				{
 					"date": "11/25/2023",
 					"name": "AUGMENTED REALITY FEATURE"
 				},
@@ -26629,6 +26633,10 @@
 			},
 			"training": [
 				{
+					"date": "12/1/2023",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
+				{
 					"date": "11/11/2023",
 					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
 				},
@@ -35467,6 +35475,14 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "12/7/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "12/6/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
+				},
 				{
 					"date": "11/25/2023",
 					"name": "2021 EXECUTIVE CONFERENCE - VIDEOS"
@@ -49900,6 +49916,30 @@
 				"violation": 13
 			},
 			"training": [
+				{
+					"date": "12/9/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "12/7/2023",
+					"name": "AUGMENTED REALITY FEATURE"
+				},
+				{
+					"date": "12/7/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "12/7/2023",
+					"name": "ELDER ABUSE -2023 REFRESHER"
+				},
+				{
+					"date": "12/5/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "12/4/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
+				},
 				{
 					"date": "11/15/2023",
 					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
@@ -73309,6 +73349,14 @@
 			},
 			"training": [
 				{
+					"date": "12/11/2023",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
+				{
+					"date": "12/4/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
+				},
+				{
 					"date": "11/20/2023",
 					"name": "AUGMENTED REALITY FEATURE"
 				},
@@ -74691,6 +74739,10 @@
 				{
 					"date": "8/12/2017",
 					"name": "FAQ: HOW TO SYNC YOUR DEPARTMENT SMARTPHONE"
+				},
+				{
+					"date": "8/12/2017",
+					"name": "LOCATING APPLE DEVICES USING YOUR DEPARTMENT SMARTPHONE"
 				},
 				{
 					"date": "8/12/2017",
@@ -87078,6 +87130,10 @@
 			},
 			"training": [
 				{
+					"date": "12/8/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
+				},
+				{
 					"date": "11/21/2023",
 					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
 				},
@@ -95329,6 +95385,10 @@
 				"violation": 8
 			},
 			"training": [
+				{
+					"date": "12/8/2023",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
 				{
 					"date": "6/15/2023",
 					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 4 SQF LEVELS 2, 3 AND 4"
@@ -119262,6 +119322,14 @@
 			},
 			"training": [
 				{
+					"date": "12/8/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
+				},
+				{
+					"date": "12/4/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
 					"date": "12/1/2023",
 					"name": "CLT-PROCEDURAL OPERATIONS"
 				},
@@ -137162,6 +137230,10 @@
 					"name": "2023 TASER X26P RE-QUALIFICATION"
 				},
 				{
+					"date": "11/26/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
 					"date": "11/20/2023",
 					"name": "CLT-SPECIAL POPULATIONS"
 				},
@@ -148899,7 +148971,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 35,
-				"misdemeanor": 57,
+				"misdemeanor": 59,
 				"violation": 5
 			},
 			"training": [
@@ -154292,6 +154364,18 @@
 				"misdemeanor": 45
 			},
 			"training": [
+				{
+					"date": "12/8/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
+				},
+				{
+					"date": "12/6/2023",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
+				{
+					"date": "12/4/2023",
+					"name": "AUGMENTED REALITY FEATURE"
+				},
 				{
 					"date": "11/18/2023",
 					"name": "CLT-PROCEDURAL OPERATIONS"
