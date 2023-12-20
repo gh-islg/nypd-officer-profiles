@@ -63066,6 +63066,18 @@
 			},
 			"training": [
 				{
+					"date": "12/13/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
+				},
+				{
+					"date": "12/12/2023",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
+					"date": "12/9/2023",
+					"name": "ELDER ABUSE -2023 REFRESHER"
+				},
+				{
 					"date": "12/7/2023",
 					"name": "2023 TASER X26P RE-QUALIFICATION"
 				},
@@ -99389,10 +99401,10 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 75,
-				"misdemeanor": 236,
-				"other": 1,
-				"violation": 28
+				"felony": 150,
+				"misdemeanor": 472,
+				"other": 2,
+				"violation": 56
 			},
 			"training": [
 				{
@@ -100135,7 +100147,19 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
+					"date": "2/12/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "1/1/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/1/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/11/2012",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -100147,7 +100171,19 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
+					"date": "7/28/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "7/14/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/14/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/9/2011",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -100159,11 +100195,27 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
+					"date": "5/20/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/3/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "11/3/2010",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
 					"date": "1/28/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/28/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/10/2009",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -148143,6 +148195,18 @@
 			},
 			"training": [
 				{
+					"date": "12/17/2023",
+					"name": "CLT-LEGAL ISSUES"
+				},
+				{
+					"date": "12/10/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "12/10/2023",
+					"name": "CLT-PROFESSIONAL DEVELOPMENT"
+				},
+				{
 					"date": "12/5/2023",
 					"name": "CLT-PROCEDURAL OPERATIONS"
 				},
@@ -153691,8 +153755,8 @@
 		"arrest_count": 143,
 		"reports": {
 			"summary": {
-				"command": "BX EVIDENCE COLLECTION TEAM",
-				"assignment_date": "7/14/2016",
+				"command": "CRIME SCENE UNIT",
+				"assignment_date": "12/18/2023",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "19660",
@@ -154393,7 +154457,7 @@
 				}
 			]
 		},
-		"command": "BX EVIDENCE COLLECTION TEAM"
+		"command": "CRIME SCENE UNIT"
 	},
 	{
 		"taxid": 955611,
