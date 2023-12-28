@@ -45386,7 +45386,7 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "25014",
 		"appt_date": "10/7/2019",
-		"recognition_count": 4,
+		"recognition_count": 16,
 		"arrest_count": 140,
 		"reports": {
 			"summary": {
@@ -47337,7 +47337,7 @@
 		"first_name": "JORGE",
 		"last_name": "ULLOA",
 		"middle_initial": "E",
-		"rank": "DETECTIVE 3RD GRADE",
+		"rank": "DETECTIVE 2ND GRADE",
 		"shield_no": "4388",
 		"appt_date": "9/29/2000",
 		"recognition_count": 4,
@@ -47347,7 +47347,7 @@
 				"command": "DA SQUAD BROOKLYN",
 				"assignment_date": "6/18/2020",
 				"ethnicity": "HISPANIC",
-				"rank_desc": "DETECTIVE 3RD GRADE",
+				"rank_desc": "DETECTIVE 2ND GRADE",
 				"shield_no": "4388",
 				"appt_date": "9/29/2000"
 			},
@@ -80121,7 +80121,7 @@
 		"shield_no": "6397",
 		"appt_date": "10/7/2019",
 		"recognition_count": 3,
-		"arrest_count": 45,
+		"arrest_count": 47,
 		"reports": {
 			"summary": {
 				"command": "075 PRECINCT",
@@ -81622,6 +81622,18 @@
 				"misdemeanor": 47
 			},
 			"training": [
+				{
+					"date": "12/25/2023",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "12/25/2023",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "12/25/2023",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
 				{
 					"date": "12/9/2023",
 					"name": "CLT-PROCEDURAL OPERATIONS"
@@ -83979,6 +83991,14 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "12/19/2023",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "12/19/2023",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
 				{
 					"date": "12/6/2023",
 					"name": "ELDER ABUSE -2023 REFRESHER"
