@@ -15781,6 +15781,34 @@
 			},
 			"training": [
 				{
+					"date": "12/28/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
+				},
+				{
+					"date": "12/26/2023",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "12/26/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
+				},
+				{
+					"date": "12/25/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
+				},
+				{
+					"date": "12/24/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
+				},
+				{
 					"date": "12/21/2023",
 					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
 				},
@@ -29823,6 +29851,11 @@
 					"rank": "POLICE OFFICER",
 					"date": "7/11/2012",
 					"shield_no": "8031"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "12/22/2023",
+					"shield_no": "1666"
 				}
 			],
 			"documents": [],

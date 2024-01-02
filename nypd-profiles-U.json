@@ -16630,6 +16630,58 @@
 			},
 			"training": [
 				{
+					"date": "12/30/2023",
+					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
+				},
+				{
+					"date": "12/30/2023",
+					"name": "AUGMENTED REALITY FEATURE"
+				},
+				{
+					"date": "12/30/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "12/30/2023",
+					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
+				},
+				{
+					"date": "12/30/2023",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
+				{
+					"date": "12/30/2023",
+					"name": "NYPD RECRUITMENT TRAINING VIDEO"
+				},
+				{
+					"date": "12/30/2023",
+					"name": "TRAFFIC COURT TESTIMONY VIDEO"
+				},
+				{
+					"date": "12/30/2023",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
+				{
+					"date": "12/29/2023",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "12/29/2023",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
+					"date": "12/29/2023",
+					"name": "VEHICLE MOUNTED VIDEO SYSTEM"
+				},
+				{
+					"date": "12/24/2023",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "12/24/2023",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
 					"date": "11/5/2023",
 					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 5 SQF LEVELS 3 AND 4"
 				},
@@ -34392,6 +34444,14 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "12/28/2023",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "12/28/2023",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
 				{
 					"date": "12/20/2023",
 					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
@@ -64825,6 +64885,18 @@
 			},
 			"training": [
 				{
+					"date": "12/27/2023",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
 					"date": "12/18/2023",
 					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
 				},
@@ -86292,6 +86364,22 @@
 				"violation": 6
 			},
 			"training": [
+				{
+					"date": "12/27/2023",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
 				{
 					"date": "12/13/2023",
 					"name": "FTS - ANNUAL CEW RECERTIFICATION"
@@ -110549,8 +110637,8 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 105,
-				"violation": 19
+				"misdemeanor": 210,
+				"violation": 38
 			},
 			"training": [
 				{
@@ -111647,6 +111735,10 @@
 				}
 			],
 			"awards": [
+				{
+					"date": "1/7/2021",
+					"name": "HONORABLE MENTION"
+				},
 				{
 					"date": "1/7/2021",
 					"name": "HONORABLE MENTION"
@@ -136849,6 +136941,66 @@
 				"violation": 5
 			},
 			"training": [
+				{
+					"date": "12/27/2023",
+					"name": "AUGMENTED REALITY FEATURE"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "CPS INTERIOR PATROL TRESPASS AFFIDAVIT PROGRAM (TAP) VIDEO 1"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "ELDER ABUSE -2023 REFRESHER"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 5 SQF LEVELS 3 AND 4"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "NYPD RECRUITMENT TRAINING VIDEO"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "TACTICAL AWARENESS-SMARTPHONE SAFETY"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "TRAFFIC COURT TESTIMONY VIDEO"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "VEHICLE MOUNTED VIDEO SYSTEM"
+				},
 				{
 					"date": "11/28/2023",
 					"name": "2023 TASER X26P RE-QUALIFICATION"
