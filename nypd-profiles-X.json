@@ -8078,6 +8078,22 @@
 			},
 			"training": [
 				{
+					"date": "12/24/2023",
+					"name": "HEALTH AND WELLNESS SECTION - FINANCIAL LITERACY SERIES - MODULE 2 - YOUR INCOME AND EXPENSES"
+				},
+				{
+					"date": "12/24/2023",
+					"name": "HEALTH AND WELLNESS SECTION - FINANCIAL LITERACY SERIES - MODULE 3 - YOUR SPENDING AND SAVINGS PLAN"
+				},
+				{
+					"date": "12/24/2023",
+					"name": "HEALTH AND WELLNESS SECTION - FINANCIAL LITERACY SERIES - MODULE 4 - MANAGING DEBT"
+				},
+				{
+					"date": "12/24/2023",
+					"name": "HEALTH AND WELLNESS SECTION - MYPLATE APP TUTORIAL"
+				},
+				{
 					"date": "12/23/2023",
 					"name": "HEALTH AND WELLNESS SECTION - CHILD MIND INSTITUTE VIDEO SERIES - MODULE 1 - BEHAVIOR MANAGEMENT STR"
 				},
@@ -12283,6 +12299,14 @@
 				"violation": 11
 			},
 			"training": [
+				{
+					"date": "12/27/2023",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
 				{
 					"date": "12/20/2023",
 					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
@@ -29832,18 +29856,18 @@
 		"first_name": "HANG",
 		"last_name": "XU",
 		"middle_initial": "",
-		"rank": "POLICE OFFICER",
-		"shield_no": "8031",
+		"rank": "SERGEANT",
+		"shield_no": "1666",
 		"appt_date": "7/11/2012",
 		"recognition_count": 3,
 		"arrest_count": 85,
 		"reports": {
 			"summary": {
-				"command": "007 PRECINCT",
-				"assignment_date": "1/7/2023",
+				"command": "UNIFORMED PROMOTIONS TRN UNIT",
+				"assignment_date": "12/22/2023",
 				"ethnicity": "ASIAN",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "8031",
+				"rank_desc": "SERGEANT",
+				"shield_no": "1666",
 				"appt_date": "7/11/2012"
 			},
 			"ranks": [
@@ -31990,7 +32014,7 @@
 				}
 			]
 		},
-		"command": "007 PRECINCT"
+		"command": "UNIFORMED PROMOTIONS TRN UNIT"
 	},
 	{
 		"taxid": 945118,
