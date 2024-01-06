@@ -89229,9 +89229,9 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 414,
-				"misdemeanor": 539,
-				"other": 1
+				"felony": 828,
+				"misdemeanor": 1078,
+				"other": 2
 			},
 			"training": [
 				{
@@ -89457,6 +89457,14 @@
 				{
 					"date": "8/25/1995",
 					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/25/1995",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/19/1994",
+					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
 					"date": "8/19/1994",
@@ -139252,6 +139260,46 @@
 			},
 			"training": [
 				{
+					"date": "12/29/2023",
+					"name": "AUGMENTED REALITY FEATURE"
+				},
+				{
+					"date": "12/29/2023",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "12/29/2023",
+					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
+				},
+				{
+					"date": "12/29/2023",
+					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 5 SQF LEVELS 3 AND 4"
+				},
+				{
+					"date": "12/29/2023",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "12/29/2023",
+					"name": "NYPD RECRUITMENT TRAINING VIDEO"
+				},
+				{
+					"date": "12/29/2023",
+					"name": "VEHICLE MOUNTED VIDEO SYSTEM"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
 					"date": "8/30/2023",
 					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
 				},
@@ -141135,7 +141183,7 @@
 		"shield_no": "12605",
 		"appt_date": "6/30/1992",
 		"recognition_count": 0,
-		"arrest_count": 63,
+		"arrest_count": 126,
 		"reports": {
 			"summary": {
 				"command": "032 PRECINCT",
