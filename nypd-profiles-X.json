@@ -5046,6 +5046,10 @@
 			},
 			"training": [
 				{
+					"date": "1/2/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
 					"date": "12/22/2023",
 					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
 				},
@@ -27388,7 +27392,7 @@
 		"shield_no": "20536",
 		"appt_date": "7/1/2019",
 		"recognition_count": 0,
-		"arrest_count": 107,
+		"arrest_count": 109,
 		"reports": {
 			"summary": {
 				"command": "046 PRECINCT",
