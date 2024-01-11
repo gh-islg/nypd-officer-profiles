@@ -8161,6 +8161,22 @@
 			},
 			"training": [
 				{
+					"date": "1/3/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "1/3/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "1/3/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
+					"date": "12/27/2023",
+					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
+				},
+				{
 					"date": "12/20/2023",
 					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
 				},
@@ -25918,7 +25934,7 @@
 		"shield_no": "4821",
 		"appt_date": "10/12/2021",
 		"recognition_count": 0,
-		"arrest_count": 10,
+		"arrest_count": 5,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 20",
@@ -29586,8 +29602,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "24862",
 		"appt_date": "1/10/2005",
-		"recognition_count": 16,
-		"arrest_count": 362,
+		"recognition_count": 8,
+		"arrest_count": 181,
 		"reports": {
 			"summary": {
 				"command": "PATROL BORO QUEENS NORTH",
@@ -48726,6 +48742,22 @@
 			},
 			"training": [
 				{
+					"date": "1/5/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "1/5/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "1/5/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "1/5/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
 					"date": "12/7/2023",
 					"name": "CLT-PROCEDURAL OPERATIONS"
 				},
@@ -57715,7 +57747,7 @@
 		"shield_no": "22877",
 		"appt_date": "7/8/2008",
 		"recognition_count": 1,
-		"arrest_count": 103,
+		"arrest_count": 104,
 		"reports": {
 			"summary": {
 				"command": "045 PRECINCT",
@@ -89822,6 +89854,18 @@
 			},
 			"training": [
 				{
+					"date": "1/6/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "1/6/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "1/6/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
 					"date": "12/5/2023",
 					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
 				},
@@ -90773,14 +90817,6 @@
 					"name": "COMMENDATION"
 				},
 				{
-					"date": "9/22/2021",
-					"name": "COMMENDATION"
-				},
-				{
-					"date": "9/18/2021",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
 					"date": "9/18/2021",
 					"name": "EXCELLENT POLICE DUTY"
 				},
@@ -90789,19 +90825,7 @@
 					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
-					"date": "8/4/2021",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
 					"date": "4/15/2021",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "4/15/2021",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "2/19/2021",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -90813,20 +90837,8 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
-					"date": "12/19/2020",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
 					"date": "10/8/2020",
 					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "10/8/2020",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "9/1/2020",
-					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
 					"date": "9/1/2020",
@@ -90837,14 +90849,6 @@
 					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
-					"date": "9/4/2019",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "7/11/2018",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
 					"date": "7/11/2018",
 					"name": "EXCELLENT POLICE DUTY"
 				},
@@ -90853,19 +90857,7 @@
 					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
-					"date": "3/30/2018",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
 					"date": "7/30/2017",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "7/30/2017",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "5/28/2012",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -112878,1053 +112870,7 @@
 				"misdemeanor": 29,
 				"violation": 1
 			},
-			"training": [
-				{
-					"date": "7/18/2022",
-					"name": "CLT-NIBRS ROLL CALL TRAINING"
-				},
-				{
-					"date": "6/27/2022",
-					"name": "NATIONAL INCIDENT-BASED REPORTING SYSTEM (NIBRS) UPDATES TO THE OMNIFORM COMPLAINT SYSTEMV"
-				},
-				{
-					"date": "4/25/2022",
-					"name": "INTEGRATING COMMUNICATION, ASSESSMENT AND TACTICS (ICAT) MODULE 5"
-				},
-				{
-					"date": "4/19/2022",
-					"name": "CLT-BWC POLICY UPDATES"
-				},
-				{
-					"date": "4/18/2022",
-					"name": "CLT-BWC POLICY UPDATES"
-				},
-				{
-					"date": "4/18/2022",
-					"name": "CLT-EJUSTICE ORDER OF PROTECTION SEARCH"
-				},
-				{
-					"date": "4/14/2022",
-					"name": "CLT-EPERMIT SYSTEM"
-				},
-				{
-					"date": "3/15/2022",
-					"name": "INTEGRATING COMMUNICATION, ASSESSMENT AND TACTICS (ICAT) MODULE 4"
-				},
-				{
-					"date": "1/29/2022",
-					"name": "IDENTIFYING THE IMPAIRED DRIVER"
-				},
-				{
-					"date": "1/29/2022",
-					"name": "LOCAL LAW 45 OF 2021-TRAFFIC ENCOUNTERS"
-				},
-				{
-					"date": "1/20/2022",
-					"name": "INTEGRATING COMMUNICATION, ASSESSMENT AND TACTICS (ICAT) MODULE 3"
-				},
-				{
-					"date": "1/14/2022",
-					"name": "INTEGRATING COMMUNICATION, ASSESSMENT AND TACTICS (ICAT) MODULE 2"
-				},
-				{
-					"date": "11/8/2021",
-					"name": "ARRESTS - RELIGIOUS HEAD COVERING GUIDELINES (PG 208-83)"
-				},
-				{
-					"date": "11/8/2021",
-					"name": "BODY-WORN CAMERA REVIEW PART TWO"
-				},
-				{
-					"date": "10/20/2021",
-					"name": "CLT-SPECIAL POPULATIONS"
-				},
-				{
-					"date": "10/6/2021",
-					"name": "INTEGRATING COMMUNICATION, ASSESSMENT AND TACTICS (ICAT) MODULE 1"
-				},
-				{
-					"date": "9/30/2021",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "9/29/2021",
-					"name": "BODY-WORN CAMERA REVIEW PART ONE"
-				},
-				{
-					"date": "9/29/2021",
-					"name": "COVID-19 SELF-COLLECTION KIT INSTRUCTIONS"
-				},
-				{
-					"date": "9/29/2021",
-					"name": "NEIGHBORHOOD POLICING APPLICATION TRAINING VIDEO"
-				},
-				{
-					"date": "9/28/2021",
-					"name": "COUNTER TERRORISM INITIAL PATROL RESPONSE TO AN ACTIVE SHOOTER"
-				},
-				{
-					"date": "9/18/2021",
-					"name": "INFORMATION SECURITY AWARENESS TRAINING 2021"
-				},
-				{
-					"date": "9/15/2021",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "9/13/2021",
-					"name": "MAYOR EXECUTIVE ORDER 78 VACCINATION - TESTING COMPLIANCE POLICY"
-				},
-				{
-					"date": "9/1/2021",
-					"name": "ACTIVE BYSTANDERSHIP FOR LAW ENFORCEMENT (ABLE): ONE DAY COURSE"
-				},
-				{
-					"date": "8/2/2021",
-					"name": "FTS - ANNUAL CEW RECERTIFICATION"
-				},
-				{
-					"date": "7/31/2021",
-					"name": "EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION 2021"
-				},
-				{
-					"date": "7/26/2021",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "5/27/2021",
-					"name": "CONSTITUTIONAL POLICING AT COMMUNITY EVENTS (CPACE)"
-				},
-				{
-					"date": "5/24/2021",
-					"name": "EMPLOYEE ASSISTANCE UNIT-2021"
-				},
-				{
-					"date": "5/24/2021",
-					"name": "OVERVIEW OF THE NEW DISCOVERY LAWS 2021 REFRESHER"
-				},
-				{
-					"date": "5/23/2021",
-					"name": "PATROL GUIDE 215-17 POLICE ACTIONS RELATED QUESTIONING ARRESTS AND INVESTIGATIONS AT A NYC DEPARTMEN"
-				},
-				{
-					"date": "5/19/2021",
-					"name": "CLT-COMMUNITY ENGAGEMENT"
-				},
-				{
-					"date": "5/18/2021",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "5/11/2021",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "5/10/2021",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "5/4/2021",
-					"name": "CHILD SENSITIVE ARREST POLICY GUIDELINES AND PROCEDURES"
-				},
-				{
-					"date": "4/8/2021",
-					"name": "CLT-DOCUMENTATION AND FORMS"
-				},
-				{
-					"date": "4/5/2021",
-					"name": "EQUAL EMPLOYMENT OPPORTUNITY TRAINING - LGBTQIA+ DIVERSITY AND INCLUSION / EXECUTIVE ORDER 16 OF 201"
-				},
-				{
-					"date": "3/28/2021",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "3/26/2021",
-					"name": "CLT-DOCUMENTATION AND FORMS"
-				},
-				{
-					"date": "3/24/2021",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "3/21/2021",
-					"name": "DESK APPEARANCE TICKETS: THE NEW LAW AND THE NEW GUIDELINES FOR PROCESSING DAT'S - 2021 REFRESHER"
-				},
-				{
-					"date": "2/18/2021",
-					"name": "CUSTOMER SERVICE PROGRAM:  ROLL CALL MODULE 2, COMMUNICATION SKILLS"
-				},
-				{
-					"date": "2/15/2021",
-					"name": "CUSTOMER SERVICE PROGRAM:  ROLL CALL MODULE 1, INTRODUCTION TO PRECINCT GREETER PROGRAM"
-				},
-				{
-					"date": "1/24/2021",
-					"name": "COVID VACCINE DISTRIBUTION AND EDUCATION"
-				},
-				{
-					"date": "1/18/2021",
-					"name": "CUSTOMER SERVICE PROGRAM: HOW DID WE DO"
-				},
-				{
-					"date": "12/20/2020",
-					"name": "EQUAL EMPLOYMENT OPPORTUNITY TRAINING - LEAVE TO EXPRESS BREAST MILK"
-				},
-				{
-					"date": "10/7/2020",
-					"name": "FTS - ANNUAL CEW RECERTIFICATION"
-				},
-				{
-					"date": "9/14/2020",
-					"name": "2019-2020 IN-SERVICE CYCLE - TEAM TACTICS REFRESHER"
-				},
-				{
-					"date": "9/10/2020",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "7/21/2020",
-					"name": "EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT, AWARENESS AND PREVENTION"
-				},
-				{
-					"date": "7/21/2020",
-					"name": "EXECUTIVE HEALTH AND WELLNESS CONFERENCE - MODULE 1"
-				},
-				{
-					"date": "7/14/2020",
-					"name": "VICTIM BLAMING AND RELEASE OF INFORMATION TO THE MEDIA"
-				},
-				{
-					"date": "7/6/2020",
-					"name": "HEALTH AND WELLNESS SECTION - MODULE 5 - GAINING PERSPECTIVE"
-				},
-				{
-					"date": "7/6/2020",
-					"name": "HEALTH AND WELLNESS SECTION - MODULE 9 - MANAGING STRESS ON THE JOB"
-				},
-				{
-					"date": "7/5/2020",
-					"name": "HEALTH AND WELLNESS SECTION - MODULE 10 - SEEKING AND RECEIVING MENTAL HEALTH SUPPORT"
-				},
-				{
-					"date": "7/5/2020",
-					"name": "HEALTH AND WELLNESS SECTION - MODULE 11 - HEALTH AND RESILIENCY"
-				},
-				{
-					"date": "7/5/2020",
-					"name": "HEALTH AND WELLNESS SECTION - MODULE 12 - IN THAT DARK PLACE - AN OFFICER'S JOURNEY"
-				},
-				{
-					"date": "7/5/2020",
-					"name": "HEALTH AND WELLNESS SECTION - MODULE 8 - WARNING SIGNS, SUPPORT AND OUTREACH"
-				},
-				{
-					"date": "7/1/2020",
-					"name": "NEW LAWS AFFECTING POLICE OFFICERS’ CRIMINAL AND CIVIL LIABILITY"
-				},
-				{
-					"date": "6/29/2020",
-					"name": "HEALTH AND WELLNESS SECTION - MODULE 1 - PSYCHOLOGICAL HEALTH AND WELLNESS"
-				},
-				{
-					"date": "6/29/2020",
-					"name": "HEALTH AND WELLNESS SECTION - MODULE 2 - JOB COUNSELING AND STRESS"
-				},
-				{
-					"date": "6/29/2020",
-					"name": "HEALTH AND WELLNESS SECTION - MODULE 3 - WARNING SIGNS"
-				},
-				{
-					"date": "6/29/2020",
-					"name": "HEALTH AND WELLNESS SECTION - MODULE 4 - CUMULATIVE TRAUMA"
-				},
-				{
-					"date": "6/29/2020",
-					"name": "HEALTH AND WELLNESS SECTION - MODULE 6 - COPING WITH SIGNS OF ANXIETY DEPRESSION"
-				},
-				{
-					"date": "6/29/2020",
-					"name": "HEALTH AND WELLNESS SECTION - MODULE 7 - LEADING WITH COMPASSION"
-				},
-				{
-					"date": "6/15/2020",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "6/11/2020",
-					"name": "COVID-19: PREPAREDNESS YOUR FAMILY AND HOME"
-				},
-				{
-					"date": "5/21/2020",
-					"name": "AXON BODY-WORN CAMERA TRAINING - CAMERA OPERATION, AXON VIEW AND EVIDENCE.COM (REQUIRED FOR LE4 COMM"
-				},
-				{
-					"date": "5/15/2020",
-					"name": "SAFETY CONSIDERATIONS FOR PATROLLING THE NYC SUBWAY SYSTEM -DANGERS OF THE PLATFORM EDGE"
-				},
-				{
-					"date": "5/10/2020",
-					"name": "COVID-19: PREPAREDENESS"
-				},
-				{
-					"date": "5/10/2020",
-					"name": "COVID-19: PROTECTIVE MASKS"
-				},
-				{
-					"date": "5/2/2020",
-					"name": "AXON CASES 2.0"
-				},
-				{
-					"date": "5/2/2020",
-					"name": "AXON TRAINING - MODULE 1 AXON BODY 2 BASIC OPERATION"
-				},
-				{
-					"date": "4/22/2020",
-					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
-				},
-				{
-					"date": "4/21/2020",
-					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
-				},
-				{
-					"date": "3/11/2020",
-					"name": "FTS - TACTICAL TRAINING CENTER 024 PCT - SESSION 2"
-				},
-				{
-					"date": "3/2/2020",
-					"name": "CRIMINAL JUSTICE BUREAU - GIGLIO MATERIAL DISCLOSURES UNDER THE NEW DISCOVERY LAWS"
-				},
-				{
-					"date": "3/2/2020",
-					"name": "UTILIZING BALLISTIC PROTECTION IN DEPARTMENT VEHICLES (4:09)"
-				},
-				{
-					"date": "2/24/2020",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "1/15/2020",
-					"name": "CROSSFIRE MITIGATION DURING CLOSE COMBAT INCIDENTS"
-				},
-				{
-					"date": "1/15/2020",
-					"name": "CROSSFIRE MITIGATION DURING CLOSE COMBAT INCIDENTS - PART 2"
-				},
-				{
-					"date": "1/10/2020",
-					"name": "PROCESSING DISCOVERY MATERIAL IN THE FORMS ARREST FOLDER"
-				},
-				{
-					"date": "12/26/2019",
-					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
-				},
-				{
-					"date": "12/24/2019",
-					"name": "ACTIVITY LOG FOR IPHONE"
-				},
-				{
-					"date": "12/24/2019",
-					"name": "CJB - OVERVIEW OF THE NEW DISCOVERY LAWS"
-				},
-				{
-					"date": "12/24/2019",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "12/10/2019",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "12/4/2019",
-					"name": "CJB - DESK APPEARANCE TICKETS: THE NEW LAWS AND GUIDELINES FOR PROCESSING DATS"
-				},
-				{
-					"date": "12/4/2019",
-					"name": "CRITICAL INCIDENT TACTICS - RESPONDING TO COMMERCIAL ROBBERIES (EXTENDED VERSION)"
-				},
-				{
-					"date": "12/4/2019",
-					"name": "RESPONDING TO COMMERCIAL ROBBERIES PART LL - MODULE 1 AND MODULE 2"
-				},
-				{
-					"date": "12/2/2019",
-					"name": "CLT-INFORMATION TECHNOLOGY"
-				},
-				{
-					"date": "11/27/2019",
-					"name": "DISCHARGING YOUR FIREARM AT A MOVING THREAT"
-				},
-				{
-					"date": "11/27/2019",
-					"name": "FORCE POLICY UPDATE VIDEO"
-				},
-				{
-					"date": "11/27/2019",
-					"name": "FTS - ANNUAL CEW RECERTIFICATION"
-				},
-				{
-					"date": "11/27/2019",
-					"name": "INCREASE OFFICER SAFETY DURING VEHICLE STOPS"
-				},
-				{
-					"date": "11/10/2019",
-					"name": "CRITICAL DECISION MAKING MODEL"
-				},
-				{
-					"date": "11/10/2019",
-					"name": "PRISONER ESCAPE WARNING SIGNS"
-				},
-				{
-					"date": "11/10/2019",
-					"name": "SUCCESSFULLY DISARMING AN EMOTIONALLY DISTURBED PERSON"
-				},
-				{
-					"date": "10/30/2019",
-					"name": "CLT-PROFESSIONAL DEVELOPMENT"
-				},
-				{
-					"date": "10/24/2019",
-					"name": "MARIJUANA POLICY UPDATE"
-				},
-				{
-					"date": "10/13/2019",
-					"name": "CRIMINAL JUSTICE BUREAU - DNA TRAINING VIDEO"
-				},
-				{
-					"date": "10/13/2019",
-					"name": "DOMESTIC VIOLENCE EDUCATION AND COUNSELING"
-				},
-				{
-					"date": "9/18/2019",
-					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
-				},
-				{
-					"date": "9/4/2019",
-					"name": "SHIELD OF RESILIENCE TRAINING COURSE"
-				},
-				{
-					"date": "9/3/2019",
-					"name": "CLT-SPECIAL POPULATIONS"
-				},
-				{
-					"date": "8/20/2019",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "8/6/2019",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "8/6/2019",
-					"name": "RESPONDING TO COMMERCIAL ROBBERIES"
-				},
-				{
-					"date": "8/2/2019",
-					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
-				},
-				{
-					"date": "7/25/2019",
-					"name": "CRISIS INTERVENTION TEAM TRAINING"
-				},
-				{
-					"date": "7/19/2019",
-					"name": "RESPONDING TO PEOPLE IN CRISIS – MODULE 4: USING DEPARTMENT MOBILE DIGITAL DEVICES"
-				},
-				{
-					"date": "7/19/2019",
-					"name": "TRANSIT BUREAU - SAFETY CONSIDERATIONS FOR PATROLLING THE NYC SUBWAY SYSTEM"
-				},
-				{
-					"date": "7/19/2019",
-					"name": "TRANSIT BUREAU - SAFETY CONSIDERATIONS FOR PATROLLING THE NYC SUBWAY SYSTEM - PART 2"
-				},
-				{
-					"date": "7/19/2019",
-					"name": "TRANSIT BUREAU - TIMELY RESUMPTION OF SERVICE IN NYC TRANSIT"
-				},
-				{
-					"date": "7/18/2019",
-					"name": "CLT-INFORMATION TECHNOLOGY"
-				},
-				{
-					"date": "6/18/2019",
-					"name": "COLLABORATIVE POLICING - MEDIATION REFERRAL PROGRAM FOR NON-CRIMINAL COMPLAINTS"
-				},
-				{
-					"date": "6/17/2019",
-					"name": "WORLDPRIDE NYC 2019"
-				},
-				{
-					"date": "5/23/2019",
-					"name": "COLLABORATIVE POLICING - THE DEAF AND HARD OF HEARING COMMUNITY"
-				},
-				{
-					"date": "5/20/2019",
-					"name": "CLT-ENFORCEMENT ACTIONS"
-				},
-				{
-					"date": "5/14/2019",
-					"name": "CLT-DOCUMENTATION AND FORMS"
-				},
-				{
-					"date": "4/30/2019",
-					"name": "CLT-DOCUMENTATION AND FORMS"
-				},
-				{
-					"date": "4/27/2019",
-					"name": "RESPONDING TO PEOPLE IN CRISIS - MODULES 2 AND 3: ACTIVE LISTENING PARTS 1 AND 2"
-				},
-				{
-					"date": "4/23/2019",
-					"name": "SAFEGUARDING PRISONERS - OFFICER SAFETY GUIDELINES"
-				},
-				{
-					"date": "4/22/2019",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "4/16/2019",
-					"name": "CLT-ENFORCEMENT ACTIONS"
-				},
-				{
-					"date": "4/12/2019",
-					"name": "LEGAL BUREAU - PERJURY TRAINING MODULE"
-				},
-				{
-					"date": "3/28/2019",
-					"name": "CLT-DOCUMENTATION AND FORMS"
-				},
-				{
-					"date": "3/22/2019",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "3/14/2019",
-					"name": "CLT-SPECIAL POPULATIONS"
-				},
-				{
-					"date": "3/8/2019",
-					"name": "COLLABORATIVE POLICING - ELDER ABUSE"
-				},
-				{
-					"date": "3/6/2019",
-					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
-				},
-				{
-					"date": "2/26/2019",
-					"name": "CLT-ENFORCEMENT ACTIONS"
-				},
-				{
-					"date": "2/18/2019",
-					"name": "CLT-DOCUMENTATION AND FORMS"
-				},
-				{
-					"date": "2/12/2019",
-					"name": "RESPONDING TO PEOPLE IN CRISIS - MODULE 1: SENDING THE RIGHT SIGNALS"
-				},
-				{
-					"date": "2/7/2019",
-					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
-				},
-				{
-					"date": "2/6/2019",
-					"name": "CLT-DOCUMENTATION AND FORMS"
-				},
-				{
-					"date": "2/6/2019",
-					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
-				},
-				{
-					"date": "2/6/2019",
-					"name": "SUPPORT SERVICES DIVISION - CLASS \"C\" OPERATOR"
-				},
-				{
-					"date": "1/16/2019",
-					"name": "CPS FAIR AND IMPARTIAL POLICING - ALL POS AND DETS"
-				},
-				{
-					"date": "1/14/2019",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "1/14/2019",
-					"name": "PATROL DOOR BAG - ROPE AND WEDGE INTRODUCTION"
-				},
-				{
-					"date": "1/14/2019",
-					"name": "TEXT TO 911 - INTRODUCTION"
-				},
-				{
-					"date": "1/8/2019",
-					"name": "CLT-EQUAL EMPLOYMENT OPPORTUNITY"
-				},
-				{
-					"date": "1/8/2019",
-					"name": "PATROL DOOR BAG - ROPE AND WEDGE INTRODUCTION"
-				},
-				{
-					"date": "1/8/2019",
-					"name": "TEXT TO 911 - INTRODUCTION"
-				},
-				{
-					"date": "12/23/2018",
-					"name": "EQUAL EMPLOYMENT OPPORTUNITYTRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
-				},
-				{
-					"date": "12/20/2018",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "12/20/2018",
-					"name": "MARIJUANA BURNING ENFORCEMENT POLICY"
-				},
-				{
-					"date": "12/14/2018",
-					"name": "CLT-SPECIAL POPULATIONS"
-				},
-				{
-					"date": "11/28/2018",
-					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
-				},
-				{
-					"date": "11/28/2018",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "11/20/2018",
-					"name": "CLT-ENFORCEMENT ACTIONS"
-				},
-				{
-					"date": "11/16/2018",
-					"name": "CLT-ENFORCEMENT ACTIONS"
-				},
-				{
-					"date": "11/7/2018",
-					"name": "AMERICANS WITH DISABILITIES ACT (ADA)"
-				},
-				{
-					"date": "11/6/2018",
-					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
-				},
-				{
-					"date": "10/24/2018",
-					"name": "CLT-INFORMATION TECHNOLOGY"
-				},
-				{
-					"date": "10/22/2018",
-					"name": "CLT-INFORMATION TECHNOLOGY"
-				},
-				{
-					"date": "10/17/2018",
-					"name": "RESPONDING TO PEOPLE IN CRISIS-INTRODUCTION TO CIT VIDEO SERIES"
-				},
-				{
-					"date": "10/16/2018",
-					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
-				},
-				{
-					"date": "10/10/2018",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "10/10/2018",
-					"name": "NYC RIGHT TO KNOW ACT LEGISLATION - PART 2"
-				},
-				{
-					"date": "10/10/2018",
-					"name": "NYC RIGHT TO KNOW ACT LEGISLATION – PART 1"
-				},
-				{
-					"date": "10/2/2018",
-					"name": "CLT-CRIME CONTROL STRATEGIES AND PROBLEM SOLVING"
-				},
-				{
-					"date": "9/26/2018",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "9/24/2018",
-					"name": "CLT-ENFORCEMENT ACTIONS"
-				},
-				{
-					"date": "9/18/2018",
-					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
-				},
-				{
-					"date": "9/14/2018",
-					"name": "CLT-LEGAL ISSUES"
-				},
-				{
-					"date": "9/14/2018",
-					"name": "RAISE THE AGE"
-				},
-				{
-					"date": "9/10/2018",
-					"name": "FTS - ANNUAL CEW RECERTIFICATION"
-				},
-				{
-					"date": "9/6/2018",
-					"name": "CLT-ENFORCEMENT ACTIONS"
-				},
-				{
-					"date": "8/22/2018",
-					"name": "CLT-LEGAL ISSUES"
-				},
-				{
-					"date": "8/3/2018",
-					"name": "CPS BODY-WORN CAMERA TRAINING WITH SCENARIOS"
-				},
-				{
-					"date": "8/2/2018",
-					"name": "CLT-LEGAL ISSUES"
-				},
-				{
-					"date": "7/26/2018",
-					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
-				},
-				{
-					"date": "7/24/2018",
-					"name": "CLT-MEMBER-EMPLOYEE WELLNESS"
-				},
-				{
-					"date": "7/2/2018",
-					"name": "CLT-LEGAL ISSUES"
-				},
-				{
-					"date": "6/18/2018",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "6/12/2018",
-					"name": "FTS - CEW X26P HOLSTER TRAINING AND DISTRIBUTION"
-				},
-				{
-					"date": "6/4/2018",
-					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
-				},
-				{
-					"date": "5/24/2018",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "5/18/2018",
-					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
-				},
-				{
-					"date": "5/13/2018",
-					"name": "COMMUNICATIONS- THE PROPER USAGE OF THE IDA RADIO CODES"
-				},
-				{
-					"date": "5/2/2018",
-					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
-				},
-				{
-					"date": "4/25/2018",
-					"name": "2017-2019 IN-SERVICE CYCLE-INVESTIGATIVE ENCOUNTERS- BASIC TRAINING WITH SCENARIOS"
-				},
-				{
-					"date": "4/24/2018",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "4/20/2018",
-					"name": "CLT-ENFORCEMENT ACTIONS"
-				},
-				{
-					"date": "4/18/2018",
-					"name": "CLT-MEMBER-EMPLOYEE WELLNESS"
-				},
-				{
-					"date": "4/12/2018",
-					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
-				},
-				{
-					"date": "4/4/2018",
-					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
-				},
-				{
-					"date": "3/28/2018",
-					"name": "CLT-DOCUMENTATION AND FORMS"
-				},
-				{
-					"date": "3/20/2018",
-					"name": "CLT-DOCUMENTATION AND FORMS"
-				},
-				{
-					"date": "3/14/2018",
-					"name": "CLT-DOCUMENTATION AND FORMS"
-				},
-				{
-					"date": "3/12/2018",
-					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
-				},
-				{
-					"date": "3/6/2018",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "3/5/2018",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "2/19/2018",
-					"name": "LEGAL BUREAU PERFORMANCE METRICS - PROHIBITED CONDUCT"
-				},
-				{
-					"date": "1/8/2018",
-					"name": "CLT-EQUAL EMPLOYMENT OPPORTUNITY"
-				},
-				{
-					"date": "1/6/2018",
-					"name": "COLLABORATIVE POLICING- FOREIGN LANGUAGE CERTIFICATION VIDEO"
-				},
-				{
-					"date": "12/27/2017",
-					"name": "INFORMATION SECURITY AWARENESS TRAINING"
-				},
-				{
-					"date": "12/14/2017",
-					"name": "2017-2019 IN-SERVICE CYCLE-INTEGRATED TACTICS"
-				},
-				{
-					"date": "12/7/2017",
-					"name": "CPS INTERIOR PATROL OF HOUSING AUTHORITY BUILDINGS, PG 212-60 ROLL CALL VIDEO 1"
-				},
-				{
-					"date": "11/28/2017",
-					"name": "CPS INTERIOR PATROL OF HOUSING AUTHORITY BUILDINGS, PG 212-60 ROLL CALL VIDEO 2"
-				},
-				{
-					"date": "11/28/2017",
-					"name": "INVESTIGATIVE ENCOUNTERS-VIDEO #4 DOCUMENTATION AND SUPERVISION-UNIT TRAINING JULY 2016"
-				},
-				{
-					"date": "11/28/2017",
-					"name": "PUBLIC CONTACT AND CONSENT TO SEARCH (RIGHT TO KNOW) - UNIT TRAINING AUGUST 2016"
-				},
-				{
-					"date": "10/20/2017",
-					"name": "NARCAN NASAL SPRAY TRAINING"
-				},
-				{
-					"date": "10/6/2017",
-					"name": "COLLABORATIVE POLICING- ACCESSING TELEPHONIC INTERPRETERS VIA LANGUAGE LINE"
-				},
-				{
-					"date": "9/21/2017",
-					"name": "PERSONNEL BUREAU NYPD EMPLOYEE ASSISTANCE UNIT (EAU)"
-				},
-				{
-					"date": "9/13/2017",
-					"name": "PATROL- POLYCARBONATE SHIELD"
-				},
-				{
-					"date": "8/24/2017",
-					"name": "FTS - ANNUAL CEW RECERTIFICATION"
-				},
-				{
-					"date": "7/25/2017",
-					"name": "BTK (BELT TRAUMA KIT DISTRIBUTION AND FAMILIARIZATION)"
-				},
-				{
-					"date": "7/23/2017",
-					"name": "EQUAL EMPLOYMENT OPPORTUNITY TRANSGENDER DIVERSITY AND INCLUSION:EXECUTIVE ORDER 16"
-				},
-				{
-					"date": "7/23/2017",
-					"name": "POLICE COMMISSIONERS MESSAGE - VICTIMS OF SEXUAL ASSAULT VIDEO"
-				},
-				{
-					"date": "6/22/2017",
-					"name": "CPS INTERIOR PATROL TRESPASS AFFIDAVIT PROGRAM (TAP) VIDEO 2"
-				},
-				{
-					"date": "6/15/2017",
-					"name": "CPS INTERIOR PATROL TRESPASS AFFIDAVIT PROGRAM (TAP) VIDEO 1"
-				},
-				{
-					"date": "5/24/2017",
-					"name": "CRIMINAL JUSTICE REFORM ACT ROLL CALL TRAINING PART 2"
-				},
-				{
-					"date": "5/10/2017",
-					"name": "CRIMINAL JUSTICE REFORM ACT ROLL CALL TRAINING PART 1"
-				},
-				{
-					"date": "4/26/2017",
-					"name": "FTS - CEW END USER CERT"
-				},
-				{
-					"date": "1/24/2017",
-					"name": "HATE CRIMES AND BIAS-RELATED INCIDENTS"
-				},
-				{
-					"date": "1/3/2017",
-					"name": "2016-17 INSERVICE CYCLE-PHYSICAL TACTICS"
-				},
-				{
-					"date": "7/18/2016",
-					"name": "INVESTIGATIVE ENCOUNTERS-VIDEO #3 TERRY STOPS AND REASONABLE SUSPICION-UNIT TRAINING JUNE 2016"
-				},
-				{
-					"date": "6/1/2016",
-					"name": "FORCE POLICY REVISION-VIDEO-PG 221-UNIT TRAINING MAY 2016"
-				},
-				{
-					"date": "5/20/2016",
-					"name": "INVESTIGATIVE ENCOUNTERS-VIDEO #2 COMMON LAW RIGHT OF INQUIRY-UNIT TRAINING MAY 2016"
-				},
-				{
-					"date": "2/18/2016",
-					"name": "INVESTIGATIVE ENCOUNTERS-VIDEO #1 REQUEST FOR INFO-UNIT TRAINING FEB 2016"
-				},
-				{
-					"date": "12/10/2015",
-					"name": "WINDOWS PHONE TRAINING AND DISTRIBUTION"
-				},
-				{
-					"date": "12/2/2015",
-					"name": "FORCE POLICY REVISION-PAMPHLET - PG 221 - UNIT TRAINING DECEMBER 2015"
-				},
-				{
-					"date": "11/10/2015",
-					"name": "DISORDER CONTROL TRAINING"
-				},
-				{
-					"date": "11/9/2015",
-					"name": "EMERGENCY VEHICLE OPERATION JULY 07 - PRESENT"
-				},
-				{
-					"date": "11/9/2015",
-					"name": "FIELD TRAINING PROGRAM JULY 07 - PRESENT"
-				},
-				{
-					"date": "11/9/2015",
-					"name": "PHYSICAL EDUCATION PART 1: FOUNDATIONS OF PHYSICAL FITNESS"
-				},
-				{
-					"date": "11/9/2015",
-					"name": "PHYSICAL EDUCATION PART 2: DEFENSIVE TACTICS JULY 07 - PRESENT"
-				},
-				{
-					"date": "11/9/2015",
-					"name": "PHYSICAL EDUCATION PART 3: AMERICAN HEART ASSOCIATION BASIC LIFE SUPPORT"
-				},
-				{
-					"date": "11/9/2015",
-					"name": "POLICE CRISIS INTERVENTION JULY 07 - PRESENT"
-				},
-				{
-					"date": "11/9/2015",
-					"name": "POLICE FIELD PROBLEMS JULY 07 - PRESENT"
-				},
-				{
-					"date": "11/9/2015",
-					"name": "POLICE INVESTIGATION AND REPORTING JULY 07 - PRESENT"
-				},
-				{
-					"date": "11/9/2015",
-					"name": "POLICING A DEMOCRACY JULY 07 - PRESENT"
-				},
-				{
-					"date": "11/9/2015",
-					"name": "POLICING SPECIAL POPULATIONS JULY 07 - PRESENT"
-				},
-				{
-					"date": "11/9/2015",
-					"name": "PROCEDURAL LAW JULY 07 - PRESENT"
-				},
-				{
-					"date": "11/9/2015",
-					"name": "SUBSTANTIVE LAW JULY 07 - PRESENT"
-				},
-				{
-					"date": "11/9/2015",
-					"name": "TERRORISM AWARENESS AND RESPONSE JULY 07 - PRESENT"
-				},
-				{
-					"date": "8/31/2015",
-					"name": "DISORDER CONTROL TRAINING"
-				},
-				{
-					"date": "3/23/2015",
-					"name": "DISORDER CONTROL TRAINING"
-				},
-				{
-					"date": "3/16/2015",
-					"name": "DISORDER CONTROL TRAINING"
-				},
-				{
-					"date": "3/10/2015",
-					"name": "DISORDER CONTROL TRAINING"
-				},
-				{
-					"date": "3/6/2015",
-					"name": "DISORDER CONTROL TRAINING"
-				},
-				{
-					"date": "2/11/2015",
-					"name": "20K TRAINING INITIATIVE - PHYSICAL TACTICS"
-				},
-				{
-					"date": "2/3/2015",
-					"name": "20K TRAINING INITIATIVE - SMART POLICING"
-				},
-				{
-					"date": "1/26/2015",
-					"name": "20K TRAINING INITIATIVE - FOUNDATIONS OF POLICING"
-				},
-				{
-					"date": "8/25/2014",
-					"name": "DISORDER CONTROL TRAINING"
-				},
-				{
-					"date": "8/11/2014",
-					"name": "DISORDER CONTROL TRAINING"
-				},
-				{
-					"date": "8/8/2014",
-					"name": "DISORDER CONTROL TRAINING"
-				},
-				{
-					"date": "2/21/2014",
-					"name": "DISORDER CONTROL TRAINING"
-				},
-				{
-					"date": "3/13/2013",
-					"name": "IN-TAC TRAINING PROGRAM"
-				},
-				{
-					"date": "5/24/2012",
-					"name": "UF 250 - OPERATION IMPACT REFRESHER CERTIFIED"
-				},
-				{
-					"date": "11/30/2011",
-					"name": "PROPERTY EVIDENCE TRACKING SYSTEM"
-				},
-				{
-					"date": "10/31/2011",
-					"name": "COBRA - COHORT TRAINING"
-				},
-				{
-					"date": "7/6/2011",
-					"name": "12 PASSENGER VAN / UTILITY VEHICLE QUALIFICATION"
-				},
-				{
-					"date": "7/6/2011",
-					"name": "FOUR WHEEL DRIVE TRAINING"
-				},
-				{
-					"name": "FOUR WHEEL DRIVE TRAINING"
-				},
-				{
-					"name": "RECRUIT 12 PASSENGER VAN / UTILITY VEHICLE QUALIFICATION"
-				},
-				{
-					"name": "RECRUIT RMP QUALIFICATION / RMP OPERATOR QUALIFIED"
-				}
-			],
+			"training": [],
 			"awards": []
 		},
 		"command": "019 PRECINCT"
@@ -125645,7 +124591,18 @@
 				"shield_no": "2748",
 				"appt_date": "1/14/2009"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/14/2009",
+					"shield_no": "5793"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "6/9/2017",
+					"shield_no": "2748"
+				}
+			],
 			"documents": [],
 			"discipline": [],
 			"arrests": {
@@ -126495,34 +125452,6 @@
 					"name": "CLT-PROFESSIONAL DEVELOPMENT"
 				},
 				{
-					"date": "11/6/2019",
-					"name": "CLT-SPECIAL POPULATIONS"
-				},
-				{
-					"date": "10/31/2019",
-					"name": "SUCCESSFULLY DISARMING AN EMOTIONALLY DISTURBED PERSON"
-				},
-				{
-					"date": "10/11/2019",
-					"name": "CRIMINAL JUSTICE BUREAU - DNA TRAINING VIDEO"
-				},
-				{
-					"date": "10/11/2019",
-					"name": "EXECUTIVE HEALTH AND WELLNESS CONFERENCE - MODULE 1"
-				},
-				{
-					"date": "10/11/2019",
-					"name": "FORCE POLICY UPDATE VIDEO"
-				},
-				{
-					"date": "10/11/2019",
-					"name": "PRISONER ESCAPE WARNING SIGNS"
-				},
-				{
-					"date": "10/3/2019",
-					"name": "CITYTIME TRAINING FOR SUPERVISORS"
-				},
-				{
 					"date": "10/1/2019",
 					"name": "CRITICAL DECISION MAKING MODEL"
 				},
@@ -126593,266 +125522,6 @@
 				{
 					"date": "8/8/2019",
 					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
-				},
-				{
-					"date": "8/8/2019",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "8/8/2019",
-					"name": "CLT-PROFESSIONAL DEVELOPMENT"
-				},
-				{
-					"date": "8/8/2019",
-					"name": "CLT-SPECIAL POPULATIONS"
-				},
-				{
-					"date": "8/8/2019",
-					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
-				},
-				{
-					"date": "8/6/2019",
-					"name": "RESPONDING TO COMMERCIAL ROBBERIES"
-				},
-				{
-					"date": "8/5/2019",
-					"name": "CLT-COUNTERTERRORISM AND INTELLIGENCE"
-				},
-				{
-					"date": "8/5/2019",
-					"name": "CLT-DOCUMENTATION AND FORMS"
-				},
-				{
-					"date": "8/5/2019",
-					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
-				},
-				{
-					"date": "8/5/2019",
-					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
-				},
-				{
-					"date": "8/2/2019",
-					"name": "CLT-COMMUNICATION STRATEGIES AND AIDS"
-				},
-				{
-					"date": "8/2/2019",
-					"name": "CLT-COUNTERTERRORISM AND INTELLIGENCE"
-				},
-				{
-					"date": "8/2/2019",
-					"name": "CLT-DOCUMENTATION AND FORMS"
-				},
-				{
-					"date": "8/2/2019",
-					"name": "CLT-ENFORCEMENT ACTIONS"
-				},
-				{
-					"date": "8/2/2019",
-					"name": "CLT-INFORMATION TECHNOLOGY"
-				},
-				{
-					"date": "8/2/2019",
-					"name": "CLT-MEMBER-EMPLOYEE WELLNESS"
-				},
-				{
-					"date": "8/2/2019",
-					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
-				},
-				{
-					"date": "8/2/2019",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "8/2/2019",
-					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
-				},
-				{
-					"date": "7/22/2019",
-					"name": "CLT-COUNTERTERRORISM AND INTELLIGENCE"
-				},
-				{
-					"date": "7/22/2019",
-					"name": "CLT-ENFORCEMENT ACTIONS"
-				},
-				{
-					"date": "7/22/2019",
-					"name": "CLT-INTEGRITY, ETHICS AND DISCIPLINE"
-				},
-				{
-					"date": "7/22/2019",
-					"name": "CLT-MEMBER-EMPLOYEE WELLNESS"
-				},
-				{
-					"date": "7/22/2019",
-					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
-				},
-				{
-					"date": "7/22/2019",
-					"name": "CLT-PROCEDURAL OPERATIONS"
-				},
-				{
-					"date": "7/22/2019",
-					"name": "CLT-PROFESSIONAL DEVELOPMENT"
-				},
-				{
-					"date": "7/22/2019",
-					"name": "CLT-SPECIAL POPULATIONS"
-				},
-				{
-					"date": "7/9/2019",
-					"name": "TRANSIT BUREAU - SAFETY CONSIDERATIONS FOR PATROLLING THE NYC SUBWAY SYSTEM"
-				},
-				{
-					"date": "7/9/2019",
-					"name": "TRANSIT BUREAU - SAFETY CONSIDERATIONS FOR PATROLLING THE NYC SUBWAY SYSTEM - PART 2"
-				},
-				{
-					"date": "7/3/2019",
-					"name": "FTS - ANNUAL CEW RECERTIFICATION"
-				},
-				{
-					"date": "7/1/2019",
-					"name": "RESPONDING TO PEOPLE IN CRISIS – MODULE 4: USING DEPARTMENT MOBILE DIGITAL DEVICES"
-				},
-				{
-					"date": "6/6/2019",
-					"name": "COLLABORATIVE POLICING - MEDIATION REFERRAL PROGRAM FOR NON-CRIMINAL COMPLAINTS"
-				},
-				{
-					"date": "6/6/2019",
-					"name": "DISCUSSION - BASED LEARNING MODULE # 1-3"
-				},
-				{
-					"date": "6/6/2019",
-					"name": "WORLDPRIDE NYC 2019"
-				},
-				{
-					"date": "5/7/2019",
-					"name": "BTK (BELT TRAUMA KIT DISTRIBUTION AND FAMILIARIZATION)"
-				},
-				{
-					"date": "4/22/2019",
-					"name": "AIM REGISTRATION AND SYNCHRONIZATION 2.0"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "AIM COMPONENTS 2.0"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "BELT TRAUMA KIT VIDEO"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "CITYTIME APPROVER TRAINING FOR SUPERVISORS APPROVING CMOS TIMESHEETS"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "CITYTIME USER TRAINING FOR MANAGERIAL CIVIL SERVICE TITLES"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "CITYTIME USER TRAINING FOR NON-MANAGERIAL CMOS"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "COBALT"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "COLLABORATIVE POLICING- HUMAN TRAFFICKING"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "COUNTERTERRORISM ACTIVE SHOOTER TRAINING"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "COUNTERTERRORISM BUREAU FACILITY AWARENESS VIDEO- TIME WARNER BUILDING"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "COUNTERTERRORISM BUREAU FACILITY AWARENESS VIDEO-EMPIRE STATE BUILDING"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "COUNTERTERRORISM BUREAU FACILITY AWARENESS- THE INTREPID SEA, AIR AND SPACE MUSEUM"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "COUNTERTERRORISM BUREAU NH15 TRAINING"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "COUNTERTERRORISM U.A.S. (UNMANNED AIRCRAFT SYSTEMS) DRONE AWARENESS"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "DAS PATTERN MODE"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "DETECTIVE BUREAU RETRIEVING BODY WORN CAMERA DATA"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "DOMAIN AWARENESS SYSTEM - SEARCH ACCURINT RESULTS"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "DOMAIN AWARNESS SYSTEM (DAS)"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "EXECUTIVE CONFERENCE VIDEO 10-17-18: DISCUSSION WITH INDRA NOOYI, CHAIRMAN OF PEPSI CO"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "EXECUTIVE CONFERENCE VIDEO 10-17-18: INTELLIGENT LEADERSHIP: GEORGE TENET, FORMER (DIRECTOR OF CENTR"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "EXECUTIVE CONFERENCE VIDEO 10-17-18: LEADERSHIP ON AND OFF THE BATTLEFIELD: GENERAL JOHN R. ALLEN (P"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "EXECUTIVE CONFERENCE VIDEO 10-17-18: MAKING IT REAL-GETTING FROM HERE TO THERE TOGETHER - DR SCOTT L"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "FACILITIES MANAGEMENT DIVISION - MUNICIPAL SEPERATE STORM SEWER SYSTEM (MS4)"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "FORMS - THREAT,RESISTANCE,INJURY (TRI)"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "MOBILE IDENTIFICATION DEVICE (MORPHO)"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "NEW NYPD PORTAL"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "NYPD MOBILITY INITIATIVE - DEPARTMENT SMARTPHONE TRAINING"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "POLICE COMMISSIONER MESSAGE- NYC GIVES"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "TRANSIT BUREAU - TIMELY RESUMPTION OF SERVICE IN NYC TRANSIT"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "VERTEX 949 RADIO OPERATIONAL INSTRUCTIONS"
-				},
-				{
-					"date": "4/19/2019",
-					"name": "WARRANT CHECK IN DOMAIN AWARENESS SYSTEM (DAS LITE)"
 				},
 				{
 					"date": "10/24/2016",
@@ -152335,7 +151004,7 @@
 		"shield_no": "6185",
 		"appt_date": "1/11/2010",
 		"recognition_count": 27,
-		"arrest_count": 336,
+		"arrest_count": 340,
 		"reports": {
 			"summary": {
 				"command": "070 PRECINCT",
@@ -152358,14 +151027,38 @@
 				}
 			],
 			"documents": [],
-			"discipline": [],
+			"discipline": [
+				{
+					"entry": "8/9/2022 12:00:00 AM",
+					"allegations_count": 1,
+					"allegations": [
+						{
+							"recommendation": "A-CD",
+							"case_no": "2022-25835",
+							"description": "01.Wrongfully searched a vehicle."
+						}
+					]
+				}
+			],
 			"arrests": {
-				"felony": 141,
-				"misdemeanor": 157,
+				"felony": 144,
+				"misdemeanor": 158,
 				"other": 1,
 				"violation": 37
 			},
 			"training": [
+				{
+					"date": "1/4/2024",
+					"name": "ELDER ABUSE -2023 REFRESHER"
+				},
+				{
+					"date": "1/4/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "1/4/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
 				{
 					"date": "12/21/2023",
 					"name": "AUGMENTED REALITY FEATURE"

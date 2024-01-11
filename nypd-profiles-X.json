@@ -20966,6 +20966,14 @@
 			},
 			"training": [
 				{
+					"date": "1/8/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "1/8/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
 					"date": "12/21/2023",
 					"name": "CLT-SPECIAL POPULATIONS"
 				},
@@ -35794,6 +35802,10 @@
 				"violation": 11
 			},
 			"training": [
+				{
+					"date": "1/8/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
 				{
 					"date": "12/7/2023",
 					"name": "CPR-AED CARDIOPULMONARY RESUSCITATION-AUTOMATED EXTERNAL DEFIBRILLATOR REFRESHER"
