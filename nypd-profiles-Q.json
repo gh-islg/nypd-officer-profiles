@@ -24559,7 +24559,7 @@
 		"shield_no": "4905",
 		"appt_date": "1/9/2012",
 		"recognition_count": 13,
-		"arrest_count": 324,
+		"arrest_count": 325,
 		"reports": {
 			"summary": {
 				"command": "075 DET SQUAD",
@@ -24585,7 +24585,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 150,
+				"felony": 151,
 				"misdemeanor": 161,
 				"violation": 12
 			},
@@ -32002,6 +32002,14 @@
 			},
 			"training": [
 				{
+					"date": "1/9/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "1/9/2024",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
 					"date": "12/19/2023",
 					"name": "COVID-19 SELF-COLLECTION KIT INSTRUCTIONS"
 				},
@@ -34169,6 +34177,22 @@
 				"violation": 5
 			},
 			"training": [
+				{
+					"date": "1/9/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "1/9/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "1/9/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "1/9/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
 				{
 					"date": "12/1/2023",
 					"name": "FTS - ANNUAL CEW RECERTIFICATION"
@@ -59780,6 +59804,14 @@
 			},
 			"training": [
 				{
+					"date": "1/3/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "1/3/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
 					"date": "12/22/2023",
 					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
 				},
@@ -62953,6 +62985,18 @@
 				"violation": 8
 			},
 			"training": [
+				{
+					"date": "1/5/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "1/5/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "1/5/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
 				{
 					"date": "11/20/2023",
 					"name": "AUGMENTED REALITY FEATURE"
@@ -73015,6 +73059,10 @@
 				"violation": 39
 			},
 			"training": [
+				{
+					"date": "1/10/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
 				{
 					"date": "12/25/2023",
 					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
@@ -87191,30 +87239,6 @@
 					"name": "CLT-VOLUNTARY - INVOLUNTARY TRANSPORTS"
 				},
 				{
-					"date": "1/3/2023",
-					"name": "COLT COMMANDO CERTIFIED (ESU REQUAL)"
-				},
-				{
-					"date": "1/3/2023",
-					"name": "GLOCK LIGHTED PISTOL CERTIFIED (ESU REQUAL)"
-				},
-				{
-					"date": "1/3/2023",
-					"name": "HECKLER & KOCH MP5 CERTIFIED (ESU REQUAL)"
-				},
-				{
-					"date": "1/3/2023",
-					"name": "MOSSBERG CERTIFIED (ESU REQUAL)"
-				},
-				{
-					"date": "1/3/2023",
-					"name": "OFF DUTY PISTOL COURSE OF FIRE (ESU REQUAL)"
-				},
-				{
-					"date": "1/3/2023",
-					"name": "SERVICE PISTOL COURSE OF FIRE (ESU REQUAL)"
-				},
-				{
 					"date": "12/27/2022",
 					"name": "INVESTIGATIVE ENCOUNTERS 2023 - MODULE 1 INTRODUCTION TO SQF"
 				},
@@ -90033,6 +90057,26 @@
 			},
 			"training": [
 				{
+					"date": "1/4/2024",
+					"name": "SRG - RAPID MOBILIZATION"
+				},
+				{
+					"date": "1/1/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "1/1/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "1/1/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "1/1/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
 					"date": "12/5/2023",
 					"name": "COUNTERTERRORISM CBRNE-HAZMAT OPERATIONS LEVEL REFRESHER TRAINING"
 				},
@@ -90179,10 +90223,6 @@
 				{
 					"date": "1/9/2023",
 					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 2 SQF LEVEL 1"
-				},
-				{
-					"date": "1/5/2023",
-					"name": "FTS - COLT M4 RE-QUALIFICATION"
 				},
 				{
 					"date": "12/28/2022",
@@ -93367,6 +93407,18 @@
 				"violation": 9
 			},
 			"training": [
+				{
+					"date": "1/2/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "1/2/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "1/2/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
 				{
 					"date": "12/29/2023",
 					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
@@ -98547,6 +98599,10 @@
 				"violation": 3
 			},
 			"training": [
+				{
+					"date": "1/10/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
 				{
 					"date": "11/24/2023",
 					"name": "CLT-DOCUMENTATION AND FORMS"
@@ -113194,6 +113250,18 @@
 			},
 			"training": [
 				{
+					"date": "1/8/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "1/8/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "1/8/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
 					"date": "12/19/2023",
 					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
 				},
@@ -119183,6 +119251,18 @@
 				"misdemeanor": 72
 			},
 			"training": [
+				{
+					"date": "1/2/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "1/2/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "1/2/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
 				{
 					"date": "12/22/2023",
 					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
@@ -129900,6 +129980,14 @@
 				"violation": 6
 			},
 			"training": [
+				{
+					"date": "1/2/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "1/2/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
 				{
 					"date": "12/20/2023",
 					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
@@ -142927,7 +143015,20 @@
 				}
 			],
 			"documents": [],
-			"discipline": [],
+			"discipline": [
+				{
+					"entry": "4/18/2022 12:00:00 AM",
+					"allegations_count": 1,
+					"allegations": [
+						{
+							"recommendation": "INSTRUCTIONS",
+							"case_no": "2022-24814",
+							"description": "01.Failed to supervise",
+							"penalty": "C - COMMAND DISCIPLINE, VACATION DAYS (10 day(s) )"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"felony": 4,
 				"misdemeanor": 66,
@@ -148591,7 +148692,7 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 106,
+				"felony": 108,
 				"misdemeanor": 75,
 				"violation": 2
 			},
