@@ -85294,7 +85294,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 20,
+				"felony": 21,
 				"misdemeanor": 47
 			},
 			"training": [
@@ -87684,6 +87684,10 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "1/15/2024",
+					"name": "TACTICAL LEADERSHIP"
+				},
 				{
 					"date": "12/19/2023",
 					"name": "CLT-PROCEDURAL OPERATIONS"
@@ -124041,6 +124045,10 @@
 				"misdemeanor": 33
 			},
 			"training": [
+				{
+					"date": "1/10/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
 				{
 					"date": "1/3/2024",
 					"name": "ELDER ABUSE -2023 REFRESHER"
