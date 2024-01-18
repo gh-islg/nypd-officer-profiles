@@ -78571,6 +78571,14 @@
 			},
 			"training": [
 				{
+					"date": "1/9/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "1/9/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
 					"date": "12/21/2023",
 					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
 				},
@@ -79841,7 +79849,7 @@
 		"shield_no": "21667",
 		"appt_date": "7/1/2004",
 		"recognition_count": 0,
-		"arrest_count": 127,
+		"arrest_count": 128,
 		"reports": {
 			"summary": {
 				"command": "STRATEGIC RESP GRP 4 QUEENS",
@@ -79864,7 +79872,7 @@
 				"infraction": 4,
 				"felony": 8,
 				"misdemeanor": 96,
-				"violation": 19
+				"violation": 20
 			},
 			"training": [
 				{
@@ -85273,7 +85281,7 @@
 		"shield_no": "28469",
 		"appt_date": "1/6/2020",
 		"recognition_count": 1,
-		"arrest_count": 68,
+		"arrest_count": 69,
 		"reports": {
 			"summary": {
 				"command": "110 PRECINCT",
@@ -152787,8 +152795,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "10517",
 		"appt_date": "7/1/2004",
-		"recognition_count": 30,
-		"arrest_count": 290,
+		"recognition_count": 15,
+		"arrest_count": 145,
 		"reports": {
 			"summary": {
 				"command": "122 PRECINCT",
@@ -152808,9 +152816,9 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 16,
-				"misdemeanor": 272,
-				"violation": 2
+				"felony": 8,
+				"misdemeanor": 136,
+				"violation": 1
 			},
 			"training": [
 				{
@@ -154242,23 +154250,7 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
-					"date": "8/29/2016",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
 					"date": "7/16/2016",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "7/16/2016",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "6/1/2016",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "6/1/2016",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -154274,19 +154266,7 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
-					"date": "5/26/2016",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
 					"date": "5/2/2016",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "5/2/2016",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "2/2/2016",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -154298,19 +154278,7 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
-					"date": "1/4/2016",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
 					"date": "11/20/2015",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "11/20/2015",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "10/5/2015",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -154322,14 +154290,6 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
-					"date": "9/25/2015",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "7/16/2015",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
 					"date": "7/16/2015",
 					"name": "EXCELLENT POLICE DUTY"
 				},
@@ -154338,19 +154298,7 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
-					"date": "8/16/2006",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
 					"date": "6/12/2006",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "6/12/2006",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "12/10/2005",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -156405,6 +156353,10 @@
 				"violation": 4
 			},
 			"training": [
+				{
+					"date": "12/20/2023",
+					"name": "COUNTERTERRORISM CBRNE-HAZMAT OPERATIONS LEVEL TRAINING (COBRA COHORT TRAINING)"
+				},
 				{
 					"date": "11/21/2023",
 					"name": "AUGMENTED REALITY FEATURE"
