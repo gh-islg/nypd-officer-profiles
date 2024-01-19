@@ -37735,6 +37735,22 @@
 			},
 			"training": [
 				{
+					"date": "1/12/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "1/12/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "1/12/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
+					"date": "1/12/2024",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
+				{
 					"date": "12/30/2023",
 					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
 				},
@@ -149696,10 +149712,22 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 14,
-				"misdemeanor": 40,
+				"misdemeanor": 41,
 				"violation": 4
 			},
 			"training": [
+				{
+					"date": "1/17/2024",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
+				{
+					"date": "1/16/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "1/16/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
 				{
 					"date": "12/7/2023",
 					"name": "CLT-BWC POLICY UPDATES"
@@ -150714,6 +150742,50 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "1/17/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "1/15/2024",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
+				{
+					"date": "1/14/2024",
+					"name": "AUGMENTED REALITY FEATURE"
+				},
+				{
+					"date": "1/14/2024",
+					"name": "AXON BODY-WORN CAMERA TRAINING - CAMERA OPERATION, AXON VIEW AND EVIDENCE.COM (REQUIRED FOR LE4 COMM"
+				},
+				{
+					"date": "1/14/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "1/14/2024",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "1/14/2024",
+					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
+				},
+				{
+					"date": "1/14/2024",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
+				{
+					"date": "1/14/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
+					"date": "1/10/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "1/8/2024",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
 				{
 					"date": "1/7/2024",
 					"name": "CLT-INVESTIGATIONS"
