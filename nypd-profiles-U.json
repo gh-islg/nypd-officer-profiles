@@ -13047,6 +13047,10 @@
 					"name": "CLT-DOCUMENTATION AND FORMS"
 				},
 				{
+					"date": "1/7/2024",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
 					"date": "1/6/2024",
 					"name": "AUGMENTED REALITY FEATURE"
 				},
@@ -16867,6 +16871,10 @@
 				"misdemeanor": 5
 			},
 			"training": [
+				{
+					"date": "1/19/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
 				{
 					"date": "1/13/2024",
 					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
@@ -21266,6 +21274,10 @@
 			},
 			"training": [
 				{
+					"date": "1/16/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
 					"date": "12/30/2023",
 					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
 				},
@@ -23087,7 +23099,7 @@
 				},
 				{
 					"date": "5/27/2019",
-					"name": "POLICE ACADEMY RECRUIT PRACTICE WRITTEN EXAM"
+					"name": "POLICE ACADEMY RECRUIT 1ST TRIMESTER PRACTICE WRITTEN EXAM"
 				},
 				{
 					"date": "5/27/2019",
@@ -38441,6 +38453,22 @@
 			},
 			"training": [
 				{
+					"date": "1/17/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "1/16/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "1/16/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "1/16/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
 					"date": "1/11/2024",
 					"name": "CLT-PROCEDURAL OPERATIONS"
 				},
@@ -40700,6 +40728,10 @@
 				"misdemeanor": 20
 			},
 			"training": [
+				{
+					"date": "1/18/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
 				{
 					"date": "12/30/2023",
 					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
@@ -48691,20 +48723,7 @@
 				}
 			],
 			"documents": [],
-			"discipline": [
-				{
-					"entry": "9/14/2023 12:00:00 AM",
-					"allegations_count": 1,
-					"allegations": [
-						{
-							"recommendation": "TRAINING",
-							"case_no": "2023-27867",
-							"description": "01.Violated patrol rules.",
-							"penalty": "TRAINING"
-						}
-					]
-				}
-			],
+			"discipline": [],
 			"arrests": {
 				"felony": 35,
 				"misdemeanor": 98,
@@ -50465,7 +50484,7 @@
 				},
 				{
 					"date": "11/11/2019",
-					"name": "POLICE ACADEMY RECRUIT PRACTICE WRITTEN EXAM"
+					"name": "POLICE ACADEMY RECRUIT 1ST TRIMESTER PRACTICE WRITTEN EXAM"
 				},
 				{
 					"date": "11/11/2019",
@@ -68046,7 +68065,7 @@
 				},
 				{
 					"date": "8/10/2018",
-					"name": "POLICE ACADEMY RECRUIT PRACTICE WRITTEN EXAM"
+					"name": "POLICE ACADEMY RECRUIT 1ST TRIMESTER PRACTICE WRITTEN EXAM"
 				},
 				{
 					"date": "8/8/2018",
@@ -83639,10 +83658,14 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 24,
+				"felony": 26,
 				"misdemeanor": 23
 			},
 			"training": [
+				{
+					"date": "1/24/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
 				{
 					"date": "12/27/2023",
 					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
@@ -103401,9 +103424,17 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 5,
-				"misdemeanor": 17
+				"misdemeanor": 19
 			},
 			"training": [
+				{
+					"date": "1/17/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "1/16/2024",
+					"name": "ILERSBA - INITIAL LAW ENFORCMENT RESPONSE TO SUICIDE BOMBING ATTACKS"
+				},
 				{
 					"date": "1/11/2024",
 					"name": "CLT-PROCEDURAL OPERATIONS"
@@ -105598,7 +105629,7 @@
 				},
 				{
 					"date": "2/8/2019",
-					"name": "POLICE ACADEMY RECRUIT PRACTICE WRITTEN EXAM"
+					"name": "POLICE ACADEMY RECRUIT 1ST TRIMESTER PRACTICE WRITTEN EXAM"
 				},
 				{
 					"date": "2/8/2019",
@@ -117042,10 +117073,14 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 7,
-				"misdemeanor": 14
+				"felony": 14,
+				"misdemeanor": 28
 			},
 			"training": [
+				{
+					"date": "1/23/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
 				{
 					"date": "12/28/2023",
 					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
@@ -118801,8 +118836,20 @@
 					"name": "COMMENDATION - COMMUNITY SERVICE"
 				},
 				{
+					"date": "8/12/2022",
+					"name": "COMMENDATION - COMMUNITY SERVICE"
+				},
+				{
 					"date": "6/18/2022",
 					"name": "COMMENDATION"
+				},
+				{
+					"date": "6/18/2022",
+					"name": "COMMENDATION"
+				},
+				{
+					"date": "1/21/2020",
+					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
 					"date": "1/21/2020",
@@ -143649,6 +143696,18 @@
 				"violation": 18
 			},
 			"training": [
+				{
+					"date": "1/22/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "1/12/2024",
+					"name": "CLT-ENFORCEMENT ACTIONS"
+				},
+				{
+					"date": "1/12/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
 				{
 					"date": "1/11/2024",
 					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
