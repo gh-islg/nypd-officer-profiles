@@ -4,9 +4,10 @@
 import git 
 import pandas as pd
 import json
-import time
+import datetime
 import requests
 from tqdm.auto import tqdm
+import numpy as np
 import string
 import os
 # %%
@@ -51,11 +52,23 @@ letters = list(string.ascii_uppercase)
 # figure out diescrepancy between git
 # - not difference between committer vs. authored/...
 # is it the offsets?
-[_.committer_tz_offset for _ in all_commits]
-
+all_commit_dts = [_.committed_datetime for _ in all_commits]
+last_days = [pd.Timestamp(year=2022, month=_, day=1).days_in_month for _ in range(1,12)]
+last_day_in_month = [[i+1, last_days[i]] for i in range(0, 11)]
+last_day_in_month_comm = []
+for i in all_commit_dts:
+    month_dates = [i.month, i.day]
+    if month_dates in last_day_in_month:
+        ind = all_commit_dts.index(i)
+        commit = all_commits[ind]
+        last_day_in_month_comm.append(commit)
+        print(i)
+    else:
+        pass
+    
 #%%
-monthly_commits = all_commits[20:][::30]
-for i in monthly_commits[23:]:
+monthly_commits = last_day_in_month_comm
+for i in monthly_commits:
     print(f'Scraping commit: {i}') 
     results = pd.DataFrame()
     for j in letters:
@@ -66,5 +79,5 @@ for i in monthly_commits[23:]:
         # put letters together for each commit day
         results = pd.concat([results, result])
     # save
-    results.to_parquet(f'officer_training/commit-{i.committed_date}.parquet.gzip', compression='gzip')
+    results.to_parquet(f'officer_training/commit-{i.committed_datetime}.parquet.gzip', compression='gzip')
 #%%
