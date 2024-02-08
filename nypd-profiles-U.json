@@ -111775,6 +111775,14 @@
 			},
 			"training": [
 				{
+					"date": "2/4/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "2/4/2024",
+					"name": "NYPD RECRUITMENT TRAINING VIDEO"
+				},
+				{
 					"date": "1/18/2024",
 					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
 				},
@@ -150723,6 +150731,10 @@
 			},
 			"training": [
 				{
+					"date": "2/1/2024",
+					"name": "CLT-PROFESSIONAL DEVELOPMENT"
+				},
+				{
 					"date": "1/25/2024",
 					"name": "CLT-PROCEDURAL OPERATIONS"
 				},
@@ -151768,10 +151780,22 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 45,
+				"misdemeanor": 46,
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "1/31/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
+					"date": "1/29/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "1/28/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
 				{
 					"date": "1/25/2024",
 					"name": "CLT-PROCEDURAL OPERATIONS"
