@@ -5492,11 +5492,35 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 4,
+				"felony": 5,
 				"misdemeanor": 171,
 				"violation": 7
 			},
 			"training": [
+				{
+					"date": "2/23/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
+				{
+					"date": "2/1/2024",
+					"name": "CLT-ENFORCEMENT ACTIONS"
+				},
+				{
+					"date": "2/1/2024",
+					"name": "CLT-INFORMATION TECHNOLOGY"
+				},
+				{
+					"date": "2/1/2024",
+					"name": "CLT-INVESTIGATIONS"
+				},
+				{
+					"date": "2/1/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/1/2024",
+					"name": "CLT-PROPERTY"
+				},
 				{
 					"date": "1/23/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
@@ -26426,8 +26450,40 @@
 			},
 			"training": [
 				{
+					"date": "3/2/2024",
+					"name": "CLT-ENFORCEMENT ACTIONS"
+				},
+				{
+					"date": "2/16/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "2/15/2024",
+					"name": "CLT-COUNTERTERRORISM AND INTELLIGENCE"
+				},
+				{
+					"date": "2/9/2024",
+					"name": "FIELD FORCE OPERATIONS (FFO) - 5 DAY"
+				},
+				{
+					"date": "2/1/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
+					"date": "1/31/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
 					"date": "1/31/2024",
 					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 5 SQF LEVELS 3 AND 4"
+				},
+				{
+					"date": "1/30/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "1/30/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
 				},
 				{
 					"date": "1/22/2024",
@@ -35525,6 +35581,10 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "2/1/2024",
+					"name": "CALEA ACCREDITATION FAMILIARIZATION TRAINING"
+				},
 				{
 					"date": "1/19/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
@@ -51592,6 +51652,26 @@
 				"violation": 13
 			},
 			"training": [
+				{
+					"date": "3/6/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "3/1/2024",
+					"name": "FIELD FORCE OPERATIONS (FFO) - 5 DAY"
+				},
+				{
+					"date": "2/13/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "2/13/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/8/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
 				{
 					"date": "1/31/2024",
 					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
@@ -87867,6 +87947,14 @@
 			},
 			"training": [
 				{
+					"date": "3/5/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "2/3/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
 					"date": "1/11/2024",
 					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
 				},
@@ -95317,6 +95405,10 @@
 				"violation": 8
 			},
 			"training": [
+				{
+					"date": "2/10/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
 				{
 					"date": "1/17/2024",
 					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
@@ -137329,11 +137421,31 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 14,
+				"felony": 15,
 				"misdemeanor": 41,
 				"violation": 5
 			},
 			"training": [
+				{
+					"date": "3/4/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "2/25/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "2/19/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "2/7/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "2/6/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
 				{
 					"date": "1/7/2024",
 					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
