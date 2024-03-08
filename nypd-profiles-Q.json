@@ -12352,6 +12352,42 @@
 			},
 			"training": [
 				{
+					"date": "3/4/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "3/4/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "3/4/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/16/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "2/9/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "2/9/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/8/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "2/8/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
 					"date": "1/26/2024",
 					"name": "CLT-PROCEDURAL OPERATIONS"
 				},
@@ -78245,6 +78281,18 @@
 			},
 			"training": [
 				{
+					"date": "3/7/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "2/28/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
+				{
+					"date": "2/28/2024",
+					"name": "FTS - COLT M4 RE-QUALIFICATION"
+				},
+				{
 					"date": "1/22/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
 				},
@@ -78415,10 +78463,6 @@
 				{
 					"date": "2/22/2023",
 					"name": "INFORMATION SECURITY CRIMINAL JUSTICE TRAINING 2023"
-				},
-				{
-					"date": "2/15/2023",
-					"name": "FTS - COLT M4 RE-QUALIFICATION"
 				},
 				{
 					"date": "2/14/2023",
@@ -88548,6 +88592,10 @@
 			},
 			"training": [
 				{
+					"date": "2/29/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
 					"date": "1/23/2024",
 					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
 				},
@@ -90368,18 +90416,18 @@
 		"first_name": "KERIN",
 		"last_name": "QUINN",
 		"middle_initial": "E",
-		"rank": "SERGEANT",
-		"shield_no": "2406",
+		"rank": "LIEUTENANT",
+		"shield_no": "",
 		"appt_date": "7/9/2013",
 		"recognition_count": 1,
 		"arrest_count": 129,
 		"reports": {
 			"summary": {
-				"command": "STRATEGIC RESP GRP 4 QUEENS",
-				"assignment_date": "1/13/2020",
+				"command": "UNIFORMED PROMOTIONS TRN UNIT",
+				"assignment_date": "2/23/2024",
 				"ethnicity": "WHITE",
-				"rank_desc": "SERGEANT",
-				"shield_no": "2406",
+				"rank_desc": "LIEUTENANT",
+				"shield_no": "",
 				"appt_date": "7/9/2013"
 			},
 			"ranks": [
@@ -91827,7 +91875,7 @@
 				}
 			]
 		},
-		"command": "STRATEGIC RESP GRP 4 QUEENS"
+		"command": "UNIFORMED PROMOTIONS TRN UNIT"
 	},
 	{
 		"taxid": 957977,
@@ -91869,6 +91917,10 @@
 				"violation": 2
 			},
 			"training": [
+				{
+					"date": "2/28/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
 				{
 					"date": "12/12/2023",
 					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
@@ -93766,6 +93818,14 @@
 				"violation": 9
 			},
 			"training": [
+				{
+					"date": "2/13/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "2/13/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
 				{
 					"date": "1/23/2024",
 					"name": "RECOGNIZING AND IDENTIFYING DOMESTIC AND HOMEGROWN VIOLENT EXTREMISM (AWR-409)"
@@ -99673,7 +99733,7 @@
 		"reports": {
 			"summary": {
 				"command": "BROOKLYN SPECIAL VICTIMS SQUAD",
-				"assignment_date": "11/27/2023",
+				"assignment_date": "2/8/2024",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "9428",
@@ -105267,8 +105327,8 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 5,
-				"misdemeanor": 50
+				"felony": 10,
+				"misdemeanor": 100
 			},
 			"training": [
 				{
@@ -106725,6 +106785,10 @@
 				}
 			],
 			"awards": [
+				{
+					"date": "2/14/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
 				{
 					"date": "2/14/2016",
 					"name": "EXCELLENT POLICE DUTY"
@@ -108905,6 +108969,14 @@
 				},
 				{
 					"date": "5/16/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/6/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/15/2023",
 					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
@@ -114490,7 +114562,7 @@
 		"shield_no": "1855",
 		"appt_date": "7/9/2013",
 		"recognition_count": 0,
-		"arrest_count": 317,
+		"arrest_count": 322,
 		"reports": {
 			"summary": {
 				"command": "111TH DET SQUAD",
@@ -120519,7 +120591,7 @@
 		"shield_no": "4268",
 		"appt_date": "7/9/2013",
 		"recognition_count": 0,
-		"arrest_count": 170,
+		"arrest_count": 85,
 		"reports": {
 			"summary": {
 				"command": "HEALTH & WELLNESS SECTION",
@@ -128373,6 +128445,30 @@
 			},
 			"training": [
 				{
+					"date": "3/3/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "3/3/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "2/15/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "2/14/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "2/14/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "2/13/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
 					"date": "1/19/2024",
 					"name": "AUGMENTED REALITY FEATURE"
 				},
@@ -133106,6 +133202,30 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "3/6/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "2/20/2024",
+					"name": "CLT-COUNTERTERRORISM AND INTELLIGENCE"
+				},
+				{
+					"date": "2/16/2024",
+					"name": "CLT-COUNTERTERRORISM AND INTELLIGENCE"
+				},
+				{
+					"date": "2/15/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "2/15/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "2/3/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
 				{
 					"date": "2/1/2024",
 					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
@@ -144551,18 +144671,18 @@
 		"first_name": "MICHAEL",
 		"last_name": "QUINTO",
 		"middle_initial": "P",
-		"rank": "SERGEANT",
-		"shield_no": "4259",
+		"rank": "LIEUTENANT",
+		"shield_no": "",
 		"appt_date": "7/11/2012",
 		"recognition_count": 7,
 		"arrest_count": 89,
 		"reports": {
 			"summary": {
-				"command": "PERFORMANCE ANALYSIS SEC",
-				"assignment_date": "11/28/2021",
+				"command": "UNIFORMED PROMOTIONS TRN UNIT",
+				"assignment_date": "2/23/2024",
 				"ethnicity": "WHITE",
-				"rank_desc": "SERGEANT",
-				"shield_no": "4259",
+				"rank_desc": "LIEUTENANT",
+				"shield_no": "",
 				"appt_date": "7/11/2012"
 			},
 			"ranks": [
@@ -145711,7 +145831,7 @@
 				}
 			]
 		},
-		"command": "PERFORMANCE ANALYSIS SEC"
+		"command": "UNIFORMED PROMOTIONS TRN UNIT"
 	},
 	{
 		"taxid": 951099,
@@ -147501,7 +147621,7 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "12560",
 		"appt_date": "1/10/2005",
-		"recognition_count": 0,
+		"recognition_count": 7,
 		"arrest_count": 96,
 		"reports": {
 			"summary": {
@@ -150380,11 +150500,19 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 108,
+				"felony": 110,
 				"misdemeanor": 75,
 				"violation": 2
 			},
 			"training": [
+				{
+					"date": "2/28/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
+				{
+					"date": "2/16/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
 				{
 					"date": "12/5/2023",
 					"name": "FTS - ANNUAL CEW RECERTIFICATION"
