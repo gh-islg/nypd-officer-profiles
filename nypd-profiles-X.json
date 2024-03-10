@@ -8153,7 +8153,7 @@
 		"shield_no": "6295",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 16,
+		"arrest_count": 17,
 		"reports": {
 			"summary": {
 				"command": "072 PRECINCT",
@@ -13696,6 +13696,34 @@
 			},
 			"training": [
 				{
+					"date": "3/4/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "3/3/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "2/26/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/15/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
+					"date": "2/14/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/13/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/12/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
 					"date": "2/2/2024",
 					"name": "CLT-DOCUMENTATION AND FORMS"
 				},
@@ -17566,6 +17594,18 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "2/12/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "2/8/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
+					"date": "2/5/2024",
+					"name": "CLT-INFORMATION TECHNOLOGY"
+				},
 				{
 					"date": "1/31/2024",
 					"name": "CLT-SPECIAL POPULATIONS"
@@ -23454,7 +23494,7 @@
 		"shield_no": "15480",
 		"appt_date": "11/2/2020",
 		"recognition_count": 0,
-		"arrest_count": 21,
+		"arrest_count": 26,
 		"reports": {
 			"summary": {
 				"command": "063 PRECINCT",
@@ -23474,10 +23514,50 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 2,
-				"misdemeanor": 19
+				"felony": 5,
+				"misdemeanor": 21
 			},
 			"training": [
+				{
+					"date": "3/3/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/27/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "2/26/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "2/20/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "2/18/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "2/14/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/9/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "2/8/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "2/7/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
 				{
 					"date": "2/1/2024",
 					"name": "FTS - ANNUAL CEW RECERTIFICATION"
@@ -24697,7 +24777,7 @@
 		"shield_no": "14466",
 		"appt_date": "7/13/2016",
 		"recognition_count": 0,
-		"arrest_count": 76,
+		"arrest_count": 79,
 		"reports": {
 			"summary": {
 				"command": "070 PRECINCT",

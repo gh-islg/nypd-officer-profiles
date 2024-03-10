@@ -4137,7 +4137,7 @@
 		"shield_no": "4652",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 53,
+		"arrest_count": 59,
 		"reports": {
 			"summary": {
 				"command": "044 PRECINCT",
@@ -9448,7 +9448,7 @@
 		"shield_no": "4036",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 35,
+		"arrest_count": 40,
 		"reports": {
 			"summary": {
 				"command": "060 PRECINCT",
@@ -13357,6 +13357,34 @@
 			},
 			"training": [
 				{
+					"date": "3/7/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "2/27/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
+				{
+					"date": "2/19/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "2/12/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "2/10/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "2/10/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
 					"date": "2/2/2024",
 					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
 				},
@@ -13759,14 +13787,6 @@
 				{
 					"date": "3/10/2022",
 					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
-				},
-				{
-					"date": "3/9/2022",
-					"name": "BLASTT OR CPR"
-				},
-				{
-					"date": "3/9/2022",
-					"name": "BLASTT – BASIC LIFE SUPPORT AND TRAUMA TREATMENT"
 				},
 				{
 					"date": "3/9/2022",
@@ -14783,7 +14803,7 @@
 		"shield_no": "22783",
 		"appt_date": "11/2/2020",
 		"recognition_count": 0,
-		"arrest_count": 25,
+		"arrest_count": 26,
 		"reports": {
 			"summary": {
 				"command": "024 PRECINCT",
@@ -17253,6 +17273,10 @@
 				"misdemeanor": 5
 			},
 			"training": [
+				{
+					"date": "3/8/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
 				{
 					"date": "1/19/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
@@ -21748,12 +21772,24 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 4
+				"misdemeanor": 5
 			},
 			"training": [
 				{
+					"date": "2/27/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
+				{
 					"date": "1/30/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "1/30/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "1/30/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
 				},
 				{
 					"date": "1/16/2024",
@@ -23782,15 +23818,42 @@
 				}
 			],
 			"documents": [],
-			"discipline": [],
+			"discipline": [
+				{
+					"entry": "5/20/2022 12:00:00 AM",
+					"allegations_count": 2,
+					"allegations": [
+						{
+							"recommendation": "A-CD",
+							"case_no": "2020-22835",
+							"description": "01.refused to provide name",
+							"penalty": "A - COMMAND DISCIPLINE, TRAINING"
+						},
+						{
+							"recommendation": "A-CD",
+							"case_no": "2020-22835",
+							"description": "02.refused to provide shield number",
+							"penalty": "A - COMMAND DISCIPLINE, TRAINING"
+						}
+					]
+				}
+			],
 			"arrests": {
-				"felony": 4,
+				"felony": 5,
 				"misdemeanor": 12
 			},
 			"training": [
 				{
+					"date": "2/27/2024",
+					"name": "SPRINTER VAN QUALIFICATION"
+				},
+				{
 					"date": "1/29/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "1/29/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
 				},
 				{
 					"date": "1/7/2024",
@@ -25315,6 +25378,14 @@
 				"misdemeanor": 2
 			},
 			"training": [
+				{
+					"date": "3/1/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "2/28/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
 				{
 					"date": "2/1/2024",
 					"name": "CRISIS INTERVENTION TEAM TRAINING"
@@ -29737,7 +29808,7 @@
 		"shield_no": "4607",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 26,
+		"arrest_count": 29,
 		"reports": {
 			"summary": {
 				"command": "041 PRECINCT",
@@ -37982,10 +38053,18 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 43,
+				"felony": 44,
 				"misdemeanor": 36
 			},
 			"training": [
+				{
+					"date": "3/7/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "1/26/2024",
+					"name": "EMERGENCY VEHICLE OPERATOR ONE DAY SKILL-BUILDER"
+				},
 				{
 					"date": "1/24/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
@@ -40282,6 +40361,22 @@
 				"misdemeanor": 20
 			},
 			"training": [
+				{
+					"date": "2/22/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "2/6/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "2/3/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
 				{
 					"date": "2/2/2024",
 					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
@@ -42593,6 +42688,14 @@
 			},
 			"training": [
 				{
+					"date": "3/5/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "2/6/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
 					"date": "1/7/2024",
 					"name": "FOX TALKS: TRANSITIONAL ANXIETY WITH CHIEF JOSEPH FOX, TRANSIT BUREAU"
 				},
@@ -43115,14 +43218,6 @@
 				{
 					"date": "2/16/2022",
 					"name": "CHEST SEAL DISTRIBUTION AND FAMILIARIZATION"
-				},
-				{
-					"date": "2/15/2022",
-					"name": "BLASTT OR CPR"
-				},
-				{
-					"date": "2/15/2022",
-					"name": "BLASTT – BASIC LIFE SUPPORT AND TRAUMA TREATMENT"
 				},
 				{
 					"date": "2/3/2022",
@@ -44844,10 +44939,14 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 6,
-				"misdemeanor": 33
+				"felony": 7,
+				"misdemeanor": 35
 			},
 			"training": [
+				{
+					"date": "2/16/2024",
+					"name": "CLT-COUNTERTERRORISM AND INTELLIGENCE"
+				},
 				{
 					"date": "2/1/2024",
 					"name": "CLT-INVESTIGATIONS"
@@ -56957,7 +57056,7 @@
 		"shield_no": "7309",
 		"appt_date": "4/12/2017",
 		"recognition_count": 1,
-		"arrest_count": 82,
+		"arrest_count": 87,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 7",
@@ -56977,8 +57076,8 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 29,
-				"misdemeanor": 52,
+				"felony": 30,
+				"misdemeanor": 56,
 				"violation": 1
 			},
 			"training": [
@@ -66492,7 +66591,7 @@
 		"reports": {
 			"summary": {
 				"command": "DET BORO MANHATTAN NORTH",
-				"assignment_date": "1/16/2023",
+				"assignment_date": "3/4/2024",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "2658",
@@ -90829,6 +90928,42 @@
 			},
 			"training": [
 				{
+					"date": "3/6/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "3/6/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "3/6/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/29/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "2/20/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "2/12/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/12/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
+					"date": "2/9/2024",
+					"name": "FIELD FORCE OPERATIONS (FFO) - 5 DAY"
+				},
+				{
+					"date": "2/7/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
 					"date": "1/28/2024",
 					"name": "CLT-PROCEDURAL OPERATIONS"
 				},
@@ -92936,6 +93071,18 @@
 				"misdemeanor": 13
 			},
 			"training": [
+				{
+					"date": "2/7/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/6/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/6/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
 				{
 					"date": "1/28/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
@@ -96021,7 +96168,7 @@
 		"shield_no": "25758",
 		"appt_date": "11/2/2020",
 		"recognition_count": 0,
-		"arrest_count": 15,
+		"arrest_count": 16,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 7",
@@ -97948,6 +98095,30 @@
 			},
 			"training": [
 				{
+					"date": "3/8/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "3/8/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "3/8/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "3/8/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "2/22/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "2/15/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
 					"date": "9/19/2023",
 					"name": "CLT-CRIME CONTROL STRATEGIES AND PROBLEM SOLVING"
 				},
@@ -99409,9 +99580,33 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 5,
-				"misdemeanor": 19
+				"misdemeanor": 20
 			},
 			"training": [
+				{
+					"date": "2/26/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "2/19/2024",
+					"name": "CLT-COUNTERTERRORISM AND INTELLIGENCE"
+				},
+				{
+					"date": "2/14/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "2/13/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "2/8/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
+					"date": "2/5/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
 				{
 					"date": "2/1/2024",
 					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
@@ -105932,7 +106127,7 @@
 		"shield_no": "24715",
 		"appt_date": "10/11/2016",
 		"recognition_count": 0,
-		"arrest_count": 131,
+		"arrest_count": 132,
 		"reports": {
 			"summary": {
 				"command": "043 PRECINCT",
@@ -116144,10 +116339,50 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 44,
-				"misdemeanor": 177
+				"felony": 48,
+				"misdemeanor": 179
 			},
 			"training": [
+				{
+					"date": "3/7/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "3/5/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/28/2024",
+					"name": "ADVANCED TACTICAL FIREARMS TRAINING COURSE"
+				},
+				{
+					"date": "2/28/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
+				{
+					"date": "2/19/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "2/19/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/19/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 5 SQF LEVELS 3 AND 4"
+				},
+				{
+					"date": "2/9/2024",
+					"name": "EMERGENCY VEHICLE OPERATOR ONE DAY SKILL-BUILDER"
+				},
+				{
+					"date": "2/8/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
+					"date": "1/30/2024",
+					"name": "CLT-LEGAL ISSUES"
+				},
 				{
 					"date": "1/15/2024",
 					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
@@ -134966,12 +135201,92 @@
 				}
 			],
 			"documents": [],
-			"discipline": [],
+			"discipline": [
+				{
+					"entry": "12/5/2022 12:00:00 AM",
+					"allegations_count": 2,
+					"allegations": [
+						{
+							"recommendation": "CHARGES AND SPECIFICATIONS",
+							"case_no": "2022-25297",
+							"description": "01.Wrongful removal to a hospital."
+						},
+						{
+							"recommendation": "CHARGES AND SPECIFICATIONS",
+							"case_no": "2022-25297",
+							"description": "02.Wrongfully used physical force."
+						}
+					]
+				},
+				{
+					"entry": "2/23/2023 12:00:00 AM",
+					"allegations_count": 1,
+					"allegations": [
+						{
+							"recommendation": "OTHER",
+							"case_no": "2022-25387",
+							"description": "01.Failed to prepare required reports."
+						}
+					]
+				},
+				{
+					"entry": "1/2/2024 12:00:00 AM",
+					"allegations_count": 1,
+					"allegations": [
+						{
+							"recommendation": "TRAINING",
+							"case_no": "2023-28577",
+							"description": "01.Wrongful entry of a premises.",
+							"penalty": "TRAINING"
+						}
+					]
+				}
+			],
 			"arrests": {
-				"felony": 11,
-				"misdemeanor": 22
+				"felony": 12,
+				"misdemeanor": 24
 			},
 			"training": [
+				{
+					"date": "2/26/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "2/26/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
+					"date": "2/11/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "2/11/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/11/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
+					"date": "2/5/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/4/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "2/4/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
+					"date": "2/3/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "1/30/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
 				{
 					"date": "1/18/2024",
 					"name": "CLT-DOCUMENTATION AND FORMS"
