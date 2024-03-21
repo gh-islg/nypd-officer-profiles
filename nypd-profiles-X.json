@@ -28041,11 +28041,27 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 46,
-				"misdemeanor": 67,
-				"violation": 2
+				"felony": 49,
+				"misdemeanor": 71,
+				"violation": 4
 			},
 			"training": [
+				{
+					"date": "3/2/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "3/1/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "2/16/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
+					"date": "2/14/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
 				{
 					"date": "1/14/2024",
 					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
