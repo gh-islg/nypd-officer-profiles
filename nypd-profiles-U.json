@@ -49153,6 +49153,14 @@
 			},
 			"training": [
 				{
+					"date": "3/6/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "2/29/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
 					"date": "1/23/2024",
 					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
 				},
@@ -82540,10 +82548,50 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 21,
-				"misdemeanor": 47
+				"felony": 26,
+				"misdemeanor": 48
 			},
 			"training": [
+				{
+					"date": "3/21/2024",
+					"name": "DEMO CERTIFICATION 3"
+				},
+				{
+					"date": "3/13/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "3/13/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "3/13/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
+					"date": "3/13/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "3/13/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
+					"date": "3/7/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/28/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/28/2024",
+					"name": "DEMO CERTIFICATION 3"
+				},
+				{
+					"date": "2/8/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
 				{
 					"date": "2/2/2024",
 					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
@@ -84942,6 +84990,38 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "3/21/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 5 SQF LEVELS 3 AND 4"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "2/16/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "2/16/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
+					"date": "2/15/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "2/8/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "2/6/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
 				{
 					"date": "2/4/2024",
 					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
@@ -121234,12 +121314,44 @@
 				}
 			],
 			"documents": [],
-			"discipline": [],
+			"discipline": [
+				{
+					"entry": "10/18/2023 12:00:00 AM",
+					"allegations_count": 1,
+					"allegations": [
+						{
+							"recommendation": "NO DISCIPLINARY ACTION",
+							"case_no": "2023-28668",
+							"description": "01.Violated patrol rules - failed to provide a business card"
+						}
+					]
+				}
+			],
 			"arrests": {
-				"felony": 30,
+				"felony": 31,
 				"misdemeanor": 33
 			},
 			"training": [
+				{
+					"date": "3/21/2024",
+					"name": "AUGMENTED REALITY FEATURE"
+				},
+				{
+					"date": "3/21/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "3/16/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "3/16/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "3/12/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
 				{
 					"date": "1/30/2024",
 					"name": "CPR-AED CARDIOPULMONARY RESUSCITATION-AUTOMATED EXTERNAL DEFIBRILLATOR REFRESHER"
@@ -152167,11 +152279,35 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 77,
-				"misdemeanor": 54,
-				"violation": 1
+				"felony": 154,
+				"misdemeanor": 108,
+				"violation": 2
 			},
 			"training": [
+				{
+					"date": "3/6/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "3/5/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "2/22/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "2/8/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "2/8/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "2/8/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
 				{
 					"date": "5/30/2023",
 					"name": "2023 EQUAL EMPLOYMENT OPPORTUNITY TRAINING-SEXUAL HARASSMENT AWARENESS AND PREVENTION"
@@ -152577,6 +152713,14 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
+					"date": "3/15/2008",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/26/2007",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "6/26/2007",
 					"name": "EXCELLENT POLICE DUTY"
 				},
@@ -152585,7 +152729,19 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
+					"date": "10/10/2006",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "4/16/2006",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/16/2006",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/28/2005",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
