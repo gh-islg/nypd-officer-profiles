@@ -42030,8 +42030,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 9,
-				"felony": 122,
-				"misdemeanor": 360,
+				"felony": 124,
+				"misdemeanor": 361,
 				"other": 3,
 				"violation": 12
 			},
@@ -72187,6 +72187,66 @@
 			},
 			"training": [
 				{
+					"date": "3/12/2024",
+					"name": "ADVANCED NARCOTICS INVESTIGATION COURSE (HIDTA)"
+				},
+				{
+					"date": "2/27/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "AUGMENTED REALITY FEATURE"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "BELT-WORN TRAUMA KIT REFRESHER TRAINING VIDEO-2022"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "ELDER ABUSE -2023 REFRESHER"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 2 SQF LEVEL 1"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 3 SQF LEVEL 2"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "NYPD JOUVERT AND WEST INDIAN DAY-2023"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "VEHICLE MOUNTED VIDEO SYSTEM"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "VIDEO 2 -TACTICAL CONSIDERATIONS FOR TRANSIT PATROL 2022 (PART 1)"
+				},
+				{
+					"date": "2/21/2024",
+					"name": "VIDEO 3 - TACTICAL CONSIDERATIONS FOR TRANSIT PATROL 2022 (PART 2)"
+				},
+				{
 					"date": "12/18/2023",
 					"name": "CRIMINAL INVESTIGATORS COURSE"
 				},
@@ -72253,6 +72313,10 @@
 				{
 					"date": "2/10/2023",
 					"name": "DETECTIVE BUREAU INVESTIGATOR - SUPERVISOR FIVE DAY SEARCH WARRANT TACTICAL COURSE"
+				},
+				{
+					"date": "2/10/2023",
+					"name": "DETECTIVE BUREAU SEARCH WARRANT TRAINING"
 				},
 				{
 					"date": "12/21/2022",
@@ -75668,6 +75732,10 @@
 				"violation": 4
 			},
 			"training": [
+				{
+					"date": "3/11/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
 				{
 					"date": "1/19/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
@@ -131632,6 +131700,10 @@
 			},
 			"training": [
 				{
+					"date": "3/6/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
 					"date": "1/20/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
 				},
@@ -140058,6 +140130,14 @@
 			},
 			"training": [
 				{
+					"date": "3/20/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "3/12/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
 					"date": "1/16/2024",
 					"name": "SRG - RAPID MOBILIZATION (PATROL) LEVEL 4"
 				},
@@ -140616,6 +140696,10 @@
 				{
 					"date": "5/7/2008",
 					"name": "DETECTIVE BUREAU INVESTIGATOR - SUPERVISOR THREE DAY ADMINISTRATIVE SEARCH WARRANT COURSE"
+				},
+				{
+					"date": "5/7/2008",
+					"name": "DETECTIVE BUREAU SEARCH WARRANT TRAINING"
 				},
 				{
 					"date": "5/7/2008",
@@ -152253,8 +152337,8 @@
 		"rank": "DETECTIVE 1ST GRADE",
 		"shield_no": "5064",
 		"appt_date": "7/1/2003",
-		"recognition_count": 5,
-		"arrest_count": 132,
+		"recognition_count": 10,
+		"arrest_count": 264,
 		"reports": {
 			"summary": {
 				"command": "CHIEF CRIME CONTROL STRATEGIES",
