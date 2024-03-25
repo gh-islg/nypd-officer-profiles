@@ -37985,6 +37985,10 @@
 				},
 				{
 					"date": "12/3/2010",
+					"name": "DETECTIVE BUREAU SEARCH WARRANT TRAINING"
+				},
+				{
+					"date": "12/3/2010",
 					"name": "PSB MARIJUANA FIELD TESTING"
 				},
 				{
@@ -39505,6 +39509,10 @@
 			},
 			"training": [
 				{
+					"date": "3/11/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
 					"date": "1/31/2024",
 					"name": "AUGMENTED REALITY FEATURE"
 				},
@@ -39515,6 +39523,22 @@
 				{
 					"date": "1/31/2024",
 					"name": "ELDER ABUSE -2023 REFRESHER"
+				},
+				{
+					"date": "1/31/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "1/31/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "1/31/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "1/31/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
 				},
 				{
 					"date": "1/29/2024",
@@ -42004,7 +42028,7 @@
 		"shield_no": "6911",
 		"appt_date": "1/20/2004",
 		"recognition_count": 2,
-		"arrest_count": 506,
+		"arrest_count": 509,
 		"reports": {
 			"summary": {
 				"command": "NARC BORO BRONX",
@@ -42036,6 +42060,10 @@
 				"violation": 12
 			},
 			"training": [
+				{
+					"date": "3/12/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
 				{
 					"date": "8/22/2023",
 					"name": "2023 EQUAL EMPLOYMENT OPPORTUNITY TRAINING-SEXUAL HARASSMENT AWARENESS AND PREVENTION"
@@ -42579,6 +42607,10 @@
 				{
 					"date": "2/17/2015",
 					"name": "DETECTIVE BUREAU INVESTIGATOR - SUPERVISOR THREE DAY ADMINISTRATIVE SEARCH WARRANT COURSE"
+				},
+				{
+					"date": "2/17/2015",
+					"name": "DETECTIVE BUREAU SEARCH WARRANT TRAINING"
 				},
 				{
 					"date": "5/23/2013",
@@ -74922,6 +74954,50 @@
 			},
 			"training": [
 				{
+					"date": "3/18/2024",
+					"name": "COLT COMMANDO CERTIFIED (ESU REQUAL)"
+				},
+				{
+					"date": "3/18/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
+				{
+					"date": "3/18/2024",
+					"name": "GLOCK LIGHTED PISTOL CERTIFIED (ESU REQUAL)"
+				},
+				{
+					"date": "3/18/2024",
+					"name": "HECKLER & KOCH MP5 CERTIFIED (ESU REQUAL)"
+				},
+				{
+					"date": "3/18/2024",
+					"name": "MOSSBERG CERTIFIED (ESU REQUAL)"
+				},
+				{
+					"date": "3/18/2024",
+					"name": "OFF DUTY PISTOL COURSE OF FIRE (ESU REQUAL)"
+				},
+				{
+					"date": "3/18/2024",
+					"name": "SERVICE PISTOL COURSE OF FIRE (ESU REQUAL)"
+				},
+				{
+					"date": "3/12/2024",
+					"name": "DIGNITARY PROTECTION COURSE"
+				},
+				{
+					"date": "2/25/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "2/25/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
+					"date": "2/6/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
 					"date": "11/15/2023",
 					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
 				},
@@ -74968,30 +75044,6 @@
 				{
 					"date": "2/18/2023",
 					"name": "RAISING THE LOWER AGE OF JUVENILE DELINQUENCY"
-				},
-				{
-					"date": "2/15/2023",
-					"name": "COLT COMMANDO CERTIFIED (ESU REQUAL)"
-				},
-				{
-					"date": "2/15/2023",
-					"name": "GLOCK LIGHTED PISTOL CERTIFIED (ESU REQUAL)"
-				},
-				{
-					"date": "2/15/2023",
-					"name": "HECKLER & KOCH MP5 CERTIFIED (ESU REQUAL)"
-				},
-				{
-					"date": "2/15/2023",
-					"name": "MOSSBERG CERTIFIED (ESU REQUAL)"
-				},
-				{
-					"date": "2/15/2023",
-					"name": "OFF DUTY PISTOL COURSE OF FIRE (ESU REQUAL)"
-				},
-				{
-					"date": "2/15/2023",
-					"name": "SERVICE PISTOL COURSE OF FIRE (ESU REQUAL)"
 				},
 				{
 					"date": "2/1/2023",
@@ -77050,8 +77102,40 @@
 			},
 			"training": [
 				{
+					"date": "3/15/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "3/15/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "3/15/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
+					"date": "3/14/2024",
+					"name": "SRG - 2024 C01 - CIRC REFRESHER"
+				},
+				{
+					"date": "3/8/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
+				{
+					"date": "3/8/2024",
+					"name": "FTS - COLT M4 RE-QUALIFICATION"
+				},
+				{
+					"date": "3/5/2024",
+					"name": "SRG - 2024 C01 - FFO REFRESHER"
+				},
+				{
 					"date": "2/1/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "2/1/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
 				},
 				{
 					"date": "1/3/2024",
@@ -82595,7 +82679,7 @@
 		"shield_no": "28469",
 		"appt_date": "1/6/2020",
 		"recognition_count": 1,
-		"arrest_count": 69,
+		"arrest_count": 75,
 		"reports": {
 			"summary": {
 				"command": "110 PRECINCT",
@@ -97535,6 +97619,50 @@
 			},
 			"training": [
 				{
+					"date": "3/5/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "3/1/2024",
+					"name": "AUGMENTED REALITY FEATURE"
+				},
+				{
+					"date": "3/1/2024",
+					"name": "ELDER ABUSE -2023 REFRESHER"
+				},
+				{
+					"date": "2/29/2024",
+					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
+				},
+				{
+					"date": "2/29/2024",
+					"name": "NYPD RECRUITMENT TRAINING VIDEO"
+				},
+				{
+					"date": "2/29/2024",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
+				{
+					"date": "2/23/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "2/9/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "2/8/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "2/8/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "2/8/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
+				},
+				{
 					"date": "11/20/2023",
 					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
 				},
@@ -108087,7 +108215,28 @@
 				}
 			],
 			"documents": [],
-			"discipline": [],
+			"discipline": [
+				{
+					"entry": "8/21/2018 12:00:00 AM",
+					"charges_count": 2,
+					"charges": [
+						{
+							"disposition": "GUILTY",
+							"command": "268-DET SQD. BX-045",
+							"case_no": "2018-19351",
+							"description": "WHILE OFF-DUTY, FAIL TO PROPERLY SAFEGURAD HIS FIREARM.",
+							"penalty": "VACATION DAYS (25 day(s) )"
+						},
+						{
+							"disposition": "GUILTY",
+							"command": "268-DET SQD. BX-045",
+							"case_no": "2018-19351",
+							"description": "AFTER BEING INVOLVED IN AN UNUSUAL POLICE OCCURRENCE, FAIL TO NOTIFY THE OPERATIONS UNIT.",
+							"penalty": "VACATION DAYS (25 day(s) )"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"infraction": 1,
 				"felony": 123,
@@ -108101,7 +108250,15 @@
 				},
 				{
 					"date": "2/4/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "2/4/2024",
 					"name": "NYPD RECRUITMENT TRAINING VIDEO"
+				},
+				{
+					"date": "2/4/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
 				},
 				{
 					"date": "1/18/2024",
@@ -121364,7 +121521,7 @@
 		"shield_no": "24649",
 		"appt_date": "7/5/2017",
 		"recognition_count": 4,
-		"arrest_count": 63,
+		"arrest_count": 64,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 7",
@@ -130680,6 +130837,14 @@
 				"violation": 12
 			},
 			"training": [
+				{
+					"date": "3/12/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
+					"date": "3/4/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
 				{
 					"date": "1/18/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
@@ -142794,7 +142959,7 @@
 		"shield_no": "3631",
 		"appt_date": "7/11/2005",
 		"recognition_count": 15,
-		"arrest_count": 228,
+		"arrest_count": 230,
 		"reports": {
 			"summary": {
 				"command": "INTEL CIS FIO PROGRAM",
@@ -142819,7 +142984,7 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 83,
+				"felony": 85,
 				"misdemeanor": 137,
 				"violation": 8
 			},
@@ -145995,6 +146160,70 @@
 			},
 			"training": [
 				{
+					"date": "3/18/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
+					"date": "3/12/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "3/12/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "3/12/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "3/12/2024",
+					"name": "CLT-LEGAL ISSUES"
+				},
+				{
+					"date": "3/12/2024",
+					"name": "CLT-PROPERTY"
+				},
+				{
+					"date": "3/6/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "3/6/2024",
+					"name": "CLT-INVESTIGATIONS"
+				},
+				{
+					"date": "3/2/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
+					"date": "2/29/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/29/2024",
+					"name": "CLT-PROFESSIONAL DEVELOPMENT"
+				},
+				{
+					"date": "2/24/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
+					"date": "2/16/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
+					"date": "2/12/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "2/12/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "2/12/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
 					"date": "2/1/2024",
 					"name": "CLT-PROFESSIONAL DEVELOPMENT"
 				},
@@ -147048,6 +147277,58 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "3/22/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "3/21/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
+					"date": "3/17/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "3/13/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "3/13/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
+					"date": "3/10/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "3/8/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "3/6/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "2/29/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "2/27/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "2/12/2024",
+					"name": "CLT-LEGAL ISSUES"
+				},
+				{
+					"date": "2/8/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "2/7/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
 				{
 					"date": "1/31/2024",
 					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
@@ -152850,7 +153131,7 @@
 		"reports": {
 			"summary": {
 				"command": "CRIME SCENE UNIT",
-				"assignment_date": "12/18/2023",
+				"assignment_date": "3/3/2024",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "19660",
@@ -152873,6 +153154,10 @@
 			"training": [
 				{
 					"date": "2/6/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "2/6/2024",
 					"name": "NEW PERFORMANCE EVALUATION PROCESS"
 				},
 				{
@@ -152886,6 +153171,18 @@
 				{
 					"date": "2/5/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "2/5/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "2/5/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "2/5/2024",
+					"name": "POSSESSION OR INGESTION OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONE, AND NUTRITIONAL SUPPLEMENTS"
 				},
 				{
 					"date": "2/5/2024",

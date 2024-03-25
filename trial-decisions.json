@@ -1596,12 +1596,12 @@
 			{
 				"last_name": "LALLI",
 				"first_name": "JESSICA",
-				"taxid": "934145"
+				"taxid": "943459"
 			},
 			{
 				"last_name": "SAINTGERARD",
 				"first_name": "TED",
-				"taxid": "943459"
+				"retired": true
 			},
 			{
 				"last_name": "TORRES",
@@ -11483,7 +11483,7 @@
 			{
 				"last_name": "ENCARNACION",
 				"first_name": "RAPHAEL",
-				"taxid": "938430"
+				"retired": true
 			}
 		]
 	},
@@ -14034,7 +14034,7 @@
 			{
 				"last_name": "SOSA",
 				"first_name": "JASMIN",
-				"taxid": "934197"
+				"retired": true
 			}
 		]
 	},
