@@ -2217,7 +2217,7 @@
 		"shield_no": "11942",
 		"appt_date": "7/10/2006",
 		"recognition_count": 3,
-		"arrest_count": 149,
+		"arrest_count": 150,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 4",
@@ -2238,10 +2238,14 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 5,
-				"misdemeanor": 133,
+				"misdemeanor": 134,
 				"violation": 11
 			},
 			"training": [
+				{
+					"date": "2/15/2024",
+					"name": "CLT-COUNTERTERRORISM AND INTELLIGENCE"
+				},
 				{
 					"date": "1/25/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
@@ -29721,7 +29725,7 @@
 		"shield_no": "18897",
 		"appt_date": "4/28/2021",
 		"recognition_count": 0,
-		"arrest_count": 34,
+		"arrest_count": 37,
 		"reports": {
 			"summary": {
 				"command": "072 PRECINCT",
@@ -36930,7 +36934,19 @@
 					"type": "Trial Decision"
 				}
 			],
-			"discipline": [],
+			"discipline": [
+				{
+					"entry": "12/30/2022 12:00:00 AM",
+					"allegations_count": 1,
+					"allegations": [
+						{
+							"recommendation": "NO DISCIPLINARY ACTION",
+							"case_no": "2022-26981",
+							"description": "01.Failed to prepare required reports."
+						}
+					]
+				}
+			],
 			"arrests": {
 				"infraction": 2,
 				"felony": 200,
@@ -36939,6 +36955,10 @@
 				"violation": 11
 			},
 			"training": [
+				{
+					"date": "2/27/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
 				{
 					"date": "1/8/2024",
 					"name": "FTS - ANNUAL CEW RECERTIFICATION"
@@ -37014,6 +37034,10 @@
 				{
 					"date": "7/16/2021",
 					"name": "DETECTIVE BUREAU INVESTIGATOR - SUPERVISOR FIVE DAY SEARCH WARRANT TACTICAL COURSE"
+				},
+				{
+					"date": "7/16/2021",
+					"name": "DETECTIVE BUREAU SEARCH WARRANT TRAINING"
 				},
 				{
 					"date": "7/13/2021",
