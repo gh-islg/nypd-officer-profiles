@@ -8242,6 +8242,42 @@
 			},
 			"training": [
 				{
+					"date": "3/28/2024",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
+				{
+					"date": "3/17/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "3/15/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "3/14/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "3/14/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "3/14/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
+					"date": "3/13/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "3/9/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "3/7/2024",
+					"name": "CLT-MEMBER-EMPLOYEE WELLNESS"
+				},
+				{
 					"date": "2/15/2024",
 					"name": "CLT-PROCEDURAL OPERATIONS"
 				},
@@ -12615,6 +12651,22 @@
 				"violation": 11
 			},
 			"training": [
+				{
+					"date": "3/26/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
+				{
+					"date": "3/19/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
+					"date": "3/14/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "3/11/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
 				{
 					"date": "3/6/2024",
 					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
@@ -24995,10 +25047,22 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 18,
-				"misdemeanor": 59,
+				"misdemeanor": 60,
 				"violation": 2
 			},
 			"training": [
+				{
+					"date": "3/21/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
+					"date": "3/19/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "3/12/2024",
+					"name": "CLT-ENFORCEMENT ACTIONS"
+				},
 				{
 					"date": "3/7/2024",
 					"name": "CLT-MEMBER-EMPLOYEE WELLNESS"
@@ -25010,6 +25074,10 @@
 				{
 					"date": "3/6/2024",
 					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "3/6/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
 				},
 				{
 					"date": "3/5/2024",
