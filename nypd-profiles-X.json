@@ -13860,6 +13860,22 @@
 			},
 			"training": [
 				{
+					"date": "3/21/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
+					"date": "3/21/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "3/20/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "3/20/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
 					"date": "3/4/2024",
 					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
 				},
@@ -17766,6 +17782,42 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "3/26/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
+					"date": "3/21/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "3/17/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "3/12/2024",
+					"name": "VEHICLE MOUNTED VIDEO SYSTEM"
+				},
+				{
+					"date": "3/11/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "3/11/2024",
+					"name": "ELDER ABUSE -2023 REFRESHER"
+				},
+				{
+					"date": "3/11/2024",
+					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
+				},
+				{
+					"date": "3/10/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "3/10/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
 				{
 					"date": "2/12/2024",
 					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
@@ -23763,10 +23815,46 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 5,
+				"felony": 6,
 				"misdemeanor": 21
 			},
 			"training": [
+				{
+					"date": "3/24/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "3/23/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "3/22/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
+					"date": "3/16/2024",
+					"name": "CLT-COUNTERTERRORISM AND INTELLIGENCE"
+				},
+				{
+					"date": "3/13/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "3/13/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "3/13/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "3/13/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
+					"date": "3/10/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
 				{
 					"date": "3/3/2024",
 					"name": "CLT-PROCEDURAL OPERATIONS"
@@ -25026,7 +25114,7 @@
 		"shield_no": "14466",
 		"appt_date": "7/13/2016",
 		"recognition_count": 0,
-		"arrest_count": 79,
+		"arrest_count": 80,
 		"reports": {
 			"summary": {
 				"command": "070 PRECINCT",
