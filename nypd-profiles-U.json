@@ -17474,6 +17474,10 @@
 			},
 			"training": [
 				{
+					"date": "3/28/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
 					"date": "3/8/2024",
 					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
 				},
@@ -21987,10 +21991,14 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 1,
-				"misdemeanor": 5
+				"felony": 2,
+				"misdemeanor": 10
 			},
 			"training": [
+				{
+					"date": "3/29/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
 				{
 					"date": "2/27/2024",
 					"name": "FTS - ANNUAL CEW RECERTIFICATION"
@@ -26815,6 +26823,14 @@
 				"misdemeanor": 2
 			},
 			"training": [
+				{
+					"date": "3/15/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "3/15/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
 				{
 					"date": "3/1/2024",
 					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
@@ -39627,7 +39643,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 44,
-				"misdemeanor": 36
+				"misdemeanor": 37
 			},
 			"training": [
 				{
@@ -41951,9 +41967,21 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 10,
-				"misdemeanor": 20
+				"misdemeanor": 23
 			},
 			"training": [
+				{
+					"date": "3/13/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "3/13/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "3/13/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
 				{
 					"date": "2/22/2024",
 					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
@@ -43546,7 +43574,7 @@
 		"shield_no": "24744",
 		"appt_date": "11/2/2020",
 		"recognition_count": 0,
-		"arrest_count": 16,
+		"arrest_count": 17,
 		"reports": {
 			"summary": {
 				"command": "068 PRECINCT",
@@ -47801,7 +47829,7 @@
 		"shield_no": "11914",
 		"appt_date": "10/18/2017",
 		"recognition_count": 3,
-		"arrest_count": 42,
+		"arrest_count": 43,
 		"reports": {
 			"summary": {
 				"command": "078 PRECINCT",
@@ -50063,20 +50091,7 @@
 				}
 			],
 			"documents": [],
-			"discipline": [
-				{
-					"entry": "9/14/2023 12:00:00 AM",
-					"allegations_count": 1,
-					"allegations": [
-						{
-							"recommendation": "TRAINING",
-							"case_no": "2023-27867",
-							"description": "01.Violated patrol rules.",
-							"penalty": "TRAINING"
-						}
-					]
-				}
-			],
+			"discipline": [],
 			"arrests": {
 				"felony": 35,
 				"misdemeanor": 98,
@@ -60033,7 +60048,7 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "7309",
 		"appt_date": "4/12/2017",
-		"recognition_count": 1,
+		"recognition_count": 2,
 		"arrest_count": 87,
 		"reports": {
 			"summary": {
@@ -84263,6 +84278,14 @@
 			},
 			"training": [
 				{
+					"date": "3/20/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "3/20/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
 					"date": "3/19/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
 				},
@@ -93897,7 +93920,7 @@
 		"shield_no": "28004",
 		"appt_date": "1/10/2018",
 		"recognition_count": 3,
-		"arrest_count": 56,
+		"arrest_count": 58,
 		"reports": {
 			"summary": {
 				"command": "108 PRECINCT",
@@ -99206,7 +99229,7 @@
 		"shield_no": "25758",
 		"appt_date": "11/2/2020",
 		"recognition_count": 0,
-		"arrest_count": 16,
+		"arrest_count": 18,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 7",
@@ -102673,10 +102696,26 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 5,
+				"felony": 6,
 				"misdemeanor": 20
 			},
 			"training": [
+				{
+					"date": "3/20/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
+					"date": "3/14/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "3/14/2024",
+					"name": "CLT-COUNTERTERRORISM AND INTELLIGENCE"
+				},
+				{
+					"date": "3/14/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
 				{
 					"date": "2/26/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
@@ -138698,7 +138737,7 @@
 		"shield_no": "30590",
 		"appt_date": "1/10/2018",
 		"recognition_count": 1,
-		"arrest_count": 36,
+		"arrest_count": 37,
 		"reports": {
 			"summary": {
 				"command": "104 PRECINCT",
