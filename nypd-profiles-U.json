@@ -41094,6 +41094,14 @@
 			},
 			"training": [
 				{
+					"date": "4/3/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "4/3/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
 					"date": "3/11/2024",
 					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
 				},
@@ -78860,12 +78868,24 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"infraction": 1,
-				"felony": 31,
-				"misdemeanor": 74,
-				"violation": 4
+				"infraction": 2,
+				"felony": 62,
+				"misdemeanor": 148,
+				"violation": 8
 			},
 			"training": [
+				{
+					"date": "3/28/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "3/28/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "3/28/2024",
+					"name": "VIPER CCTV TRAINING COURSE"
+				},
 				{
 					"date": "3/11/2024",
 					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
@@ -80137,6 +80157,14 @@
 			"awards": [
 				{
 					"date": "8/24/2007",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/24/2007",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/21/2006",
 					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
@@ -85769,7 +85797,7 @@
 		"shield_no": "28469",
 		"appt_date": "1/6/2020",
 		"recognition_count": 1,
-		"arrest_count": 75,
+		"arrest_count": 76,
 		"reports": {
 			"summary": {
 				"command": "110 PRECINCT",
@@ -85791,7 +85819,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 26,
-				"misdemeanor": 48
+				"misdemeanor": 49
 			},
 			"training": [
 				{
@@ -124480,18 +124508,16 @@
 				}
 			],
 			"documents": [],
-			"discipline": [
-				{
-					"entry": "10/18/2023 12:00:00 AM",
-					"allegations_count": 1,
-					"allegations": []
-				}
-			],
+			"discipline": [],
 			"arrests": {
 				"felony": 31,
 				"misdemeanor": 33
 			},
 			"training": [
+				{
+					"date": "3/22/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
 				{
 					"date": "3/21/2024",
 					"name": "AUGMENTED REALITY FEATURE"
@@ -133901,6 +133927,14 @@
 			},
 			"training": [
 				{
+					"date": "4/4/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
+					"date": "4/1/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
 					"date": "3/12/2024",
 					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
 				},
@@ -134927,6 +134961,14 @@
 				"misdemeanor": 139
 			},
 			"training": [
+				{
+					"date": "3/29/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "3/29/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
 				{
 					"date": "3/6/2024",
 					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
@@ -143393,6 +143435,22 @@
 				"violation": 3
 			},
 			"training": [
+				{
+					"date": "4/1/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS 2023: MODULE 5 SQF LEVELS 3 AND 4"
+				},
+				{
+					"date": "4/1/2024",
+					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
+				},
+				{
+					"date": "4/1/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
+					"date": "4/1/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
 				{
 					"date": "3/20/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
@@ -157402,8 +157460,8 @@
 		"rank": "DETECTIVE 1ST GRADE",
 		"shield_no": "5064",
 		"appt_date": "7/1/2003",
-		"recognition_count": 10,
-		"arrest_count": 264,
+		"recognition_count": 5,
+		"arrest_count": 132,
 		"reports": {
 			"summary": {
 				"command": "CHIEF CRIME CONTROL STRATEGIES",
