@@ -6503,6 +6503,22 @@
 			},
 			"training": [
 				{
+					"date": "4/5/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "3/27/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
+				{
+					"date": "3/26/2024",
+					"name": "FTS - CEW TASER 7 TRANSITION COURSE"
+				},
+				{
+					"date": "3/26/2024",
+					"name": "FTS - TASER 7 HOLSTER DISTRIBUTION"
+				},
+				{
 					"date": "3/21/2024",
 					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
 				},
@@ -20098,7 +20114,7 @@
 		"shield_no": "13943",
 		"appt_date": "1/10/2007",
 		"recognition_count": 1,
-		"arrest_count": 123,
+		"arrest_count": 124,
 		"reports": {
 			"summary": {
 				"command": "068 PRECINCT",
@@ -30014,6 +30030,22 @@
 				"misdemeanor": 18
 			},
 			"training": [
+				{
+					"date": "4/4/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
+					"date": "3/28/2024",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
+				{
+					"date": "3/26/2024",
+					"name": "CJB - OVERVIEW OF THE NEW DISCOVERY LAWS"
+				},
+				{
+					"date": "3/26/2024",
+					"name": "PATROL- POLYCARBONATE SHIELD"
+				},
 				{
 					"date": "3/21/2024",
 					"name": "ACTIVITY LOG FOR IPHONE"
