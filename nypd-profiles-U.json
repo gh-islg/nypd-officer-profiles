@@ -11944,10 +11944,14 @@
 			"arrests": {
 				"infraction": 2,
 				"felony": 10,
-				"misdemeanor": 35,
+				"misdemeanor": 37,
 				"violation": 7
 			},
 			"training": [
+				{
+					"date": "4/4/2024",
+					"name": "FUNDAMENTALS OF INSTRUCTION"
+				},
 				{
 					"date": "3/28/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
@@ -76386,6 +76390,10 @@
 			},
 			"training": [
 				{
+					"date": "4/5/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
 					"date": "3/21/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
 				},
@@ -122389,7 +122397,7 @@
 		"shield_no": "15259",
 		"appt_date": "1/8/2014",
 		"recognition_count": 2,
-		"arrest_count": 50,
+		"arrest_count": 51,
 		"reports": {
 			"summary": {
 				"command": "084 PRECINCT",
@@ -122409,11 +122417,19 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 14,
+				"felony": 15,
 				"misdemeanor": 33,
 				"violation": 3
 			},
 			"training": [
+				{
+					"date": "4/8/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/8/2024",
+					"name": "CLT-INTEGRITY, ETHICS AND DISCIPLINE"
+				},
 				{
 					"date": "3/22/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
