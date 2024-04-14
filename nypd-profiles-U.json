@@ -4242,6 +4242,10 @@
 			},
 			"training": [
 				{
+					"date": "3/31/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
 					"date": "3/21/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
 				},
@@ -9560,7 +9564,7 @@
 		"shield_no": "4036",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 44,
+		"arrest_count": 46,
 		"reports": {
 			"summary": {
 				"command": "060 PRECINCT",
@@ -9595,11 +9599,15 @@
 			],
 			"arrests": {
 				"infraction": 1,
-				"felony": 10,
-				"misdemeanor": 32,
+				"felony": 11,
+				"misdemeanor": 33,
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "4/2/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
 				{
 					"date": "3/22/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
@@ -30188,7 +30196,7 @@
 		"shield_no": "4607",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 29,
+		"arrest_count": 30,
 		"reports": {
 			"summary": {
 				"command": "041 PRECINCT",
@@ -30214,9 +30222,13 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 12,
-				"misdemeanor": 17
+				"misdemeanor": 18
 			},
 			"training": [
+				{
+					"date": "4/8/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "3/20/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
@@ -33767,7 +33779,7 @@
 		"shield_no": "14971",
 		"appt_date": "10/7/2015",
 		"recognition_count": 2,
-		"arrest_count": 85,
+		"arrest_count": 87,
 		"reports": {
 			"summary": {
 				"command": "023 PRECINCT",
@@ -68684,6 +68696,18 @@
 				"misdemeanor": 8
 			},
 			"training": [
+				{
+					"date": "4/11/2024",
+					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
+				},
+				{
+					"date": "4/11/2024",
+					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
+				},
+				{
+					"date": "4/11/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "3/20/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
@@ -104551,6 +104575,14 @@
 				"misdemeanor": 16
 			},
 			"training": [
+				{
+					"date": "4/8/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
+					"date": "3/30/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
 				{
 					"date": "3/18/2024",
 					"name": "CLT-COUNTERTERRORISM AND INTELLIGENCE"
@@ -148159,6 +148191,10 @@
 				"misdemeanor": 8
 			},
 			"training": [
+				{
+					"date": "4/9/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "3/27/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
