@@ -15012,6 +15012,42 @@
 			},
 			"training": [
 				{
+					"date": "4/6/2024",
+					"name": "CLT-ENFORCEMENT ACTIONS"
+				},
+				{
+					"date": "4/6/2024",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
+				{
+					"date": "4/5/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "4/5/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/5/2024",
+					"name": "CLT-PATROL TACTICS ROLLCALL TRAINING VIDEO SERIES"
+				},
+				{
+					"date": "4/5/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
+					"date": "4/3/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/3/2024",
+					"name": "CLT-PATROL TACTICS ROLLCALL TRAINING VIDEO SERIES"
+				},
+				{
+					"date": "4/3/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
 					"date": "3/29/2024",
 					"name": "CLT-DOCUMENTATION AND FORMS"
 				},
@@ -24172,6 +24208,30 @@
 			},
 			"training": [
 				{
+					"date": "4/10/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "4/9/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "4/9/2024",
+					"name": "CROSSFIRE MITIGATION DURING CLOSE COMBAT INCIDENTS - PART 2"
+				},
+				{
+					"date": "4/9/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "4/9/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
+					"date": "4/1/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
+				{
 					"date": "3/11/2024",
 					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
 				},
@@ -29325,6 +29385,22 @@
 				"misdemeanor": 6
 			},
 			"training": [
+				{
+					"date": "4/13/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
+					"date": "4/11/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
+					"date": "4/5/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "3/30/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
 				{
 					"date": "3/16/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
@@ -42523,25 +42599,20 @@
 				}
 			],
 			"documents": [],
-			"discipline": [
-				{
-					"entry": "2/25/2023 12:00:00 AM",
-					"allegations_count": 1,
-					"allegations": [
-						{
-							"recommendation": "B-CD",
-							"case_no": "2022-26983",
-							"description": "01.Failed to prepare required reports.",
-							"penalty": "B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )"
-						}
-					]
-				}
-			],
+			"discipline": [],
 			"arrests": {
 				"felony": 3,
 				"misdemeanor": 14
 			},
 			"training": [
+				{
+					"date": "4/15/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
+					"date": "4/12/2024",
+					"name": "CRISIS INTERVENTION TEAM TRAINING"
+				},
 				{
 					"date": "3/19/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
@@ -44508,26 +44579,17 @@
 				}
 			],
 			"documents": [],
-			"discipline": [
-				{
-					"entry": "7/7/2022 12:00:00 AM",
-					"allegations_count": 1,
-					"allegations": [
-						{
-							"recommendation": "TRAINING",
-							"case_no": "2020-22947",
-							"description": "01.Failed to process a civilian complaint.",
-							"penalty": "TRAINING"
-						}
-					]
-				}
-			],
+			"discipline": [],
 			"arrests": {
 				"infraction": 1,
 				"felony": 28,
 				"misdemeanor": 40
 			},
 			"training": [
+				{
+					"date": "4/4/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "3/5/2024",
 					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
@@ -59024,11 +59086,19 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 30,
+				"felony": 32,
 				"misdemeanor": 56,
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "4/12/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
+					"date": "4/5/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "3/19/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
@@ -98758,6 +98828,26 @@
 			},
 			"training": [
 				{
+					"date": "4/5/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
+					"date": "4/2/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "4/2/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "4/2/2024",
+					"name": "ELDER ABUSE -2023 REFRESHER"
+				},
+				{
+					"date": "4/2/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
 					"date": "3/14/2024",
 					"name": "CLT-COUNTERTERRORISM AND INTELLIGENCE"
 				},
@@ -99508,10 +99598,6 @@
 				{
 					"date": "4/18/2021",
 					"name": "HIGHWAY PRELIMINARY BREATH TEST INSTRUMENT TRAINING - PBT"
-				},
-				{
-					"date": "4/15/2021",
-					"name": "RECRUIT COLLISION REDUCTION INCENTIVE PROGRAM"
 				},
 				{
 					"date": "4/12/2021",
@@ -108856,11 +108942,15 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 23,
+				"felony": 24,
 				"misdemeanor": 108,
 				"other": 1
 			},
 			"training": [
+				{
+					"date": "4/2/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
 				{
 					"date": "3/26/2024",
 					"name": "FTS - CEW TASER 7 TRANSITION COURSE"
