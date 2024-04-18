@@ -13537,6 +13537,14 @@
 			},
 			"training": [
 				{
+					"date": "4/16/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/1/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
 					"date": "3/7/2024",
 					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
 				},
@@ -17574,6 +17582,18 @@
 			},
 			"training": [
 				{
+					"date": "4/14/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
+					"date": "4/8/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
+					"date": "4/2/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
 					"date": "3/28/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
 				},
@@ -20914,10 +20934,18 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 2,
-				"misdemeanor": 10
+				"felony": 1,
+				"misdemeanor": 5
 			},
 			"training": [
+				{
+					"date": "4/15/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
+					"date": "4/15/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "3/29/2024",
 					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
@@ -24182,26 +24210,7 @@
 				}
 			],
 			"documents": [],
-			"discipline": [
-				{
-					"entry": "5/20/2022 12:00:00 AM",
-					"allegations_count": 2,
-					"allegations": [
-						{
-							"recommendation": "A-CD",
-							"case_no": "2020-22835",
-							"description": "01.refused to provide name",
-							"penalty": "A - COMMAND DISCIPLINE, TRAINING"
-						},
-						{
-							"recommendation": "A-CD",
-							"case_no": "2020-22835",
-							"description": "02.refused to provide shield number",
-							"penalty": "A - COMMAND DISCIPLINE, TRAINING"
-						}
-					]
-				}
-			],
+			"discipline": [],
 			"arrests": {
 				"felony": 5,
 				"misdemeanor": 12
@@ -25770,6 +25779,18 @@
 				"misdemeanor": 2
 			},
 			"training": [
+				{
+					"date": "4/11/2024",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
+					"date": "4/11/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
+					"date": "4/3/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
 				{
 					"date": "3/15/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
@@ -38646,6 +38667,30 @@
 			},
 			"training": [
 				{
+					"date": "4/11/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "4/11/2024",
+					"name": "FTS - CEW TASER 7 TRANSITION COURSE"
+				},
+				{
+					"date": "4/11/2024",
+					"name": "FTS - TASER 7 HOLSTER DISTRIBUTION"
+				},
+				{
+					"date": "4/11/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
+					"date": "4/11/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
+					"date": "4/5/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
 					"date": "3/7/2024",
 					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
 				},
@@ -40977,6 +41022,14 @@
 				"misdemeanor": 23
 			},
 			"training": [
+				{
+					"date": "4/11/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
+					"date": "4/5/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "3/13/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
@@ -46847,6 +46900,14 @@
 			},
 			"training": [
 				{
+					"date": "4/6/2024",
+					"name": "CLT-INFORMATION TECHNOLOGY"
+				},
+				{
+					"date": "4/6/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
 					"date": "3/23/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
 				},
@@ -49091,6 +49152,22 @@
 				"violation": 7
 			},
 			"training": [
+				{
+					"date": "4/17/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "4/17/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "4/17/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
+					"date": "4/17/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "3/15/2024",
 					"name": "SPRINTER VAN QUALIFICATION"
@@ -59066,7 +59143,7 @@
 		"shield_no": "7309",
 		"appt_date": "4/12/2017",
 		"recognition_count": 2,
-		"arrest_count": 87,
+		"arrest_count": 89,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 7",
@@ -83383,9 +83460,17 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 27,
-				"misdemeanor": 25
+				"misdemeanor": 26
 			},
 			"training": [
+				{
+					"date": "4/17/2024",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
+					"date": "4/16/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "3/20/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
@@ -95683,9 +95768,13 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 13
+				"misdemeanor": 15
 			},
 			"training": [
+				{
+					"date": "4/3/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
 				{
 					"date": "3/27/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
@@ -100798,6 +100887,22 @@
 			},
 			"training": [
 				{
+					"date": "4/15/2024",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
+					"date": "4/11/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
+					"date": "4/11/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
+					"date": "4/11/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
 					"date": "3/8/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
 				},
@@ -102287,9 +102392,13 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 6,
-				"misdemeanor": 20
+				"misdemeanor": 21
 			},
 			"training": [
+				{
+					"date": "4/15/2024",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
 				{
 					"date": "3/20/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
@@ -108922,7 +109031,7 @@
 		"shield_no": "24715",
 		"appt_date": "10/11/2016",
 		"recognition_count": 0,
-		"arrest_count": 132,
+		"arrest_count": 133,
 		"reports": {
 			"summary": {
 				"command": "043 PRECINCT",
@@ -116305,6 +116414,10 @@
 			},
 			"training": [
 				{
+					"date": "4/9/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
 					"date": "3/19/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
 				},
@@ -119278,6 +119391,10 @@
 				"misdemeanor": 179
 			},
 			"training": [
+				{
+					"date": "4/4/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
 				{
 					"date": "3/21/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
@@ -138420,50 +138537,10 @@
 				}
 			],
 			"documents": [],
-			"discipline": [
-				{
-					"entry": "12/5/2022 12:00:00 AM",
-					"allegations_count": 2,
-					"allegations": [
-						{
-							"recommendation": "CHARGES AND SPECIFICATIONS",
-							"case_no": "2022-25297",
-							"description": "01.Wrongful removal to a hospital."
-						},
-						{
-							"recommendation": "CHARGES AND SPECIFICATIONS",
-							"case_no": "2022-25297",
-							"description": "02.Wrongfully used physical force."
-						}
-					]
-				},
-				{
-					"entry": "2/23/2023 12:00:00 AM",
-					"allegations_count": 1,
-					"allegations": [
-						{
-							"recommendation": "OTHER",
-							"case_no": "2022-25387",
-							"description": "01.Failed to prepare required reports."
-						}
-					]
-				},
-				{
-					"entry": "1/2/2024 12:00:00 AM",
-					"allegations_count": 1,
-					"allegations": [
-						{
-							"recommendation": "TRAINING",
-							"case_no": "2023-28577",
-							"description": "01.Wrongful entry of a premises.",
-							"penalty": "TRAINING"
-						}
-					]
-				}
-			],
+			"discipline": [],
 			"arrests": {
-				"felony": 13,
-				"misdemeanor": 24
+				"felony": 26,
+				"misdemeanor": 48
 			},
 			"training": [
 				{
@@ -140172,6 +140249,10 @@
 				}
 			],
 			"awards": [
+				{
+					"date": "3/25/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
 				{
 					"date": "3/25/2021",
 					"name": "EXCELLENT POLICE DUTY"

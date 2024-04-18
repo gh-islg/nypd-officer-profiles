@@ -17850,20 +17850,7 @@
 				}
 			],
 			"documents": [],
-			"discipline": [
-				{
-					"entry": "10/12/2023 12:00:00 AM",
-					"allegations_count": 1,
-					"allegations": [
-						{
-							"recommendation": "A-CD",
-							"case_no": "2023-28979",
-							"description": "01.Wrongfully discourteous to an individual known to the Department.",
-							"penalty": "A - COMMAND DISCIPLINE"
-						}
-					]
-				}
-			],
+			"discipline": [],
 			"arrests": {
 				"felony": 7,
 				"misdemeanor": 19,
@@ -28534,11 +28521,15 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 49,
-				"misdemeanor": 72,
+				"felony": 50,
+				"misdemeanor": 74,
 				"violation": 4
 			},
 			"training": [
+				{
+					"date": "4/3/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
 				{
 					"date": "3/2/2024",
 					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
