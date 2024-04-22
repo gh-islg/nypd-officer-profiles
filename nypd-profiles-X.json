@@ -6535,6 +6535,22 @@
 			},
 			"training": [
 				{
+					"date": "4/19/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/11/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/10/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
+					"date": "4/8/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
 					"date": "4/5/2024",
 					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
 				},
@@ -20231,10 +20247,14 @@
 			"arrests": {
 				"infraction": 3,
 				"felony": 17,
-				"misdemeanor": 100,
+				"misdemeanor": 101,
 				"violation": 4
 			},
 			"training": [
+				{
+					"date": "4/7/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "3/27/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
@@ -33634,6 +33654,14 @@
 				"violation": 2
 			},
 			"training": [
+				{
+					"date": "4/10/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "4/7/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "3/20/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
