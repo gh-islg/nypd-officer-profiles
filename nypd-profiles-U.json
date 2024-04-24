@@ -10860,6 +10860,10 @@
 			},
 			"training": [
 				{
+					"date": "4/16/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
 					"date": "3/16/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
 				},
@@ -35477,7 +35481,7 @@
 		"shield_no": "26074",
 		"appt_date": "12/29/2021",
 		"recognition_count": 0,
-		"arrest_count": 22,
+		"arrest_count": 24,
 		"reports": {
 			"summary": {
 				"command": "122 PRECINCT",
@@ -64932,6 +64936,38 @@
 				"violation": 8
 			},
 			"training": [
+				{
+					"date": "4/17/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "4/17/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "4/16/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "4/16/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
+					"date": "4/10/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/9/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
+					"date": "4/9/2024",
+					"name": "UNMANNED AIRCRAFT PERMIT: DRONES FOR PUBLIC USE"
+				},
+				{
+					"date": "4/8/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
 				{
 					"date": "4/1/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
@@ -102224,6 +102260,10 @@
 			},
 			"training": [
 				{
+					"date": "4/18/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
 					"date": "2/29/2024",
 					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
 				},
@@ -118416,6 +118456,10 @@
 			},
 			"training": [
 				{
+					"date": "4/8/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
 					"date": "3/14/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
 				},
@@ -126026,7 +126070,7 @@
 		"shield_no": "20097",
 		"appt_date": "1/10/2005",
 		"recognition_count": 0,
-		"arrest_count": 403,
+		"arrest_count": 405,
 		"reports": {
 			"summary": {
 				"command": "028 PRECINCT",

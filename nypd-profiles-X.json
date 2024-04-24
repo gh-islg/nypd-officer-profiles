@@ -2255,6 +2255,10 @@
 			},
 			"training": [
 				{
+					"date": "4/22/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
 					"date": "3/27/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
 				},
@@ -30157,7 +30161,7 @@
 		"shield_no": "18897",
 		"appt_date": "4/28/2021",
 		"recognition_count": 0,
-		"arrest_count": 37,
+		"arrest_count": 39,
 		"reports": {
 			"summary": {
 				"command": "072 PRECINCT",
@@ -37419,6 +37423,10 @@
 				"violation": 11
 			},
 			"training": [
+				{
+					"date": "4/8/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "2/27/2024",
 					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
