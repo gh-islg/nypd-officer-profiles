@@ -2301,6 +2301,10 @@
 					"name": "CLT-ENFORCEMENT ACTIONS"
 				},
 				{
+					"date": "3/25/2024",
+					"name": "CONTERTERRORISM BUREAU SITE PROTECTION THROUGH OBSERVATIONAL TECHNIQUES"
+				},
+				{
 					"date": "2/13/2024",
 					"name": "CLT-PROCEDURAL OPERATIONS"
 				},
@@ -5605,6 +5609,10 @@
 				"violation": 7
 			},
 			"training": [
+				{
+					"date": "4/15/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "4/7/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
@@ -27114,6 +27122,10 @@
 			},
 			"training": [
 				{
+					"date": "4/12/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
 					"date": "3/28/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
 				},
@@ -36473,6 +36485,10 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "4/23/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
 				{
 					"date": "4/5/2024",
 					"name": "POLICING THE SUBWAY 2024"
@@ -51779,6 +51795,10 @@
 			},
 			"training": [
 				{
+					"date": "4/9/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
+				{
 					"date": "4/6/2024",
 					"name": "POLICING THE SUBWAY 2024"
 				},
@@ -52769,6 +52789,18 @@
 				"violation": 13
 			},
 			"training": [
+				{
+					"date": "4/19/2024",
+					"name": "FTS - CEW TASER 7 TRANSITION COURSE"
+				},
+				{
+					"date": "4/19/2024",
+					"name": "FTS - TASER 7 HOLSTER DISTRIBUTION"
+				},
+				{
+					"date": "4/18/2024",
+					"name": "SELF-DEFENSE AND GRAPPLING TACTICS TRAINING COURSE"
+				},
 				{
 					"date": "4/9/2024",
 					"name": "EMPLOYEE ASSISTANCE UNIT-2021"
@@ -61029,6 +61061,18 @@
 			},
 			"training": [
 				{
+					"date": "4/18/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/18/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "4/8/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
 					"date": "4/2/2024",
 					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
 				},
@@ -64897,7 +64941,7 @@
 		"shield_no": "26224",
 		"appt_date": "1/7/2008",
 		"recognition_count": 0,
-		"arrest_count": 151,
+		"arrest_count": 152,
 		"reports": {
 			"summary": {
 				"command": "028 PRECINCT",
@@ -64932,7 +64976,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 39,
-				"misdemeanor": 103,
+				"misdemeanor": 104,
 				"violation": 8
 			},
 			"training": [
@@ -89826,6 +89870,10 @@
 			},
 			"training": [
 				{
+					"date": "4/19/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
 					"date": "4/2/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
 				},
@@ -97429,6 +97477,10 @@
 			},
 			"training": [
 				{
+					"date": "4/11/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
+				{
 					"date": "4/4/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
 				},
@@ -102229,7 +102281,7 @@
 		"shield_no": "5420",
 		"appt_date": "7/8/2008",
 		"recognition_count": 0,
-		"arrest_count": 416,
+		"arrest_count": 209,
 		"reports": {
 			"summary": {
 				"command": "088 DET SQUAD",
@@ -102254,9 +102306,9 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 200,
-				"misdemeanor": 200,
-				"violation": 16
+				"felony": 101,
+				"misdemeanor": 100,
+				"violation": 8
 			},
 			"training": [
 				{
@@ -127873,6 +127925,10 @@
 			},
 			"training": [
 				{
+					"date": "4/8/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
 					"date": "3/18/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
 				},
@@ -140584,7 +140640,31 @@
 			},
 			"training": [
 				{
+					"date": "4/24/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "4/23/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
+					"date": "4/23/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
+					"date": "4/23/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
+					"date": "4/20/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
 					"date": "4/5/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
+					"date": "3/27/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
 				},
 				{
@@ -150151,6 +150231,10 @@
 			},
 			"training": [
 				{
+					"date": "4/11/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
 					"date": "3/7/2024",
 					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
 				},
@@ -155956,7 +156040,7 @@
 		"shield_no": "6185",
 		"appt_date": "1/11/2010",
 		"recognition_count": 27,
-		"arrest_count": 352,
+		"arrest_count": 354,
 		"reports": {
 			"summary": {
 				"command": "070 PRECINCT",
@@ -155993,7 +156077,7 @@
 				}
 			],
 			"arrests": {
-				"felony": 155,
+				"felony": 157,
 				"misdemeanor": 159,
 				"other": 1,
 				"violation": 37
