@@ -8322,6 +8322,14 @@
 			},
 			"training": [
 				{
+					"date": "4/23/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/20/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
 					"date": "4/5/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
 				},
@@ -25341,11 +25349,19 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 18,
+				"felony": 19,
 				"misdemeanor": 60,
 				"violation": 2
 			},
 			"training": [
+				{
+					"date": "4/18/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/17/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
 				{
 					"date": "4/11/2024",
 					"name": "POLICING THE SUBWAY 2024"

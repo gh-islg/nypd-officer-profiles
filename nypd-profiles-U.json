@@ -4242,9 +4242,25 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 22,
-				"misdemeanor": 39
+				"misdemeanor": 40
 			},
 			"training": [
+				{
+					"date": "4/25/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/18/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
+					"date": "4/14/2024",
+					"name": "CLT-PROPERTY"
+				},
+				{
+					"date": "4/12/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
 				{
 					"date": "3/31/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
@@ -9590,25 +9606,11 @@
 				}
 			],
 			"documents": [],
-			"discipline": [
-				{
-					"entry": "8/17/2022 12:00:00 AM",
-					"charges_count": 1,
-					"charges": [
-						{
-							"disposition": "PLEADED GUILTY",
-							"command": "032-032 PRECINCT",
-							"case_no": "2021-23897",
-							"description": "failed to render police services.",
-							"penalty": "PRE-TRIAL SUSPENSION DAYS (32 day(s) ), VACATION DAYS (20 day(s) )"
-						}
-					]
-				}
-			],
+			"discipline": [],
 			"arrests": {
 				"infraction": 1,
 				"felony": 11,
-				"misdemeanor": 33,
+				"misdemeanor": 34,
 				"violation": 1
 			},
 			"training": [
@@ -15031,10 +15033,22 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 4,
-				"misdemeanor": 22
+				"felony": 8,
+				"misdemeanor": 44
 			},
 			"training": [
+				{
+					"date": "4/25/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
+					"date": "4/20/2024",
+					"name": "CLT-PATROL TACTICS ROLLCALL TRAINING VIDEO SERIES"
+				},
+				{
+					"date": "4/20/2024",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
 				{
 					"date": "4/6/2024",
 					"name": "CLT-ENFORCEMENT ACTIONS"
@@ -20277,6 +20291,10 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "4/17/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "3/20/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
@@ -31524,9 +31542,13 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 12,
-				"misdemeanor": 18
+				"misdemeanor": 19
 			},
 			"training": [
+				{
+					"date": "4/21/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
 				{
 					"date": "4/8/2024",
 					"name": "POLICING THE SUBWAY 2024"
@@ -43893,7 +43915,20 @@
 				}
 			],
 			"documents": [],
-			"discipline": [],
+			"discipline": [
+				{
+					"entry": "2/25/2023 12:00:00 AM",
+					"allegations_count": 1,
+					"allegations": [
+						{
+							"recommendation": "B-CD",
+							"case_no": "2022-26983",
+							"description": "01.Failed to prepare required reports.",
+							"penalty": "B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"felony": 3,
 				"misdemeanor": 14
@@ -100281,6 +100316,10 @@
 			},
 			"training": [
 				{
+					"date": "4/16/2024",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
 					"date": "4/5/2024",
 					"name": "POLICING THE SUBWAY 2024"
 				},
@@ -106147,6 +106186,18 @@
 			},
 			"training": [
 				{
+					"date": "4/20/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
+					"date": "4/19/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/19/2024",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
 					"date": "4/8/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
 				},
@@ -110440,6 +110491,10 @@
 				"other": 1
 			},
 			"training": [
+				{
+					"date": "4/17/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "4/2/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
@@ -131070,7 +131125,7 @@
 		"shield_no": "19573",
 		"appt_date": "7/8/2015",
 		"recognition_count": 13,
-		"arrest_count": 524,
+		"arrest_count": 525,
 		"reports": {
 			"summary": {
 				"command": "047 PRECINCT",
@@ -147020,7 +147075,7 @@
 		"shield_no": "19422",
 		"appt_date": "10/7/2015",
 		"recognition_count": 0,
-		"arrest_count": 50,
+		"arrest_count": 51,
 		"reports": {
 			"summary": {
 				"command": "001 PRECINCT",
@@ -150008,6 +150063,18 @@
 				"misdemeanor": 8
 			},
 			"training": [
+				{
+					"date": "4/25/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "4/25/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/24/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
 				{
 					"date": "4/9/2024",
 					"name": "POLICING THE SUBWAY 2024"
@@ -154520,7 +154587,7 @@
 		"shield_no": "13541",
 		"appt_date": "7/9/2014",
 		"recognition_count": 5,
-		"arrest_count": 104,
+		"arrest_count": 106,
 		"reports": {
 			"summary": {
 				"command": "STRATEGIC RESP GRP 3 BROOKLYN",
