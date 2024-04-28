@@ -17950,6 +17950,14 @@
 			},
 			"training": [
 				{
+					"date": "4/24/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "4/24/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
 					"date": "3/26/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
 				},
@@ -25329,7 +25337,7 @@
 		"shield_no": "14466",
 		"appt_date": "7/13/2016",
 		"recognition_count": 0,
-		"arrest_count": 80,
+		"arrest_count": 81,
 		"reports": {
 			"summary": {
 				"command": "070 PRECINCT",
@@ -28629,7 +28637,7 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 50,
+				"felony": 51,
 				"misdemeanor": 74,
 				"violation": 4
 			},
