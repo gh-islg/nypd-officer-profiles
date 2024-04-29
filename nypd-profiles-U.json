@@ -13530,7 +13530,7 @@
 		"shield_no": "12096",
 		"appt_date": "4/25/2018",
 		"recognition_count": 0,
-		"arrest_count": 43,
+		"arrest_count": 45,
 		"reports": {
 			"summary": {
 				"command": "028 PRECINCT",
@@ -39932,7 +39932,7 @@
 		"shield_no": "2808",
 		"appt_date": "4/15/2019",
 		"recognition_count": 0,
-		"arrest_count": 84,
+		"arrest_count": 86,
 		"reports": {
 			"summary": {
 				"command": "034 PRECINCT",
@@ -50456,7 +50456,20 @@
 				}
 			],
 			"documents": [],
-			"discipline": [],
+			"discipline": [
+				{
+					"entry": "9/14/2023 12:00:00 AM",
+					"allegations_count": 1,
+					"allegations": [
+						{
+							"recommendation": "TRAINING",
+							"case_no": "2023-27867",
+							"description": "01.Violated patrol rules.",
+							"penalty": "TRAINING"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"felony": 35,
 				"misdemeanor": 98,
@@ -84865,7 +84878,7 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 27,
+				"felony": 28,
 				"misdemeanor": 26
 			},
 			"training": [
@@ -92319,6 +92332,10 @@
 			},
 			"training": [
 				{
+					"date": "4/23/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
 					"date": "3/20/2024",
 					"name": "2023 SUMMER ALL-OUT BODY WORN CAMERA TRAINING"
 				},
@@ -95009,7 +95026,7 @@
 		"shield_no": "28004",
 		"appt_date": "1/10/2018",
 		"recognition_count": 3,
-		"arrest_count": 58,
+		"arrest_count": 59,
 		"reports": {
 			"summary": {
 				"command": "108 PRECINCT",
@@ -140234,8 +140251,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "30590",
 		"appt_date": "1/10/2018",
-		"recognition_count": 2,
-		"arrest_count": 74,
+		"recognition_count": 1,
+		"arrest_count": 38,
 		"reports": {
 			"summary": {
 				"command": "104 PRECINCT",
@@ -143566,10 +143583,10 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"infraction": 1,
-				"felony": 219,
-				"misdemeanor": 132,
-				"violation": 1
+				"infraction": 2,
+				"felony": 438,
+				"misdemeanor": 264,
+				"violation": 2
 			},
 			"training": [
 				{
@@ -145585,6 +145602,10 @@
 				"violation": 9
 			},
 			"training": [
+				{
+					"date": "4/23/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
 				{
 					"date": "4/17/2024",
 					"name": "CLT-SPECIAL POPULATIONS"
