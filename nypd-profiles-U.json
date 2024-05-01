@@ -45305,6 +45305,10 @@
 			},
 			"training": [
 				{
+					"date": "4/24/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
 					"date": "3/12/2024",
 					"name": "LGBTQIA PLUS - DIVERSITY AND INCLUSION"
 				},
@@ -55492,8 +55496,8 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 41,
-				"misdemeanor": 97
+				"felony": 82,
+				"misdemeanor": 194
 			},
 			"training": [
 				{
@@ -56664,6 +56668,14 @@
 				{
 					"date": "4/25/2007",
 					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/25/2007",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/5/2006",
+					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
 					"date": "8/5/2006",
@@ -79429,12 +79441,16 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"infraction": 1,
-				"felony": 31,
-				"misdemeanor": 74,
-				"violation": 4
+				"infraction": 2,
+				"felony": 62,
+				"misdemeanor": 148,
+				"violation": 8
 			},
 			"training": [
+				{
+					"date": "4/23/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
 				{
 					"date": "4/11/2024",
 					"name": "POLICING THE SUBWAY 2024"
@@ -80729,6 +80745,14 @@
 					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
+					"date": "8/24/2007",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/21/2006",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
 					"date": "12/21/2006",
 					"name": "MERITORIOUS POLICE DUTY"
 				}
@@ -80772,6 +80796,10 @@
 				"violation": 20
 			},
 			"training": [
+				{
+					"date": "4/21/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "3/15/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
@@ -86382,7 +86410,7 @@
 		"shield_no": "28469",
 		"appt_date": "1/6/2020",
 		"recognition_count": 1,
-		"arrest_count": 77,
+		"arrest_count": 78,
 		"reports": {
 			"summary": {
 				"command": "110 PRECINCT",
@@ -86403,7 +86431,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 27,
+				"felony": 28,
 				"misdemeanor": 49
 			},
 			"training": [
@@ -125819,8 +125847,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "24649",
 		"appt_date": "7/5/2017",
-		"recognition_count": 10,
-		"arrest_count": 130,
+		"recognition_count": 5,
+		"arrest_count": 66,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 7",
@@ -136364,6 +136392,14 @@
 			},
 			"training": [
 				{
+					"date": "4/28/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "4/28/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
 					"date": "4/12/2024",
 					"name": "POLICING THE SUBWAY 2024"
 				},
@@ -145069,6 +145105,10 @@
 				"violation": 3
 			},
 			"training": [
+				{
+					"date": "4/23/2024",
+					"name": "CPR-AED CARDIOPULMONARY RESUSCITATION-AUTOMATED EXTERNAL DEFIBRILLATOR REFRESHER"
+				},
 				{
 					"date": "4/9/2024",
 					"name": "POLICING THE SUBWAY 2024"
@@ -156112,6 +156152,34 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "4/28/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "4/28/2024",
+					"name": "AUGMENTED REALITY FEATURE"
+				},
+				{
+					"date": "4/28/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
+					"date": "4/28/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
+					"date": "4/28/2024",
+					"name": "NYPD RECRUITMENT TRAINING VIDEO"
+				},
+				{
+					"date": "4/28/2024",
+					"name": "OPIOID DANGERS- FENTANYL AND CARFENTANIL"
+				},
+				{
+					"date": "4/28/2024",
+					"name": "VEHICLE MOUNTED VIDEO SYSTEM"
+				},
 				{
 					"date": "4/12/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
