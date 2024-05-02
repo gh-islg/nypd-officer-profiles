@@ -55475,8 +55475,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "6794",
 		"appt_date": "7/1/2003",
-		"recognition_count": 2,
-		"arrest_count": 138,
+		"recognition_count": 4,
+		"arrest_count": 276,
 		"reports": {
 			"summary": {
 				"command": "120 PRECINCT",
@@ -75858,6 +75858,10 @@
 			},
 			"training": [
 				{
+					"date": "4/24/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
+				{
 					"date": "4/11/2024",
 					"name": "POLICING THE SUBWAY 2024"
 				},
@@ -78613,6 +78617,10 @@
 			},
 			"training": [
 				{
+					"date": "4/26/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
 					"date": "4/5/2024",
 					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
 				},
@@ -79331,6 +79339,14 @@
 			],
 			"awards": [
 				{
+					"date": "11/18/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/12/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "9/2/2019",
 					"name": "HONORABLE MENTION"
 				},
@@ -79415,8 +79431,8 @@
 		"rank": "SERGEANT",
 		"shield_no": "4060",
 		"appt_date": "1/10/2005",
-		"recognition_count": 2,
-		"arrest_count": 110,
+		"recognition_count": 4,
+		"arrest_count": 220,
 		"reports": {
 			"summary": {
 				"command": "BRONX COURT SECTION",
@@ -135357,6 +135373,14 @@
 			},
 			"training": [
 				{
+					"date": "4/26/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "4/26/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
 					"date": "4/4/2024",
 					"name": "POLICING THE SUBWAY 2024"
 				},
@@ -149440,6 +149464,10 @@
 			},
 			"training": [
 				{
+					"date": "4/29/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
 					"date": "12/28/2023",
 					"name": "2023 LANGUAGE MATTERS - FOSTERING A POSITIVE WORK ENVIRONMENT"
 				},
@@ -152675,6 +152703,22 @@
 				"violation": 4
 			},
 			"training": [
+				{
+					"date": "4/30/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/26/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "4/26/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/26/2024",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
 				{
 					"date": "4/2/2024",
 					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
