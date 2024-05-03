@@ -6547,6 +6547,26 @@
 			},
 			"training": [
 				{
+					"date": "5/1/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "4/29/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/27/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "4/27/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
+					"date": "4/26/2024",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
 					"date": "4/19/2024",
 					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
 				},
@@ -30230,6 +30250,10 @@
 			},
 			"training": [
 				{
+					"date": "4/23/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
 					"date": "4/7/2024",
 					"name": "POLICING THE SUBWAY 2024"
 				},
@@ -33706,6 +33730,18 @@
 				"violation": 2
 			},
 			"training": [
+				{
+					"date": "5/1/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/1/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "5/1/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
 				{
 					"date": "4/10/2024",
 					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
