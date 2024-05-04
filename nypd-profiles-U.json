@@ -40,6 +40,10 @@
 			},
 			"training": [
 				{
+					"date": "5/1/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
 					"date": "4/5/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
 				},
@@ -2296,6 +2300,26 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "4/27/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "4/27/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/27/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "4/27/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
+					"date": "4/27/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "3/28/2024",
 					"name": "CLT-ENFORCEMENT ACTIONS"
@@ -33285,6 +33309,34 @@
 			},
 			"training": [
 				{
+					"date": "4/30/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "4/30/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "4/30/2024",
+					"name": "CLT-PROPERTY"
+				},
+				{
+					"date": "4/30/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
+					"date": "4/29/2024",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
+					"date": "4/29/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
+				{
+					"date": "4/26/2024",
+					"name": "CLT-COUNTERTERRORISM AND INTELLIGENCE"
+				},
+				{
 					"date": "4/5/2024",
 					"name": "POLICING THE SUBWAY 2024"
 				},
@@ -36775,6 +36827,14 @@
 				"misdemeanor": 19
 			},
 			"training": [
+				{
+					"date": "4/30/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/29/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
 				{
 					"date": "4/11/2024",
 					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
@@ -62377,6 +62437,10 @@
 			},
 			"training": [
 				{
+					"date": "5/3/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
 					"date": "4/18/2024",
 					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
 				},
@@ -66258,27 +66322,18 @@
 				}
 			],
 			"documents": [],
-			"discipline": [
-				{
-					"entry": "6/27/2022 12:00:00 AM",
-					"allegations_count": 1,
-					"allegations": [
-						{
-							"recommendation": "B-CD",
-							"case_no": "2022-25756",
-							"description": "01.Wrongfully used physical force.",
-							"penalty": "B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )"
-						}
-					]
-				}
-			],
+			"discipline": [],
 			"arrests": {
 				"infraction": 1,
 				"felony": 39,
-				"misdemeanor": 104,
+				"misdemeanor": 105,
 				"violation": 8
 			},
 			"training": [
+				{
+					"date": "5/2/2024",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
 				{
 					"date": "4/17/2024",
 					"name": "CLT-DOCUMENTATION AND FORMS"
@@ -73742,19 +73797,7 @@
 				}
 			],
 			"documents": [],
-			"discipline": [
-				{
-					"entry": "8/9/2022 12:00:00 AM",
-					"allegations_count": 1,
-					"allegations": [
-						{
-							"recommendation": "OTHER",
-							"case_no": "2022-26236",
-							"description": "01.Failed to timely activate their body worn camera."
-						}
-					]
-				}
-			],
+			"discipline": [],
 			"arrests": {
 				"infraction": 2,
 				"felony": 63,
@@ -93778,6 +93821,14 @@
 				"violation": 2
 			},
 			"training": [
+				{
+					"date": "5/2/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "4/25/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
 				{
 					"date": "4/7/2024",
 					"name": "POLICING THE SUBWAY 2024"
@@ -116826,7 +116877,7 @@
 		"shield_no": "4845",
 		"appt_date": "10/12/2021",
 		"recognition_count": 0,
-		"arrest_count": 12,
+		"arrest_count": 15,
 		"reports": {
 			"summary": {
 				"command": "034 PRECINCT",
@@ -119906,6 +119957,14 @@
 				"violation": 3
 			},
 			"training": [
+				{
+					"date": "4/28/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "4/28/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
 				{
 					"date": "4/8/2024",
 					"name": "POLICING THE SUBWAY 2024"
@@ -151863,21 +151922,7 @@
 				}
 			],
 			"documents": [],
-			"discipline": [
-				{
-					"entry": "7/2/2019 12:00:00 AM",
-					"charges_count": 1,
-					"charges": [
-						{
-							"disposition": "GUILTY",
-							"command": "574-WORLD TRADE CENTER COMMAND",
-							"case_no": "2019-20500",
-							"description": "WRONGFULLY ALLOWED HIS RESIDENTIAL ADDRESS TO BE USED BY ANOTHER AS HIS RESIDENTIAL ADDRESS, THEREBY CAUSING INACCURATE ENTRIES IN DEPARTMENT RECORDS.",
-							"penalty": "VACATION DAYS (20 day(s) )"
-						}
-					]
-				}
-			],
+			"discipline": [],
 			"arrests": {
 				"felony": 3,
 				"misdemeanor": 164,
@@ -157792,15 +157837,31 @@
 							"description": "01.Wrongfully searched a vehicle."
 						}
 					]
+				},
+				{
+					"entry": "5/1/2024 12:00:00 AM",
+					"allegations_count": 1,
+					"allegations": [
+						{
+							"recommendation": "TRAINING",
+							"case_no": "2022-24954",
+							"description": "01.Failed to prepare required reports.",
+							"penalty": "TRAINING"
+						}
+					]
 				}
 			],
 			"arrests": {
-				"felony": 157,
-				"misdemeanor": 159,
+				"felony": 159,
+				"misdemeanor": 160,
 				"other": 1,
 				"violation": 37
 			},
 			"training": [
+				{
+					"date": "5/3/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
 				{
 					"date": "4/5/2024",
 					"name": "POLICING THE SUBWAY 2024"
