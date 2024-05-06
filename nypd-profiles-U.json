@@ -5650,6 +5650,14 @@
 			},
 			"training": [
 				{
+					"date": "4/28/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "4/28/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
 					"date": "4/15/2024",
 					"name": "POLICING THE SUBWAY 2024"
 				},
@@ -11994,6 +12002,10 @@
 				"violation": 7
 			},
 			"training": [
+				{
+					"date": "5/2/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
 				{
 					"date": "4/14/2024",
 					"name": "CLT-SPECIAL POPULATIONS"
@@ -19088,6 +19100,10 @@
 				"violation": 9
 			},
 			"training": [
+				{
+					"date": "4/26/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "4/23/2024",
 					"name": "CLT-PROCEDURAL OPERATIONS"
@@ -37804,6 +37820,18 @@
 			},
 			"training": [
 				{
+					"date": "5/2/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/2/2024",
+					"name": "DRIVE SMART 2024"
+				},
+				{
+					"date": "4/28/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
 					"date": "4/23/2024",
 					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
 				},
@@ -53147,6 +53175,18 @@
 			},
 			"training": [
 				{
+					"date": "5/3/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "4/30/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "4/30/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
 					"date": "4/9/2024",
 					"name": "FTS - ANNUAL CEW RECERTIFICATION"
 				},
@@ -54141,6 +54181,14 @@
 				"violation": 13
 			},
 			"training": [
+				{
+					"date": "5/3/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/3/2024",
+					"name": "CLT-PROPERTY"
+				},
 				{
 					"date": "4/19/2024",
 					"name": "FTS - CEW TASER 7 TRANSITION COURSE"
@@ -64607,11 +64655,15 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 95,
+				"felony": 97,
 				"misdemeanor": 225,
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "4/26/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "4/11/2024",
 					"name": "CLT-PROCEDURAL OPERATIONS"
@@ -66304,7 +66356,7 @@
 		"shield_no": "26224",
 		"appt_date": "1/7/2008",
 		"recognition_count": 0,
-		"arrest_count": 152,
+		"arrest_count": 153,
 		"reports": {
 			"summary": {
 				"command": "028 PRECINCT",
@@ -91260,6 +91312,22 @@
 			},
 			"training": [
 				{
+					"date": "5/1/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/1/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/1/2024",
+					"name": "DRIVE SMART 2024"
+				},
+				{
+					"date": "5/1/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
 					"date": "4/19/2024",
 					"name": "POLICING THE SUBWAY 2024"
 				},
@@ -92706,6 +92774,30 @@
 				"violation": 2
 			},
 			"training": [
+				{
+					"date": "4/30/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "4/30/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "4/30/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "4/30/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
+					"date": "4/30/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
+					"date": "4/30/2024",
+					"name": "POLICING THE SUBWAY 2024"
+				},
 				{
 					"date": "2/19/2024",
 					"name": "AUTISM SPECTRUM DISORDER"
@@ -123256,6 +123348,22 @@
 			},
 			"training": [
 				{
+					"date": "5/3/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "5/1/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/1/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "4/30/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
 					"date": "4/15/2024",
 					"name": "CLT-SPECIAL POPULATIONS"
 				},
@@ -138025,31 +138133,20 @@
 				}
 			],
 			"documents": [],
-			"discipline": [
-				{
-					"entry": "3/25/2023 12:00:00 AM",
-					"allegations_count": 2,
-					"allegations": [
-						{
-							"recommendation": "A-CD",
-							"case_no": "2022-27416",
-							"description": "01.Wrongfully discourteous to an individual known to the Department.",
-							"penalty": "A - COMMAND DISCIPLINE"
-						},
-						{
-							"recommendation": "A-CD",
-							"case_no": "2022-27416",
-							"description": "02.Wrongfully discourteous.",
-							"penalty": "A - COMMAND DISCIPLINE"
-						}
-					]
-				}
-			],
+			"discipline": [],
 			"arrests": {
 				"felony": 15,
 				"misdemeanor": 95
 			},
 			"training": [
+				{
+					"date": "5/3/2024",
+					"name": "DRIVE SMART 2024"
+				},
+				{
+					"date": "5/2/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
 				{
 					"date": "4/23/2024",
 					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
@@ -157803,7 +157900,7 @@
 		"shield_no": "6185",
 		"appt_date": "1/11/2010",
 		"recognition_count": 27,
-		"arrest_count": 354,
+		"arrest_count": 357,
 		"reports": {
 			"summary": {
 				"command": "070 PRECINCT",
@@ -160786,6 +160883,22 @@
 			},
 			"training": [
 				{
+					"date": "5/2/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/2/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "4/25/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/25/2024",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
 					"date": "4/24/2024",
 					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
 				},
@@ -161532,14 +161645,6 @@
 				{
 					"date": "5/6/2022",
 					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
-				},
-				{
-					"date": "5/5/2022",
-					"name": "BLASTT OR CPR"
-				},
-				{
-					"date": "5/5/2022",
-					"name": "BLASTT – BASIC LIFE SUPPORT AND TRAUMA TREATMENT"
 				},
 				{
 					"date": "5/5/2022",
