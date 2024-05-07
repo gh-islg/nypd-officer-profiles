@@ -9642,7 +9642,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 11,
-				"misdemeanor": 34,
+				"misdemeanor": 35,
 				"violation": 1
 			},
 			"training": [
@@ -20965,8 +20965,8 @@
 		"arrest_count": 32,
 		"reports": {
 			"summary": {
-				"command": "067 PRECINCT",
-				"assignment_date": "9/13/2021",
+				"command": "PATROL BORO BKLYN SOUTH",
+				"assignment_date": "5/1/2024",
 				"ethnicity": "ASIAN",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "18087",
@@ -22165,7 +22165,7 @@
 			],
 			"awards": []
 		},
-		"command": "067 PRECINCT"
+		"command": "PATROL BORO BKLYN SOUTH"
 	},
 	{
 		"taxid": 967706,
@@ -31617,9 +31617,17 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 12,
-				"misdemeanor": 19
+				"misdemeanor": 20
 			},
 			"training": [
+				{
+					"date": "5/4/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/4/2024",
+					"name": "DRIVE SMART 2024"
+				},
 				{
 					"date": "4/21/2024",
 					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
@@ -35227,10 +35235,22 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 25,
-				"misdemeanor": 58,
+				"misdemeanor": 59,
 				"violation": 4
 			},
 			"training": [
+				{
+					"date": "5/3/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "4/28/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "4/26/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
 				{
 					"date": "4/20/2024",
 					"name": "CLT-DOCUMENTATION AND FORMS"
@@ -64635,7 +64655,7 @@
 		"shield_no": "19935",
 		"appt_date": "7/8/2015",
 		"recognition_count": 16,
-		"arrest_count": 321,
+		"arrest_count": 323,
 		"reports": {
 			"summary": {
 				"command": "040 PRECINCT",
@@ -70350,6 +70370,10 @@
 			},
 			"training": [
 				{
+					"date": "5/1/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
 					"date": "4/11/2024",
 					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
 				},
@@ -71712,6 +71736,14 @@
 				"misdemeanor": 39
 			},
 			"training": [
+				{
+					"date": "5/5/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/5/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
 				{
 					"date": "4/17/2024",
 					"name": "CLT-PROCEDURAL OPERATIONS"
@@ -110759,6 +110791,18 @@
 			},
 			"training": [
 				{
+					"date": "5/3/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/2/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/2/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
 					"date": "4/17/2024",
 					"name": "POLICING THE SUBWAY 2024"
 				},
@@ -131383,7 +131427,7 @@
 		"shield_no": "19573",
 		"appt_date": "7/8/2015",
 		"recognition_count": 13,
-		"arrest_count": 525,
+		"arrest_count": 527,
 		"reports": {
 			"summary": {
 				"command": "047 PRECINCT",
@@ -131403,10 +131447,26 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 215,
+				"felony": 217,
 				"misdemeanor": 310
 			},
 			"training": [
+				{
+					"date": "5/1/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "4/30/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "4/30/2024",
+					"name": "CLT-LEGAL ISSUES"
+				},
+				{
+					"date": "4/30/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
 				{
 					"date": "4/24/2024",
 					"name": "CLT-LEGAL ISSUES"
@@ -150550,6 +150610,18 @@
 				"misdemeanor": 8
 			},
 			"training": [
+				{
+					"date": "5/2/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/2/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/2/2024",
+					"name": "DRIVE SMART 2024"
+				},
 				{
 					"date": "4/25/2024",
 					"name": "CLT-BWC POLICY UPDATES"
