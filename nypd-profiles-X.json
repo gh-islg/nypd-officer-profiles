@@ -14056,6 +14056,14 @@
 			},
 			"training": [
 				{
+					"date": "5/6/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/6/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
 					"date": "4/12/2024",
 					"name": "CLT-SPECIAL POPULATIONS"
 				},
@@ -17988,6 +17996,10 @@
 				{
 					"date": "4/24/2024",
 					"name": "POLICING THE SUBWAY 2024"
+				},
+				{
+					"date": "4/21/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
 				},
 				{
 					"date": "3/26/2024",
@@ -25373,7 +25385,7 @@
 		"shield_no": "14466",
 		"appt_date": "7/13/2016",
 		"recognition_count": 0,
-		"arrest_count": 81,
+		"arrest_count": 82,
 		"reports": {
 			"summary": {
 				"command": "070 PRECINCT",
