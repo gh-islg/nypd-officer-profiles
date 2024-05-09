@@ -28693,11 +28693,15 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 51,
-				"misdemeanor": 74,
-				"violation": 4
+				"felony": 102,
+				"misdemeanor": 148,
+				"violation": 8
 			},
 			"training": [
+				{
+					"date": "5/6/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
 				{
 					"date": "4/19/2024",
 					"name": "POLICING THE SUBWAY 2024"
