@@ -55753,8 +55753,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "6794",
 		"appt_date": "7/1/2003",
-		"recognition_count": 4,
-		"arrest_count": 276,
+		"recognition_count": 2,
+		"arrest_count": 138,
 		"reports": {
 			"summary": {
 				"command": "120 PRECINCT",
@@ -76172,6 +76172,22 @@
 			},
 			"training": [
 				{
+					"date": "5/8/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/8/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "5/8/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/8/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
 					"date": "4/24/2024",
 					"name": "FTS - ANNUAL CEW RECERTIFICATION"
 				},
@@ -79771,12 +79787,28 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"infraction": 2,
-				"felony": 62,
-				"misdemeanor": 148,
-				"violation": 8
+				"infraction": 1,
+				"felony": 31,
+				"misdemeanor": 74,
+				"violation": 4
 			},
 			"training": [
+				{
+					"date": "5/10/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/4/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/4/2024",
+					"name": "DRIVE SMART 2024"
+				},
+				{
+					"date": "5/1/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
 				{
 					"date": "4/23/2024",
 					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
@@ -81072,14 +81104,6 @@
 			"awards": [
 				{
 					"date": "8/24/2007",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "8/24/2007",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "12/21/2006",
 					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
@@ -82598,6 +82622,10 @@
 				"violation": 115
 			},
 			"training": [
+				{
+					"date": "5/6/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
 				{
 					"date": "4/18/2024",
 					"name": "POLICING THE SUBWAY 2024"
@@ -138629,6 +138657,14 @@
 			},
 			"training": [
 				{
+					"date": "5/1/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/1/2024",
+					"name": "DRIVE SMART 2024"
+				},
+				{
 					"date": "4/26/2024",
 					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
 				},
@@ -139671,6 +139707,14 @@
 				"misdemeanor": 139
 			},
 			"training": [
+				{
+					"date": "5/5/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/5/2024",
+					"name": "DRIVE SMART 2024"
+				},
 				{
 					"date": "4/28/2024",
 					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
@@ -159345,6 +159389,18 @@
 			},
 			"training": [
 				{
+					"date": "5/6/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/6/2024",
+					"name": "DRIVE SMART 2024"
+				},
+				{
+					"date": "5/6/2024",
+					"name": "INFORMATION SECURITY AWARENESS TRAINING - 2023"
+				},
+				{
 					"date": "4/28/2024",
 					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
 				},
@@ -163020,6 +163076,22 @@
 				"violation": 4
 			},
 			"training": [
+				{
+					"date": "5/6/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/6/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/6/2024",
+					"name": "DRIVE SMART 2024"
+				},
+				{
+					"date": "5/6/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
 				{
 					"date": "4/17/2024",
 					"name": "SPRINTER VAN QUALIFICATION"
