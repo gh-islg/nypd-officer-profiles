@@ -2263,6 +2263,10 @@
 			},
 			"training": [
 				{
+					"date": "5/11/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
 					"date": "4/22/2024",
 					"name": "POLICING THE SUBWAY 2024"
 				},
@@ -6555,6 +6559,18 @@
 			},
 			"training": [
 				{
+					"date": "5/14/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "5/6/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "5/2/2024",
+					"name": "CLT-PROPERTY"
+				},
+				{
 					"date": "5/1/2024",
 					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
 				},
@@ -8354,6 +8370,14 @@
 			},
 			"training": [
 				{
+					"date": "5/13/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "5/10/2024",
+					"name": "CLT-ENFORCEMENT ACTIONS"
+				},
+				{
 					"date": "4/23/2024",
 					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
 				},
@@ -9774,6 +9798,34 @@
 				"violation": 53
 			},
 			"training": [
+				{
+					"date": "5/9/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/9/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/9/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
+					"date": "5/8/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
+				{
+					"date": "5/3/2024",
+					"name": "CLT-PROPERTY"
+				},
+				{
+					"date": "5/2/2024",
+					"name": "FTS - CEW TASER 7 TRANSITION COURSE"
+				},
+				{
+					"date": "5/2/2024",
+					"name": "FTS - TASER 7 HOLSTER DISTRIBUTION"
+				},
 				{
 					"date": "4/18/2024",
 					"name": "CLT-CRIME CONTROL STRATEGIES AND PROBLEM SOLVING"
@@ -12814,7 +12866,7 @@
 		"shield_no": "3037",
 		"appt_date": "7/9/2014",
 		"recognition_count": 3,
-		"arrest_count": 65,
+		"arrest_count": 67,
 		"reports": {
 			"summary": {
 				"command": "ATU LATE TOUR PATROL TD 1",
@@ -12835,10 +12887,30 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 52,
+				"misdemeanor": 54,
 				"violation": 11
 			},
 			"training": [
+				{
+					"date": "5/15/2024",
+					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
+				},
+				{
+					"date": "5/9/2024",
+					"name": "CPR-AED CARDIOPULMONARY RESUSCITATION-AUTOMATED EXTERNAL DEFIBRILLATOR REFRESHER"
+				},
+				{
+					"date": "5/8/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/8/2024",
+					"name": "DRIVE SMART 2024"
+				},
+				{
+					"date": "5/6/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
 				{
 					"date": "4/26/2024",
 					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
@@ -16480,6 +16552,26 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "5/15/2024",
+					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
+				},
+				{
+					"date": "5/8/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/8/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/8/2024",
+					"name": "DRIVE SMART 2024"
+				},
+				{
+					"date": "5/8/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
 				{
 					"date": "4/7/2024",
 					"name": "POLICING THE SUBWAY 2024"
@@ -20314,7 +20406,7 @@
 		"shield_no": "13943",
 		"appt_date": "1/10/2007",
 		"recognition_count": 1,
-		"arrest_count": 125,
+		"arrest_count": 126,
 		"reports": {
 			"summary": {
 				"command": "068 PRECINCT",
@@ -20335,11 +20427,27 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 3,
-				"felony": 17,
+				"felony": 18,
 				"misdemeanor": 101,
 				"violation": 4
 			},
 			"training": [
+				{
+					"date": "5/10/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/9/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/9/2024",
+					"name": "DRIVE SMART 2024"
+				},
+				{
+					"date": "5/2/2024",
+					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
+				},
 				{
 					"date": "4/7/2024",
 					"name": "POLICING THE SUBWAY 2024"
@@ -21823,6 +21931,34 @@
 				"violation": 16
 			},
 			"training": [
+				{
+					"date": "5/17/2024",
+					"name": "CHILD SENSITIVE ARREST POLICY GUIDELINES AND PROCEDURES"
+				},
+				{
+					"date": "5/17/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "5/11/2024",
+					"name": "CLT-ENFORCEMENT ACTIONS"
+				},
+				{
+					"date": "5/11/2024",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
+					"date": "5/10/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/10/2024",
+					"name": "DRIVE SMART 2024"
+				},
+				{
+					"date": "5/7/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
 				{
 					"date": "5/1/2024",
 					"name": "CLT-PROCEDURAL OPERATIONS"
@@ -30278,7 +30414,7 @@
 		"shield_no": "18897",
 		"appt_date": "4/28/2021",
 		"recognition_count": 0,
-		"arrest_count": 39,
+		"arrest_count": 41,
 		"reports": {
 			"summary": {
 				"command": "072 PRECINCT",
@@ -30299,7 +30435,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 19,
-				"misdemeanor": 20
+				"misdemeanor": 22
 			},
 			"training": [
 				{
@@ -31531,6 +31667,10 @@
 				"violation": 2
 			},
 			"training": [
+				{
+					"date": "5/15/2024",
+					"name": "HME - HOMEMADE EXPLOSIVES: AWARENESS, RECOGNITION, AND RESPONSE"
+				},
 				{
 					"date": "3/4/2024",
 					"name": "EFFECTIVE COMMUNICATION SKILLS - DEAF OR HARD OF HEARING"
@@ -33783,6 +33923,14 @@
 				"violation": 2
 			},
 			"training": [
+				{
+					"date": "5/3/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/3/2024",
+					"name": "DRIVE SMART 2024"
+				},
 				{
 					"date": "5/1/2024",
 					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
@@ -37539,7 +37687,19 @@
 					"type": "Trial Decision"
 				}
 			],
-			"discipline": [],
+			"discipline": [
+				{
+					"entry": "12/30/2022 12:00:00 AM",
+					"allegations_count": 1,
+					"allegations": [
+						{
+							"recommendation": "NO DISCIPLINARY ACTION",
+							"case_no": "2022-26981",
+							"description": "01.Failed to prepare required reports."
+						}
+					]
+				}
+			],
 			"arrests": {
 				"infraction": 2,
 				"felony": 200,
