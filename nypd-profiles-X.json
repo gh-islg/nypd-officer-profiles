@@ -14132,6 +14132,10 @@
 			},
 			"training": [
 				{
+					"date": "5/9/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
 					"date": "5/6/2024",
 					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
 				},
@@ -24231,10 +24235,22 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 6,
+				"felony": 7,
 				"misdemeanor": 22
 			},
 			"training": [
+				{
+					"date": "5/16/2024",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
+				{
+					"date": "5/14/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "4/24/2024",
+					"name": "CLT-PROCEDURAL OPERATIONS"
+				},
 				{
 					"date": "4/8/2024",
 					"name": "POLICING THE SUBWAY 2024"
@@ -25563,6 +25579,18 @@
 				"violation": 2
 			},
 			"training": [
+				{
+					"date": "5/13/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "5/10/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
+					"date": "5/9/2024",
+					"name": "1-DAY LAW ENFORCEMENT ACTIVE SHOOTER EMERGENCY RESPONSE (PER-375-C)"
+				},
 				{
 					"date": "5/2/2024",
 					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
@@ -37681,6 +37709,11 @@
 				}
 			],
 			"documents": [
+				{
+					"date": "3/11/2024",
+					"url": "https://oip.nypdonline.org/files/948160_03112024_2024025.pdf",
+					"type": "Trial Decision"
+				},
 				{
 					"date": "6/9/2017",
 					"url": "https://oip.nypdonline.org/files/948160_06092017_2017112.pdf",
