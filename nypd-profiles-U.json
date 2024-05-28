@@ -13682,12 +13682,29 @@
 				}
 			],
 			"documents": [],
-			"discipline": [],
+			"discipline": [
+				{
+					"entry": "5/3/2024 12:00:00 AM",
+					"allegations_count": 1,
+					"allegations": [
+						{
+							"recommendation": "TRAINING",
+							"case_no": "2023-29136",
+							"description": "01.Violated patrol rules.",
+							"penalty": "TRAINING"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"felony": 11,
 				"misdemeanor": 34
 			},
 			"training": [
+				{
+					"date": "5/14/2024",
+					"name": "CLT-SPECIAL POPULATIONS"
+				},
 				{
 					"date": "4/30/2024",
 					"name": "CLT-DOCUMENTATION AND FORMS"
@@ -43091,6 +43108,10 @@
 			},
 			"training": [
 				{
+					"date": "5/23/2024",
+					"name": "CLT-PROPERTY"
+				},
+				{
 					"date": "5/2/2024",
 					"name": "CLT-UNIFORMS, PERSONAL APPEARANCE AND EQUIPMENT"
 				},
@@ -45080,13 +45101,34 @@
 				}
 			],
 			"documents": [],
-			"discipline": [],
+			"discipline": [
+				{
+					"entry": "7/7/2022 12:00:00 AM",
+					"allegations_count": 1,
+					"allegations": [
+						{
+							"recommendation": "TRAINING",
+							"case_no": "2020-22947",
+							"description": "01.Failed to process a civilian complaint.",
+							"penalty": "TRAINING"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"infraction": 1,
 				"felony": 28,
 				"misdemeanor": 40
 			},
 			"training": [
+				{
+					"date": "5/14/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "5/14/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
 				{
 					"date": "5/2/2024",
 					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
@@ -130421,6 +130463,10 @@
 			},
 			"training": [
 				{
+					"date": "5/14/2024",
+					"name": "CLT-PROPERTY"
+				},
+				{
 					"date": "5/6/2024",
 					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
 				},
@@ -144265,6 +144311,14 @@
 				"violation": 21
 			},
 			"training": [
+				{
+					"date": "5/20/2024",
+					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
+				},
+				{
+					"date": "5/13/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
 				{
 					"date": "4/11/2024",
 					"name": "POLICING THE SUBWAY 2024"
