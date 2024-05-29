@@ -41926,6 +41926,10 @@
 			},
 			"training": [
 				{
+					"date": "5/25/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
 					"date": "5/9/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
 				},
@@ -56185,6 +56189,34 @@
 			},
 			"training": [
 				{
+					"date": "5/24/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "5/19/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/19/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
+					"date": "5/13/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "5/13/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "5/12/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/12/2024",
+					"name": "DRIVE SMART 2024"
+				},
+				{
 					"date": "5/8/2024",
 					"name": "CLT-INFORMATION TECHNOLOGY"
 				},
@@ -67514,7 +67546,7 @@
 		"shield_no": "13921",
 		"appt_date": "4/15/2019",
 		"recognition_count": 6,
-		"arrest_count": 75,
+		"arrest_count": 82,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 7",
@@ -71901,7 +71933,7 @@
 				}
 			],
 			"arrests": {
-				"felony": 10,
+				"felony": 11,
 				"misdemeanor": 39,
 				"violation": 1
 			},
@@ -152411,6 +152443,10 @@
 			},
 			"training": [
 				{
+					"date": "5/15/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
 					"date": "4/13/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
 				},
@@ -152957,10 +152993,6 @@
 				{
 					"date": "5/22/2019",
 					"name": "SRG - RESCUE TASK FORCE"
-				},
-				{
-					"date": "5/7/2019",
-					"name": "COUNTERTERRORISM CBRNE-HAZMAT OPERATIONS LEVEL REFRESHER TRAINING"
 				},
 				{
 					"date": "4/26/2019",
@@ -162783,6 +162815,18 @@
 			},
 			"training": [
 				{
+					"date": "5/14/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/14/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/14/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
 					"date": "4/13/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
 				},
@@ -167496,6 +167540,22 @@
 				"misdemeanor": 9
 			},
 			"training": [
+				{
+					"date": "5/20/2024",
+					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
+				},
+				{
+					"date": "5/20/2024",
+					"name": "DEPLOYMENT OF ILLUMINATION TOOLS, STRATEGIES OF LOW LIGHT OPERATIONS - PATROL"
+				},
+				{
+					"date": "5/20/2024",
+					"name": "DRIVE SMART 2024"
+				},
+				{
+					"date": "5/13/2024",
+					"name": "FTS - ANNUAL CEW RECERTIFICATION"
+				},
 				{
 					"date": "4/25/2024",
 					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
