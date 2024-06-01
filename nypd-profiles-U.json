@@ -40,6 +40,10 @@
 			},
 			"training": [
 				{
+					"date": "5/17/2024",
+					"name": "CHILD SENSITIVE ARREST POLICY GUIDELINES AND PROCEDURES"
+				},
+				{
 					"date": "5/8/2024",
 					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
 				},
@@ -23239,6 +23243,10 @@
 			},
 			"training": [
 				{
+					"date": "5/17/2024",
+					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
+				},
+				{
 					"date": "5/11/2024",
 					"name": "DRIVE SMART 2024"
 				},
@@ -31118,6 +31126,18 @@
 			},
 			"training": [
 				{
+					"date": "5/22/2024",
+					"name": "CPR-AED CARDIOPULMONARY RESUSCITATION-AUTOMATED EXTERNAL DEFIBRILLATOR REFRESHER"
+				},
+				{
+					"date": "5/17/2024",
+					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
+				},
+				{
+					"date": "5/17/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
 					"date": "4/30/2024",
 					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
 				},
@@ -34656,6 +34676,22 @@
 				"misdemeanor": 20
 			},
 			"training": [
+				{
+					"date": "5/26/2024",
+					"name": "AUTISM SPECTRUM DISORDER"
+				},
+				{
+					"date": "5/26/2024",
+					"name": "EMPLOYEE ASSISTANCE UNIT (E.A.U.) IS HERE FOR YOU- 2024"
+				},
+				{
+					"date": "5/23/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "5/19/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
 				{
 					"date": "4/30/2024",
 					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
@@ -104792,6 +104828,14 @@
 			},
 			"training": [
 				{
+					"date": "5/23/2024",
+					"name": "CPS BODY-WORN CAMERA TRAINING WITH SCENARIOS"
+				},
+				{
+					"date": "5/18/2024",
+					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
+				},
+				{
 					"date": "5/11/2024",
 					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
 				},
@@ -117979,6 +118023,14 @@
 				"violation": 7
 			},
 			"training": [
+				{
+					"date": "5/17/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/17/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
 				{
 					"date": "5/6/2024",
 					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
@@ -142639,7 +142691,7 @@
 		"shield_no": "14336",
 		"appt_date": "1/10/2007",
 		"recognition_count": 1,
-		"arrest_count": 59,
+		"arrest_count": 60,
 		"reports": {
 			"summary": {
 				"command": "PBSI FERRY SECURITY UNIT",
