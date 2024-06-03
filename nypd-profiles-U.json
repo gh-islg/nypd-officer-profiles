@@ -5706,6 +5706,10 @@
 			},
 			"training": [
 				{
+					"date": "5/22/2024",
+					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
+				},
+				{
 					"date": "5/5/2024",
 					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
 				},
@@ -9738,7 +9742,7 @@
 		"first_name": "JASIM",
 		"last_name": "UDDIN",
 		"middle_initial": "",
-		"rank": "SERGEANT",
+		"rank": "SGT SPECIAL ASSIGN",
 		"shield_no": "147",
 		"appt_date": "7/6/2010",
 		"recognition_count": 2,
@@ -9748,7 +9752,7 @@
 				"command": "TRN BUR CMD LVL TRAINING SECT",
 				"assignment_date": "8/21/2023",
 				"ethnicity": "ASIAN",
-				"rank_desc": "SERGEANT",
+				"rank_desc": "SGT SPECIAL ASSIGN",
 				"shield_no": "147",
 				"appt_date": "7/6/2010"
 			},
@@ -35717,6 +35721,10 @@
 			},
 			"training": [
 				{
+					"date": "5/29/2024",
+					"name": "TACTICS WHEN ENGAGING INDIVIDUALS IN A MENTAL HEALTH CRISIS"
+				},
+				{
 					"date": "5/15/2024",
 					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
 				},
@@ -52201,12 +52209,16 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"infraction": 2,
-				"felony": 12,
-				"misdemeanor": 78,
-				"violation": 26
+				"infraction": 1,
+				"felony": 6,
+				"misdemeanor": 39,
+				"violation": 13
 			},
 			"training": [
+				{
+					"date": "5/21/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
 				{
 					"date": "5/3/2024",
 					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
@@ -84838,6 +84850,14 @@
 				"violation": 6
 			},
 			"training": [
+				{
+					"date": "5/30/2024",
+					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
+				},
+				{
+					"date": "5/30/2024",
+					"name": "TACTICS WHEN ENGAGING INDIVIDUALS IN A MENTAL HEALTH CRISIS"
+				},
 				{
 					"date": "5/1/2024",
 					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
@@ -120991,11 +121011,11 @@
 		"rank": "SERGEANT",
 		"shield_no": "2748",
 		"appt_date": "1/14/2009",
-		"recognition_count": 44,
-		"arrest_count": 366,
+		"recognition_count": 22,
+		"arrest_count": 183,
 		"reports": {
 			"summary": {
-				"command": "QAD DATA INTEGRITY UNIT",
+				"command": "QAS DATA INTEGRITY UNIT",
 				"assignment_date": "3/20/2019",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "SERGEANT",
@@ -122952,7 +122972,7 @@
 				}
 			]
 		},
-		"command": "QAD DATA INTEGRITY UNIT"
+		"command": "QAS DATA INTEGRITY UNIT"
 	},
 	{
 		"taxid": 959324,
@@ -133373,6 +133393,22 @@
 				"violation": 5
 			},
 			"training": [
+				{
+					"date": "6/1/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "6/1/2024",
+					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
+				},
+				{
+					"date": "6/1/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "6/1/2024",
+					"name": "TACTICS WHEN ENGAGING INDIVIDUALS IN A MENTAL HEALTH CRISIS"
+				},
 				{
 					"date": "5/18/2024",
 					"name": "CLT-DOCUMENTATION AND FORMS"
@@ -149034,7 +149070,7 @@
 		"shield_no": "6185",
 		"appt_date": "1/11/2010",
 		"recognition_count": 27,
-		"arrest_count": 360,
+		"arrest_count": 363,
 		"reports": {
 			"summary": {
 				"command": "070 PRECINCT",
