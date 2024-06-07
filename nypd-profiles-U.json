@@ -14933,6 +14933,10 @@
 			},
 			"training": [
 				{
+					"date": "5/26/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
 					"date": "5/22/2024",
 					"name": "DRIVE SMART 2024"
 				},
@@ -19526,6 +19530,42 @@
 				"misdemeanor": 7
 			},
 			"training": [
+				{
+					"date": "6/4/2024",
+					"name": "NYCHA INTERIOR PATROL: SQF MODULE 7"
+				},
+				{
+					"date": "5/29/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "5/29/2024",
+					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
+				},
+				{
+					"date": "5/29/2024",
+					"name": "TACTICS WHEN ENGAGING INDIVIDUALS IN A MENTAL HEALTH CRISIS"
+				},
+				{
+					"date": "5/25/2024",
+					"name": "2024 VEHICLE SEIZURE FORM REFRESHER"
+				},
+				{
+					"date": "5/25/2024",
+					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
+				},
+				{
+					"date": "5/25/2024",
+					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"
+				},
+				{
+					"date": "5/25/2024",
+					"name": "DRIVE SMART 2024"
+				},
+				{
+					"date": "5/21/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
 				{
 					"date": "5/15/2024",
 					"name": "CLT-BWC POLICY UPDATES"
@@ -36264,8 +36304,8 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 54,
-				"misdemeanor": 43
+				"felony": 56,
+				"misdemeanor": 44
 			},
 			"training": [
 				{
@@ -80277,7 +80317,7 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 29,
+				"felony": 30,
 				"misdemeanor": 27
 			},
 			"training": [
@@ -98068,6 +98108,10 @@
 				"misdemeanor": 23
 			},
 			"training": [
+				{
+					"date": "5/30/2024",
+					"name": "CLT-LEGAL ISSUES"
+				},
 				{
 					"date": "5/16/2024",
 					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
