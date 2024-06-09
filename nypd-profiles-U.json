@@ -10808,6 +10808,14 @@
 			},
 			"training": [
 				{
+					"date": "6/5/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "5/29/2024",
+					"name": "CLT - OATH VS. CRIMINAL COURT SUMMONS ROLL CALL TRAINING"
+				},
+				{
 					"date": "5/14/2024",
 					"name": "CLT-SPECIAL POPULATIONS"
 				},
@@ -41677,6 +41685,10 @@
 				{
 					"date": "5/23/2024",
 					"name": "CLT-PROPERTY"
+				},
+				{
+					"date": "5/14/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
 				},
 				{
 					"date": "5/2/2024",
@@ -133274,6 +133286,14 @@
 				"misdemeanor": 95
 			},
 			"training": [
+				{
+					"date": "6/3/2024",
+					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
+				},
+				{
+					"date": "6/3/2024",
+					"name": "TACTICS WHEN ENGAGING INDIVIDUALS IN A MENTAL HEALTH CRISIS"
+				},
 				{
 					"date": "5/14/2024",
 					"name": "CLT-PROPERTY"
