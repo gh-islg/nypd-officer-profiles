@@ -34230,6 +34230,10 @@
 			},
 			"training": [
 				{
+					"date": "6/7/2024",
+					"name": "TACTICS WHEN ENGAGING INDIVIDUALS IN A MENTAL HEALTH CRISIS"
+				},
+				{
 					"date": "5/15/2024",
 					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
 				},
@@ -85184,6 +85188,10 @@
 			},
 			"training": [
 				{
+					"date": "6/10/2024",
+					"name": "TACTICS WHEN ENGAGING INDIVIDUALS IN A MENTAL HEALTH CRISIS"
+				},
+				{
 					"date": "5/15/2024",
 					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
 				},
@@ -87689,7 +87697,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 3,
-				"felony": 149,
+				"felony": 150,
 				"misdemeanor": 154,
 				"other": 1,
 				"violation": 10
@@ -101352,6 +101360,14 @@
 				"violation": 1
 			},
 			"training": [
+				{
+					"date": "6/1/2024",
+					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
+				},
+				{
+					"date": "5/30/2024",
+					"name": "TACTICS WHEN ENGAGING INDIVIDUALS IN A MENTAL HEALTH CRISIS"
+				},
 				{
 					"date": "5/11/2024",
 					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
@@ -116606,10 +116622,22 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 28,
-				"misdemeanor": 75,
+				"misdemeanor": 76,
 				"violation": 2
 			},
 			"training": [
+				{
+					"date": "6/7/2024",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
+				{
+					"date": "6/4/2024",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
+				{
+					"date": "6/4/2024",
+					"name": "DRIVE SMART 2024"
+				},
 				{
 					"date": "5/28/2024",
 					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
