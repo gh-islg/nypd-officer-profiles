@@ -59042,7 +59042,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 12,
-				"misdemeanor": 95
+				"misdemeanor": 96
 			},
 			"training": [
 				{
@@ -70604,6 +70604,18 @@
 				"violation": 14
 			},
 			"training": [
+				{
+					"date": "6/7/2024",
+					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
+				},
+				{
+					"date": "6/7/2024",
+					"name": "TACTICS WHEN ENGAGING INDIVIDUALS IN A MENTAL HEALTH CRISIS"
+				},
+				{
+					"date": "5/17/2024",
+					"name": "ILERSBA - INITIAL LAW ENFORCMENT RESPONSE TO SUICIDE BOMBING ATTACKS"
+				},
 				{
 					"date": "5/10/2024",
 					"name": "INVESTIGATIVE ENCOUNTERS SUMMARY: SQF MODULE 6"
@@ -88525,6 +88537,14 @@
 				"violation": 2
 			},
 			"training": [
+				{
+					"date": "6/2/2024",
+					"name": "DRIVE SMART 2024"
+				},
+				{
+					"date": "6/2/2024",
+					"name": "TACTICS WHEN ENGAGING INDIVIDUALS IN A MENTAL HEALTH CRISIS"
+				},
 				{
 					"date": "5/19/2024",
 					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
@@ -147506,8 +147526,8 @@
 				}
 			],
 			"arrests": {
-				"felony": 164,
-				"misdemeanor": 161,
+				"felony": 166,
+				"misdemeanor": 162,
 				"other": 1,
 				"violation": 37
 			},
