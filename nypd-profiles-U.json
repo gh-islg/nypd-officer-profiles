@@ -5718,6 +5718,10 @@
 			},
 			"training": [
 				{
+					"date": "6/9/2024",
+					"name": "TACTICS WHEN ENGAGING INDIVIDUALS IN A MENTAL HEALTH CRISIS"
+				},
+				{
 					"date": "5/22/2024",
 					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
 				},
@@ -49700,6 +49704,10 @@
 			},
 			"training": [
 				{
+					"date": "6/3/2024",
+					"name": "TACTICS WHEN ENGAGING INDIVIDUALS IN A MENTAL HEALTH CRISIS"
+				},
+				{
 					"date": "5/17/2024",
 					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
 				},
@@ -50714,6 +50722,10 @@
 				"violation": 13
 			},
 			"training": [
+				{
+					"date": "6/11/2024",
+					"name": "DRIVE SMART 2024"
+				},
 				{
 					"date": "5/21/2024",
 					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
@@ -59021,7 +59033,7 @@
 		"shield_no": "22877",
 		"appt_date": "7/8/2008",
 		"recognition_count": 1,
-		"arrest_count": 107,
+		"arrest_count": 108,
 		"reports": {
 			"summary": {
 				"command": "045 PRECINCT",
@@ -65745,6 +65757,10 @@
 				"violation": 2
 			},
 			"training": [
+				{
+					"date": "6/6/2024",
+					"name": "TACTICS WHEN ENGAGING INDIVIDUALS IN A MENTAL HEALTH CRISIS"
+				},
 				{
 					"date": "5/16/2024",
 					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
@@ -85915,7 +85931,7 @@
 			"arrests": {
 				"infraction": 13,
 				"felony": 26,
-				"misdemeanor": 78,
+				"misdemeanor": 80,
 				"violation": 6
 			},
 			"training": [
@@ -116791,7 +116807,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 15,
-				"misdemeanor": 33,
+				"misdemeanor": 35,
 				"violation": 3
 			},
 			"training": [
@@ -135405,6 +135421,22 @@
 			},
 			"training": [
 				{
+					"date": "6/14/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "6/10/2024",
+					"name": "CLT-ENFORCEMENT ACTIONS"
+				},
+				{
+					"date": "6/9/2024",
+					"name": "CLT-PROPERTY"
+				},
+				{
+					"date": "6/7/2024",
+					"name": "CLT-ENFORCEMENT ACTIONS"
+				},
+				{
 					"date": "6/1/2024",
 					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
 				},
@@ -147477,7 +147509,7 @@
 		"shield_no": "6185",
 		"appt_date": "1/11/2010",
 		"recognition_count": 27,
-		"arrest_count": 363,
+		"arrest_count": 366,
 		"reports": {
 			"summary": {
 				"command": "070 PRECINCT",
