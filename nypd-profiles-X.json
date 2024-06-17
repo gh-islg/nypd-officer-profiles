@@ -8446,10 +8446,26 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 4,
+				"felony": 5,
 				"misdemeanor": 13
 			},
 			"training": [
+				{
+					"date": "6/6/2024",
+					"name": "CLT-ENFORCEMENT ACTIONS"
+				},
+				{
+					"date": "6/5/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "6/5/2024",
+					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
+				},
+				{
+					"date": "6/5/2024",
+					"name": "TACTICS WHEN ENGAGING INDIVIDUALS IN A MENTAL HEALTH CRISIS"
+				},
 				{
 					"date": "6/2/2024",
 					"name": "CLT-DOCUMENTATION AND FORMS"
@@ -24425,6 +24441,14 @@
 			},
 			"training": [
 				{
+					"date": "6/8/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "6/8/2024",
+					"name": "DRIVE SMART 2024"
+				},
+				{
 					"date": "5/24/2024",
 					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
 				},
@@ -25768,6 +25792,22 @@
 				"violation": 2
 			},
 			"training": [
+				{
+					"date": "6/13/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "6/11/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "6/5/2024",
+					"name": "FTS - CEW TASER 7 TRANSITION COURSE"
+				},
+				{
+					"date": "6/5/2024",
+					"name": "FTS - TASER 7 HOLSTER DISTRIBUTION"
+				},
 				{
 					"date": "5/29/2024",
 					"name": "ASSISTING SURVIVORS OF SEXUAL BASED VIOLENCE WITH ACCESS TO RESOURCES"

@@ -14052,9 +14052,33 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 22
+				"misdemeanor": 23
 			},
 			"training": [
+				{
+					"date": "6/6/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "6/6/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "6/6/2024",
+					"name": "CLT-LEGAL ISSUES"
+				},
+				{
+					"date": "6/6/2024",
+					"name": "CLT-PATROL TACTICS ROLLCALL TRAINING VIDEO SERIES"
+				},
+				{
+					"date": "6/5/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "6/5/2024",
+					"name": "CLT-TACTICAL AWARENESS AND OFFICER SAFETY"
+				},
 				{
 					"date": "6/3/2024",
 					"name": "TACTICS WHEN ENGAGING INDIVIDUALS IN A MENTAL HEALTH CRISIS"
@@ -28674,6 +28698,10 @@
 			},
 			"training": [
 				{
+					"date": "6/13/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
 					"date": "5/28/2024",
 					"name": "HOUSING BUREAU INTERIOR PATROL TACTICS"
 				},
@@ -29597,6 +29625,10 @@
 				"misdemeanor": 20
 			},
 			"training": [
+				{
+					"date": "6/9/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
 				{
 					"date": "5/26/2024",
 					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
@@ -68794,6 +68826,14 @@
 			},
 			"training": [
 				{
+					"date": "6/10/2024",
+					"name": "2024 EQUAL EMPLOYMENT OPPORTUNITY TRAINING - SEXUAL HARASSMENT AWARENESS AND PREVENTION"
+				},
+				{
+					"date": "6/10/2024",
+					"name": "TACTICS WHEN ENGAGING INDIVIDUALS IN A MENTAL HEALTH CRISIS"
+				},
+				{
 					"date": "5/15/2024",
 					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
 				},
@@ -101517,9 +101557,33 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 16
+				"misdemeanor": 18
 			},
 			"training": [
+				{
+					"date": "6/5/2024",
+					"name": "CLT-BWC POLICY UPDATES"
+				},
+				{
+					"date": "6/5/2024",
+					"name": "CLT-DOCUMENTATION AND FORMS"
+				},
+				{
+					"date": "6/5/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
+				{
+					"date": "6/5/2024",
+					"name": "CLT-ENFORCEMENT ACTIONS"
+				},
+				{
+					"date": "6/5/2024",
+					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
+				},
+				{
+					"date": "6/5/2024",
+					"name": "CLT-PROPERTY"
+				},
 				{
 					"date": "6/1/2024",
 					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
@@ -105857,11 +105921,15 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 24,
-				"misdemeanor": 108,
+				"felony": 25,
+				"misdemeanor": 110,
 				"other": 1
 			},
 			"training": [
+				{
+					"date": "6/6/2024",
+					"name": "DRIVE SMART 2024"
+				},
 				{
 					"date": "5/8/2024",
 					"name": "CLT-OCCUPATIONAL-WORKPLACE SAFETY AND HEALTH"
@@ -126728,7 +126796,7 @@
 		"shield_no": "19573",
 		"appt_date": "7/8/2015",
 		"recognition_count": 13,
-		"arrest_count": 539,
+		"arrest_count": 544,
 		"reports": {
 			"summary": {
 				"command": "047 PRECINCT",
@@ -143828,9 +143896,14 @@
 			"documents": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 8
+				"felony": 1,
+				"misdemeanor": 9
 			},
 			"training": [
+				{
+					"date": "6/13/2024",
+					"name": "CLT-DOMESTIC VIOLENCE TRAINING"
+				},
 				{
 					"date": "5/29/2024",
 					"name": "ACCURATE COMPLAINT REPORT CLASSIFICATION"
